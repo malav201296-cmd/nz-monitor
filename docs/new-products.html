@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NZ Electronics Monitor — New Products</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d2e;
+      --card: #22263a;
+      --border: #2e3350;
+      --accent: #6c63ff;
+      --accent2: #00d4aa;
+      --danger: #ff4757;
+      --text: #e8eaf6;
+      --muted: #8892b0;
+      --green: #2ecc71;
+      --radius: 12px;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+    nav {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .nav-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 0 16px;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      height: 56px;
+    }
+    .nav-brand {
+      font-weight: 700;
+      font-size: 1rem;
+      color: var(--accent);
+      margin-right: auto;
+      white-space: nowrap;
+    }
+    .nav-brand span { color: var(--accent2); }
+    nav a {
+      text-decoration: none;
+      color: var(--muted);
+      font-size: 0.85rem;
+      padding: 6px 10px;
+      border-radius: 8px;
+      transition: all .2s;
+      white-space: nowrap;
+    }
+    nav a:hover, nav a.active {
+      background: var(--card);
+      color: var(--text);
+    }
+    nav a.active { color: var(--accent); }
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 24px 16px 48px;
+    }
+    h1 { font-size: 1.5rem; font-weight: 700; margin-bottom: 4px; }
+    .subtitle { color: var(--muted); font-size: 0.9rem; margin-bottom: 20px; }
+    .filters {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 20px;
+    }
+    .filter-btn {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      color: var(--muted);
+      font-size: 0.8rem;
+      padding: 5px 14px;
+      cursor: pointer;
+      transition: all .2s;
+    }
+    .filter-btn:hover, .filter-btn.active {
+      border-color: var(--accent);
+      color: var(--text);
+      background: var(--surface);
+    }
+    .filter-btn.active { color: var(--accent); }
+    .product-count {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 16px;
+    }
+    .product-count strong { color: var(--text); }
+    .product-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .product-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      text-decoration: none;
+      color: inherit;
+      transition: border-color .2s;
+    }
+    .product-card:hover { border-color: var(--accent); }
+    .product-card img {
+      width: 54px;
+      height: 54px;
+      object-fit: contain;
+      border-radius: 8px;
+      background: #fff;
+      flex-shrink: 0;
+    }
+    .no-img {
+      width: 54px;
+      height: 54px;
+      border-radius: 8px;
+      background: var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.4rem;
+      flex-shrink: 0;
+    }
+    .product-info { flex: 1; min-width: 0; }
+    .product-name {
+      font-size: 0.88rem;
+      font-weight: 600;
+      line-height: 1.35;
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      margin-bottom: 4px;
+    }
+    .product-meta {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .site-badge {
+      font-size: 0.7rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 2px 6px;
+      color: var(--muted);
+    }
+    .date-badge { font-size: 0.68rem; color: var(--muted); }
+    .new-badge {
+      font-size: 0.68rem;
+      background: rgba(108,99,255,.2);
+      color: var(--accent);
+      border-radius: 4px;
+      padding: 2px 6px;
+    }
+    .product-price {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--accent2);
+      white-space: nowrap;
+    }
+    .empty {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+    }
+    .empty .icon { font-size: 2.5rem; margin-bottom: 12px; }
+    .empty p { margin-top: 6px; font-size: 0.85rem; }
+    .updated-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 5px 12px;
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin-bottom: 20px;
+    }
+    .updated-badge .dot {
+      width: 7px; height: 7px;
+      border-radius: 50%;
+      background: var(--green);
+    }
+    @media (max-width: 480px) {
+      h1 { font-size: 1.25rem; }
+    }
+  </style>
+</head>
+<body>
+<nav>
+  <div class="nav-inner">
+    <div class="nav-brand">🛒 NZ<span>Monitor</span></div>
+    <a href="index.html">Dashboard</a>
+    <a href="new-products.html" class="active">New</a>
+    <a href="price-drops.html">Drops</a>
+  </div>
+</nav>
+<main>
+  <div class="updated-badge">
+    <span class="dot"></span>
+    <span id="lastUpdated">Loading…</span>
+  </div>
+  <h1>🆕 New Products</h1>
+  <p class="subtitle">Products seen for the first time in the latest scrape</p>
+  <div class="filters">
+    <button class="filter-btn active" onclick="setFilter('all', this)">All</button>
+    <button class="filter-btn" onclick="setFilter('Hotspot Electronics', this)">Hotspot Electronics</button>
+    <button class="filter-btn" onclick="setFilter('TechCrazy', this)">TechCrazy</button>
+  </div>
+  <div class="product-count" id="count"></div>
+  <div class="product-list" id="list"></div>
+</main>
+<script>
+  const BASE = './data';
+  let allProducts = [];
+  let currentFilter = 'all';
+  function fmtDate(iso) {
+    if (!iso) return '';
+    const d = new Date(iso);
+    return d.toLocaleString('en-NZ', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
+  }
+  function setFilter(site, btn) {
+    currentFilter = site;
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    render();
+  }
+  function render() {
+    const filtered = currentFilter === 'all' ? allProducts : allProducts.filter(p => p.site === currentFilter);
+    const list = document.getElementById('list');
+    const count = document.getElementById('count');
+    count.innerHTML = 'Showing <strong>' + filtered.length + '</strong> new product' + (filtered.length !== 1 ? 's' : '');
+    if (filtered.length === 0) {
+      list.innerHTML = '<div class="empty"><div class="icon">🔍</div><strong>No new products found</strong><p>Either the filter has no matches, or no new products were detected in the last run.</p></div>';
+      return;
+    }
+    const sorted = [...filtered].reverse();
+    list.innerHTML = sorted.map(p => {
+      const img = p.image ? '<img src="' + p.image + '" alt="" loading="lazy" onerror="this.style.display='none'">' : '<div class="no-img">📦</div>';
+      return '<a class="product-card" href="' + p.url + '" target="_blank" rel="noopener">' + img + '<div class="product-info"><div class="product-name">' + p.name + '</div><div class="product-meta"><span class="site-badge">' + p.site + '</span><span class="new-badge">NEW</span><span class="date-badge">' + fmtDate(p.date_first_seen) + '</span></div></div><div class="product-price">$' + p.price.toFixed(2) + '</div></a>';
+    }).join('');
+  }
+  async function load() {
+    try {
+      const [meta, data] = await Promise.all([
+        fetch(BASE + '/last_updated.json').then(r => r.json()),
+        fetch(BASE + '/new_products.json').then(r => r.json()),
+      ]);
+      document.getElementById('lastUpdated').textContent = 'Last checked: ' + new Date(meta.last_updated).toLocaleString('en-NZ', { day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+      allProducts = Array.isArray(data) ? data : [];
+      render();
+    } catch (e) {
+      document.getElementById('lastUpdated').textContent = 'Data not yet loaded';
+      document.getElementById('list').innerHTML = '<div class="empty"><div class="icon">⚙️</div><strong>No data yet</strong><p>Trigger the GitHub Action to run the first scrape.</p></div>';
+    }
+  }
+  load();
+</script>
+</body>
+</html>
