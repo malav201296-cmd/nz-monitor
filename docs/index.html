@@ -5,72 +5,338 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>NZ Electronics Monitor — Dashboard</title>
   <style>
-    :root { --bg:#0f1117;--surface:#1a1d2e;--card:#22263a;--border:#2e3350;--accent:#6c63ff;--accent2:#00d4aa;--danger:#ff4757;--text:#e8eaf6;--muted:#8892b0;--green:#2ecc71;--radius:12px; }
-    *{box-sizing:border-box;margin:0;padding:0;}
-    body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
-    nav{background:var(--surface);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:100;}
-    .nav-inner{max-width:900px;margin:0 auto;padding:0 16px;display:flex;align-items:center;gap:4px;height:56px;}
-    .nav-brand{font-weight:700;font-size:1rem;color:var(--accent);margin-right:auto;white-space:nowrap;}
-    .nav-brand span{color:var(--accent2);}
-    nav a{text-decoration:none;color:var(--muted);font-size:.85rem;padding:6px 10px;border-radius:8px;transition:all .2s;white-space:nowrap;}
-    nav a:hover,nav a.active{background:var(--card);color:var(--text);}
-    nav a.active{color:var(--accent);}
-    main{max-width:900px;margin:0 auto;padding:24px 16px 48px;}
-    h1{font-size:1.5rem;font-weight:700;margin-bottom:4px;}
-    .subtitle{color:var(--muted);font-size:.9rem;margin-bottom:24px;}
-    .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-bottom:32px;}
-    .stat-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:20px 16px;text-align:center;}
-    .stat-card .value{font-size:2rem;font-weight:800;line-height:1;margin-bottom:6px;}
-    .stat-card .label{font-size:.78rem;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;}
-    .stat-card.accent .value{color:var(--accent);}
-    .stat-card.green .value{color:var(--green);}
-    .stat-card.danger .value{color:var(--danger);}
-    .section-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;}
-    .section-header h2{font-size:1rem;font-weight:700;}
-    .section-header a{font-size:.8rem;color:var(--accent);text-decoration:none;}
-    .product-list{display:flex;flex-direction:column;gap:10px;margin-bottom:36px;}
-    .product-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:14px;display:flex;align-items:center;gap:14px;text-decoration:none;color:inherit;transition:border-color .2s;}
-    .product-card:hover{border-color:var(--accent);}
-    .product-card img{width:54px;height:54px;object-fit:contain;border-radius:8px;background:#fff;flex-shrink:0;}
-    .no-img{width:54px;height:54px;border-radius:8px;background:var(--border);display:flex;align-items:center;justify-content:center;font-size:1.4rem;flex-shrink:0;}
-    .product-info{flex:1;min-width:0;}
-    .product-name{font-size:.88rem;font-weight:600;line-height:1.35;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;margin-bottom:4px;}
-    .product-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
-    .site-badge{font-size:.7rem;background:var(--surface);border:1px solid var(--border);border-radius:4px;padding:2px 6px;color:var(--muted);}
-    .product-price{font-size:1rem;font-weight:700;color:var(--accent2);white-space:nowrap;}
-    .drop-prices{text-align:right;}
-    .old-price{font-size:.75rem;color:var(--muted);text-decoration:line-through;}
-    .new-price{font-size:1rem;font-weight:700;color:var(--green);}
-    .saving-badge{font-size:.7rem;background:rgba(46,204,113,.15);color:var(--green);border-radius:4px;padding:2px 5px;white-space:nowrap;}
-    .empty{text-align:center;padding:40px 20px;color:var(--muted);background:var(--card);border:1px solid var(--border);border-radius:var(--radius);}
-    .empty .icon{font-size:2rem;margin-bottom:8px;}
-    .updated-badge{display:inline-flex;align-items:center;gap:6px;background:var(--card);border:1px solid var(--border);border-radius:20px;padding:5px 12px;font-size:.75rem;color:var(--muted);margin-bottom:20px;}
-    .updated-badge .dot{width:7px;height:7px;border-radius:50%;background:var(--green);}
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d2e;
+      --card: #22263a;
+      --border: #2e3350;
+      --accent: #6c63ff;
+      --accent2: #00d4aa;
+      --danger: #ff4757;
+      --text: #e8eaf6;
+      --muted: #8892b0;
+      --green: #2ecc71;
+      --radius: 12px;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+    nav {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .nav-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 0 16px;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      height: 56px;
+    }
+    .nav-brand {
+      font-weight: 700;
+      font-size: 1rem;
+      color: var(--accent);
+      margin-right: auto;
+      white-space: nowrap;
+    }
+    .nav-brand span { color: var(--accent2); }
+    nav a {
+      text-decoration: none;
+      color: var(--muted);
+      font-size: 0.85rem;
+      padding: 6px 10px;
+      border-radius: 8px;
+      transition: all .2s;
+      white-space: nowrap;
+    }
+    nav a:hover, nav a.active { background: var(--card); color: var(--text); }
+    nav a.active { color: var(--accent); }
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 24px 16px 48px;
+    }
+    h1 { font-size: 1.5rem; font-weight: 700; margin-bottom: 4px; }
+    .subtitle { color: var(--muted); font-size: 0.9rem; margin-bottom: 24px; }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 12px;
+      margin-bottom: 32px;
+    }
+    .stat-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 20px 16px;
+      text-align: center;
+    }
+    .stat-card .value { font-size: 2rem; font-weight: 800; line-height: 1; margin-bottom: 6px; }
+    .stat-card .label { font-size: 0.78rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+    .stat-card.accent .value { color: var(--accent); }
+    .stat-card.green .value { color: var(--green); }
+    .stat-card.danger .value { color: var(--danger); }
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+    .section-header h2 { font-size: 1rem; font-weight: 700; }
+    .section-header a { font-size: 0.8rem; color: var(--accent); text-decoration: none; }
+    .product-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-bottom: 36px;
+    }
+    .product-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      text-decoration: none;
+      color: inherit;
+      transition: border-color .2s;
+    }
+    .product-card:hover { border-color: var(--accent); }
+    .product-card img {
+      width: 54px;
+      height: 54px;
+      object-fit: contain;
+      border-radius: 8px;
+      background: #fff;
+      flex-shrink: 0;
+    }
+    .no-img {
+      width: 54px;
+      height: 54px;
+      border-radius: 8px;
+      background: var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.4rem;
+      flex-shrink: 0;
+    }
+    .product-info { flex: 1; min-width: 0; }
+    .product-name {
+      font-size: 0.88rem;
+      font-weight: 600;
+      line-height: 1.35;
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      margin-bottom: 4px;
+    }
+    .product-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .site-badge {
+      font-size: 0.7rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 2px 6px;
+      color: var(--muted);
+    }
+    .product-price { font-size: 1rem; font-weight: 700; color: var(--accent2); white-space: nowrap; }
+    .drop-prices { text-align: right; }
+    .old-price { font-size: 0.75rem; color: var(--muted); text-decoration: line-through; }
+    .new-price { font-size: 1rem; font-weight: 700; color: var(--green); }
+    .saving-badge {
+      font-size: 0.7rem;
+      background: rgba(46,204,113,.15);
+      color: var(--green);
+      border-radius: 4px;
+      padding: 2px 5px;
+      white-space: nowrap;
+    }
+    .empty {
+      text-align: center;
+      padding: 40px 20px;
+      color: var(--muted);
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+    }
+    .empty .icon { font-size: 2rem; margin-bottom: 8px; }
+    .updated-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 5px 12px;
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin-bottom: 20px;
+    }
+    .updated-badge .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); }
+    @media (max-width: 480px) {
+      h1 { font-size: 1.25rem; }
+      .stat-card .value { font-size: 1.6rem; }
+    }
   </style>
 </head>
 <body>
-<nav><div class="nav-inner"><div class="nav-brand">🛒 NZ<span>Monitor</span></div><a href="index.html" class="active">Dashboard</a><a href="new-products.html">New</a><a href="price-drops.html">Drops</a></div></nav>
+
+<nav>
+  <div class="nav-inner">
+    <div class="nav-brand">🛒 NZ<span>Monitor</span></div>
+    <a href="index.html" class="active">Dashboard</a>
+    <a href="new-products.html">New</a>
+    <a href="price-drops.html">Drops</a>
+  </div>
+</nav>
+
 <main>
-  <div class="updated-badge"><span class="dot"></span><span id="lastUpdated">Loading…</span></div>
+  <div class="updated-badge">
+    <span class="dot"></span>
+    <span id="lastUpdated">Loading…</span>
+  </div>
+
   <h1>Dashboard</h1>
   <p class="subtitle">Tracking Hotspot Electronics &amp; TechCrazy</p>
+
   <div class="stats">
-    <div class="stat-card accent"><div class="value" id="statTotal">—</div><div class="label">Products Tracked</div></div>
-    <div class="stat-card green"><div class="value" id="statNew">—</div><div class="label">New This Run</div></div>
-    <div class="stat-card danger"><div class="value" id="statDrops">—</div><div class="label">Price Drops</div></div>
+    <div class="stat-card accent">
+      <div class="value" id="statTotal">—</div>
+      <div class="label">Products Tracked</div>
+    </div>
+    <div class="stat-card green">
+      <div class="value" id="statNew">—</div>
+      <div class="label">New This Run</div>
+    </div>
+    <div class="stat-card danger">
+      <div class="value" id="statDrops">—</div>
+      <div class="label">Price Drops</div>
+    </div>
   </div>
-  <div class="section-header"><h2>🆕 Recent New Products</h2><a href="new-products.html">View all →</a></div>
+
+  <div class="section-header">
+    <h2>🆕 Recent New Products</h2>
+    <a href="new-products.html">View all →</a>
+  </div>
   <div class="product-list" id="newList"></div>
-  <div class="section-header"><h2>📉 Recent Price Drops</h2><a href="price-drops.html">View all →</a></div>
+
+  <div class="section-header">
+    <h2>📉 Recent Price Drops</h2>
+    <a href="price-drops.html">View all →</a>
+  </div>
   <div class="product-list" id="dropList"></div>
 </main>
+
 <script>
-const BASE='./data';
-function fmt(iso){if(!iso)return'';return new Date(iso).toLocaleString('en-NZ',{day:'numeric',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit'});}
-function card(p){const img=p.image?'<img src="'+p.image+'" alt="" loading="lazy" onerror="this.style.display='none'">':'<div class="no-img">📦</div>';return'<a class="product-card" href="'+p.url+'" target="_blank" rel="noopener">'+img+'<div class="product-info"><div class="product-name">'+p.name+'</div><div class="product-meta"><span class="site-badge">'+p.site+'</span></div></div><div class="product-price">$'+p.price.toFixed(2)+'</div></a>';}
-function drop(p){const img=p.image?'<img src="'+p.image+'" alt="" loading="lazy" onerror="this.style.display='none'">':'<div class="no-img">📦</div>';return'<a class="product-card" href="'+p.url+'" target="_blank" rel="noopener">'+img+'<div class="product-info"><div class="product-name">'+p.name+'</div><div class="product-meta"><span class="site-badge">'+p.site+'</span><span class="saving-badge">-'+p.saving_pct+'%</span></div></div><div class="drop-prices"><div class="old-price">$'+p.old_price.toFixed(2)+'</div><div class="new-price">$'+p.new_price.toFixed(2)+'</div></div></a>';}
-function empty(id,msg){document.getElementById(id).innerHTML='<div class="empty"><div class="icon">💤</div><div>'+msg+'</div></div>';}
-async function load(){try{const[m,n,d]=await Promise.all([fetch(BASE+'/last_updated.json').then(r=>r.json()),fetch(BASE+'/new_products.json').then(r=>r.json()),fetch(BASE+'/price_drops.json').then(r=>r.json())]);document.getElementById('lastUpdated').textContent='Last checked: '+fmt(m.last_updated);document.getElementById('statTotal').textContent=(m.total_products||0).toLocaleString();document.getElementById('statNew').textContent=(m.new_this_run||0).toLocaleString();document.getElementById('statDrops').textContent=(m.price_drops_this_run||0).toLocaleString();const nr=n.slice(-5).reverse();nr.length?document.getElementById('newList').innerHTML=nr.map(card).join(''):empty('newList','No new products in last run.');const dr=d.slice(-5).reverse();dr.length?document.getElementById('dropList').innerHTML=dr.map(drop).join(''):empty('dropList','No price drops in last run.');}catch(e){document.getElementById('lastUpdated').textContent='Run the GitHub Action first.';empty('newList','No data yet.');empty('dropList','No data yet.');}}
-load();
+  const BASE = './data';
+
+  function fmtDate(iso) {
+    if (!iso) return '';
+    return new Date(iso).toLocaleString('en-NZ', {
+      day: 'numeric', month: 'short', year: 'numeric',
+      hour: '2-digit', minute: '2-digit'
+    });
+  }
+
+  function cardHTML(p) {
+    const img = p.image
+      ? `<img src="${p.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
+      : '<div class="no-img">📦</div>';
+    return `
+      <a class="product-card" href="${p.url}" target="_blank" rel="noopener">
+        ${img}
+        <div class="product-info">
+          <div class="product-name">${p.name}</div>
+          <div class="product-meta">
+            <span class="site-badge">${p.site}</span>
+          </div>
+        </div>
+        <div class="product-price">$${p.price.toFixed(2)}</div>
+      </a>`;
+  }
+
+  function dropHTML(p) {
+    const img = p.image
+      ? `<img src="${p.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
+      : '<div class="no-img">📦</div>';
+    return `
+      <a class="product-card" href="${p.url}" target="_blank" rel="noopener">
+        ${img}
+        <div class="product-info">
+          <div class="product-name">${p.name}</div>
+          <div class="product-meta">
+            <span class="site-badge">${p.site}</span>
+            <span class="saving-badge">-${p.saving_pct}%</span>
+          </div>
+        </div>
+        <div class="drop-prices">
+          <div class="old-price">$${p.old_price.toFixed(2)}</div>
+          <div class="new-price">$${p.new_price.toFixed(2)}</div>
+        </div>
+      </a>`;
+  }
+
+  function renderEmpty(id, msg) {
+    document.getElementById(id).innerHTML =
+      `<div class="empty"><div class="icon">💤</div><div>${msg}</div></div>`;
+  }
+
+  async function load() {
+    try {
+      const [meta, newData, dropData] = await Promise.all([
+        fetch(`${BASE}/last_updated.json`).then(r => r.json()),
+        fetch(`${BASE}/new_products.json`).then(r => r.json()),
+        fetch(`${BASE}/price_drops.json`).then(r => r.json()),
+      ]);
+
+      document.getElementById('lastUpdated').textContent =
+        'Last checked: ' + fmtDate(meta.last_updated);
+      document.getElementById('statTotal').textContent =
+        (meta.total_products || 0).toLocaleString();
+      document.getElementById('statNew').textContent =
+        (meta.new_this_run || 0).toLocaleString();
+      document.getElementById('statDrops').textContent =
+        (meta.price_drops_this_run || 0).toLocaleString();
+
+      const recent = (Array.isArray(newData) ? newData : []).slice(-5).reverse();
+      if (recent.length === 0) {
+        renderEmpty('newList', 'No new products in the last run.');
+      } else {
+        document.getElementById('newList').innerHTML = recent.map(cardHTML).join('');
+      }
+
+      const recentDrops = (Array.isArray(dropData) ? dropData : []).slice(-5).reverse();
+      if (recentDrops.length === 0) {
+        renderEmpty('dropList', 'No price drops in the last run.');
+      } else {
+        document.getElementById('dropList').innerHTML = recentDrops.map(dropHTML).join('');
+      }
+
+    } catch (e) {
+      document.getElementById('lastUpdated').textContent = 'Run the GitHub Action first.';
+      renderEmpty('newList', 'No data yet — trigger the scraper.');
+      renderEmpty('dropList', 'No data yet — trigger the scraper.');
+    }
+  }
+
+  load();
 </script>
-</body></html>
+</body>
+</html>
