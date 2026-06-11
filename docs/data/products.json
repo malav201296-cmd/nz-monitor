@@ -12810,7 +12810,7 @@
   "https://www.techcrazy.co.nz/products/apple-macbook-air-2017-13-inch-i5-8gb-128gb-1-8ghz-silver-good-pre-owned": {
     "name": "Apple MacBook Air (2017) 13-inch i5 8GB 128GB @1.8GHz - Silver (Good Pre-Owned)",
     "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2017-13-inch-i5-8gb-128gb-1-8ghz-silver-good-pre-owned",
-    "price": 399.0,
+    "price": 299.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-MacBook-Air-13-i5-8GB-256GB-CT-03173.jpg?v=1765184643",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -48430,5 +48430,29 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acefast-Ultra-Thin-Flat-Nylon-Braided-Fast-Charging-Cable-_C24_-MBA01134-3.jpg?v=1781144952",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-11T13:05:07Z"
+  },
+  "https://www.techcrazy.co.nz/products/combo-pack-of-tempered-glass-and-tpu-case-for-apple-iphone-13-clear-brand-new": {
+    "name": "Combo Pack of Tempered Glass and TPU Case For Apple iPhone 13 - Clear (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/combo-pack-of-tempered-glass-and-tpu-case-for-apple-iphone-13-clear-brand-new",
+    "price": 39.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Combo-Pack-of-Tempered-Glass-and-TPU-Case-For-Apple-iPhone-13-MBA00362.jpg?v=1781186888",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-11T23:11:01Z"
+  },
+  "https://www.techcrazy.co.nz/products/artistry-mag-armor-clear-case-strong-magnet-for-iphone-17": {
+    "name": "Artistry Mag Armor Clear Case Strong Magnet For iPhone 17",
+    "url": "https://www.techcrazy.co.nz/products/artistry-mag-armor-clear-case-strong-magnet-for-iphone-17",
+    "price": 39.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Artistry-Mag-Armor-Clear-Case-Strong-Magnet-For-iPhone-17-MBA01685.jpg?v=1781186289",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-11T23:11:01Z"
+  },
+  "https://www.techcrazy.co.nz/products/nillkin-cam-shield-protective-case-for-iphone-13-6-1-inch-black": {
+    "name": "Nillkin Cam Shield Protective Case For iPhone 13 6.1-inch - Black",
+    "url": "https://www.techcrazy.co.nz/products/nillkin-cam-shield-protective-case-for-iphone-13-6-1-inch-black",
+    "price": 39.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Nillkin-Cam-Shield-Protective-Case-For-iPhone-13-MBA-02331.jpg?v=1781185595",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-11T23:11:01Z"
   }
 }
