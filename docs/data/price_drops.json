@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Microsoft Surface Pro 7 12-inch i5 10th Gen 8GB 256GB @1.10GHz Windows 11 Pro With Keyboard (Good Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/microsoft-surface-pro-7-12-inch-i5-10th-gen-8gb-256gb-1-10ghz-windows-11-pro-with-keyboard-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Microsoft-Surface-Pro-7-12-inch-i5-10th-Gen-_1035G4_-8GB-256GB-Matte-Black-CT-00801.jpg?v=1730941273",
+    "site": "TechCrazy",
+    "old_price": 999.0,
+    "new_price": 549.0,
+    "saving": 450.0,
+    "saving_pct": 45.0,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-15T18:07:58Z"
+  },
+  {
+    "name": "Apple iPhone 15 512GB 5G (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-512gb-5g-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-128GB-5G-MP-00099.jpg?v=1729579290",
+    "site": "TechCrazy",
+    "old_price": 1999.0,
+    "new_price": 1199.0,
+    "saving": 800.0,
+    "saving_pct": 40.0,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-15T18:07:58Z"
+  }
+]
