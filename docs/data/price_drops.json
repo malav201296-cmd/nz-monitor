@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "name": "Apple iPhone 14 Plus 128GB 5G - Purple (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-plus-128gb-5g-purple-acceptable-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone14Plus128GB5G-PurpleMP01392_5110aa63-8e7b-4ce7-aa5c-74ba5e3a6ca8.png?v=1776920626",
+    "site": "TechCrazy",
+    "old_price": 1049.0,
+    "new_price": 749.0,
+    "saving": 300.0,
+    "saving_pct": 28.6,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-19T00:12:24Z"
+  },
+  {
+    "name": "Apple iPhone 12 64GB 5G + TPU Clear Case & Screen Protector - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-12-64gb-5g-100-battery-health-free-case-screen-protector-very-good-pre-owned-4",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone1264GB_Good-Condition_MP-02825_f9b73531-739d-40e4-814c-a671ca55236a.jpg?v=1732196071",
+    "site": "TechCrazy",
+    "old_price": 619.0,
+    "new_price": 479.0,
+    "saving": 140.0,
+    "saving_pct": 22.6,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-19T00:12:24Z"
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra 5G 8GB 256GB - Phantom Black (Very Good-Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-5g-8gb-256gb-very-good-pre-owned-2",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung_20Galaxy_20S23_20Ultra_208GB_20Ram_20256GB_205G_20MP-03763.jpg?v=1717734121",
+    "site": "TechCrazy",
+    "old_price": 1499.0,
+    "new_price": 999.0,
+    "saving": 500.0,
+    "saving_pct": 33.4,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-19T00:12:24Z"
+  },
+  {
+    "name": "Apple iPhone 11 Pro Max 64GB - Midnight Green (Good-Refurbishedd)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-11-pro-max-64gb-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/products/Apple-iPhone-11-Pro-Max-64GB-Midnight-Green-MP-03457.jpg?v=1706770200",
+    "site": "TechCrazy",
+    "old_price": 899.0,
+    "new_price": 549.0,
+    "saving": 350.0,
+    "saving_pct": 38.9,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-19T00:12:24Z"
+  },
+  {
+    "name": "Apple iPhone 12 Pro Max 256GB 5G - Pacific Blue (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-12-pro-max-256gb-very-good-pre-owned-1",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone12Pro256GB5G-PacificBlueMP00463_dfc01cc0-771d-43f2-a38a-63c03120bd67.png?v=1777012204",
+    "site": "TechCrazy",
+    "old_price": 999.0,
+    "new_price": 799.0,
+    "saving": 200.0,
+    "saving_pct": 20.0,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-19T00:12:24Z"
+  },
+  {
+    "name": "Apple iPhone 11 Pro Max 256GB - Gold (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-11-pro-max-256gb-very-good-condition-1",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/products/Apple-iPhone-11-Pro-Max-256GB-Gold-MP-03100.jpg?v=1701728536",
+    "site": "TechCrazy",
+    "old_price": 999.0,
+    "new_price": 619.0,
+    "saving": 380.0,
+    "saving_pct": 38.0,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-19T00:12:24Z"
+  },
+  {
+    "name": "Apple iPhone 14 256GB 5G - Midnight Black  (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-256gb-5g-very-good-condition",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/products/Apple-iPhone-14-256GB-5G-MP-01450.jpg?v=1696819418",
+    "site": "TechCrazy",
+    "old_price": 1599.0,
+    "new_price": 799.0,
+    "saving": 800.0,
+    "saving_pct": 50.0,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-19T00:12:24Z"
+  }
+]
