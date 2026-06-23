@@ -1,38 +1,62 @@
 [
   {
-    "name": "Apple iPad 6 32GB Wi-Fi  Space Grey Excellent",
-    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-6-32gb-wi-fi-space-grey-excellent",
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPad-6-32GB-Wi-Fi-Space-Grey-Excellent.webp?v=1737027669",
-    "site": "Hotspot Electronics",
-    "old_price": 199.99,
-    "new_price": 189.99,
-    "saving": 10.0,
-    "saving_pct": 5.0,
+    "name": "Apple MacBook Air (2018) 13.3-inch i5 8GB 256GB @1.60GHz - Space Grey (Good Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2018-13-3-inch-i5-8gb-256gb-1-60ghz-space-grey-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-MacBook-Air-13.3-inch-2018-i5-16GB-RAM-512GB-SSD-CT-00819_a9b808ee-71f4-4fcf-bc55-22688f8d0ff3.jpg?v=1764913742",
+    "site": "TechCrazy",
+    "old_price": 699.0,
+    "new_price": 599.0,
+    "saving": 100.0,
+    "saving_pct": 14.3,
     "date_first_seen": "2026-06-06T05:24:57Z",
-    "detected_at": "2026-06-23T11:42:34Z"
+    "detected_at": "2026-06-23T19:23:19Z"
   },
   {
-    "name": "Apple iPhone 16 Pro 512GB 5G - Black Titanium (Good-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/apple-iphone-16-pro-512gb-5g-black-titanium-good-pre-owned",
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone16Pro512GB5GMP02593.png?v=1776920251",
+    "name": "Apple iPhone 15 128GB 5G - Pink (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-128gb-5g-pink-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-128GB-5G-MP-00099_5b411e1f-dc13-44b4-9e3c-2ca09df88d6f.jpg?v=1762132068",
     "site": "TechCrazy",
-    "old_price": 1699.0,
-    "new_price": 1499.0,
-    "saving": 200.0,
-    "saving_pct": 11.8,
+    "old_price": 999.0,
+    "new_price": 939.0,
+    "saving": 60.0,
+    "saving_pct": 6.0,
     "date_first_seen": "2026-06-06T05:24:57Z",
-    "detected_at": "2026-06-23T11:42:34Z"
+    "detected_at": "2026-06-23T19:23:19Z"
   },
   {
-    "name": "Apple AirTag 4 Pack",
-    "url": "https://www.techcrazy.co.nz/products/apple-airtag-4-pack",
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-AirTag-4-Pack-MBA02238.jpg?v=1743557827",
+    "name": "Apple iPhone 15 128GB 5G - Pink (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-128gb-5g-pink-very-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-128GB-5G-MP-00099_7513ac70-ec2a-46a1-bc45-d2239374d085.jpg?v=1761135558",
     "site": "TechCrazy",
-    "old_price": 229.0,
-    "new_price": 149.0,
-    "saving": 80.0,
-    "saving_pct": 34.9,
+    "old_price": 1029.0,
+    "new_price": 969.0,
+    "saving": 60.0,
+    "saving_pct": 5.8,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-06-23T19:23:19Z"
+  },
+  {
+    "name": "Apple Macbook Pro (2019) Touch Bar 13.3-inch i5 8th Gen 8GB 256GB @2.40GHz - Space Grey (Good - Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2019-touch-bar-13-3-inch-i5-8th-gen-8gb-256gb-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleMacbookPro_2019_TouchBar13.3-inchi58thGen8GB256GBCT0025802.jpg?v=1724732864",
+    "site": "TechCrazy",
+    "old_price": 1199.0,
+    "new_price": 715.0,
+    "saving": 484.0,
+    "saving_pct": 40.4,
     "date_first_seen": "2026-06-06T05:35:30Z",
-    "detected_at": "2026-06-23T11:42:34Z"
+    "detected_at": "2026-06-23T19:23:19Z"
+  },
+  {
+    "name": "Apple iPhone 15 256GB 5G - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-256gb-5g-very-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-128GB-Black-MP-00048_81da391f-82a0-417d-852b-519214bfc81f.jpg?v=1719383272",
+    "site": "TechCrazy",
+    "old_price": 1799.0,
+    "new_price": 999.0,
+    "saving": 800.0,
+    "saving_pct": 44.5,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-23T19:23:19Z"
   }
 ]
