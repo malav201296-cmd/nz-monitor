@@ -1,14 +1,38 @@
 [
   {
-    "name": "Apple iPhone 12 Pro 128GB 5G Battery 100% - Pacific Blue (Acceptable-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/apple-iphone-12-pro-128gb-5g-battery-100-pacific-blue-acceptable-refurbished",
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple_20iPhone_2012_20Pro_20Max_20256GB_20_Good-Condition_20MP-02996.jpg?v=1781826439",
+    "name": "Apple iPad 6 32GB Wi-Fi  Space Grey Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-6-32gb-wi-fi-space-grey-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPad-6-32GB-Wi-Fi-Space-Grey-Excellent.webp?v=1737027669",
+    "site": "Hotspot Electronics",
+    "old_price": 199.99,
+    "new_price": 189.99,
+    "saving": 10.0,
+    "saving_pct": 5.0,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-06-23T11:42:34Z"
+  },
+  {
+    "name": "Apple iPhone 16 Pro 512GB 5G - Black Titanium (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-16-pro-512gb-5g-black-titanium-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone16Pro512GB5GMP02593.png?v=1776920251",
     "site": "TechCrazy",
-    "old_price": 699.0,
-    "new_price": 649.0,
-    "saving": 50.0,
-    "saving_pct": 7.2,
-    "date_first_seen": "2026-06-19T16:19:01Z",
-    "detected_at": "2026-06-22T23:05:46Z"
+    "old_price": 1699.0,
+    "new_price": 1499.0,
+    "saving": 200.0,
+    "saving_pct": 11.8,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-06-23T11:42:34Z"
+  },
+  {
+    "name": "Apple AirTag 4 Pack",
+    "url": "https://www.techcrazy.co.nz/products/apple-airtag-4-pack",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-AirTag-4-Pack-MBA02238.jpg?v=1743557827",
+    "site": "TechCrazy",
+    "old_price": 229.0,
+    "new_price": 149.0,
+    "saving": 80.0,
+    "saving_pct": 34.9,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-23T11:42:34Z"
   }
 ]
