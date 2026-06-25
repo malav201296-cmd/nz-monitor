@@ -1,1 +1,130 @@
-[]
+[
+  {
+    "name": "Asus VivoBook X515EA Laptop i5 11th Gen 12GB 256GB  Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/asus-vivobook-x515ea-laptop-i5-11th-gen-12-256gb-excellent",
+    "price": 529.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Asus-X515E-NZ-PC-Clearance-Image-2-Copy.jpg?v=1782364005",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Lenovo ThinkPad T14 Gen3  AMD Ryzen 7 Pro 6850u 16GB 512GB (Excellent)",
+    "url": "https://hotspotelectronics.co.nz/products/lenovo-thinkpad-t14-amd-ryzen-7-pro-6850u-16gb-512gb-windows-10-pro-excellent",
+    "price": 749.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2026-02-04134138_ded1d307-f0a0-4074-a17c-6fc71abcfd74.png?v=1770166348",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple iPhone 11 64GB Red Excellent (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-64gb-excellent-red",
+    "price": 399.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-11-64GB-Red-Excellent_a72bc8bb-be7c-4738-a94c-3fb436be266e.webp?v=1739014606",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple Macbook Air (2019) 13.3-inch i5 8GB 256GB @1.60GHz - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2019-13-3-inch-i5-8gb-256gb-1-60ghz-silver-good-refurbished",
+    "price": 649.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Air-_2019_-CT00752.jpg?v=1782367841",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple MacBook Pro (2017) 13.3-inch i5 8GB 256GB @2.30GHz - Space Gray (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2017-13-3-inch-i5-8gb-256gb-2-30ghz-space-gray-good-refurbished",
+    "price": 565.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-_2017_-13-inch-i5-7th-Gen-CT-03022_104564c5-af7b-4d40-9009-a21faca8b90a.jpg?v=1782366176",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple Macbook Air (2022) 13.6-inch M2 Chip CPU-8 Cores/GPU 8-Cores 8GB 256GB - Space Gray (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2022-13-6-inch-m2-chip-cpu-8-cores-gpu-8-cores-8gb-256gb-space-gray-good-refurbished",
+    "price": 1199.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Air-_2022_-13-6-inch-M2-Chip-CT00421_6df99a64-54f5-4f9d-a173-4936a5d4d5e3.jpg?v=1782365771",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple Macbook Air (2022) 13.6-inch M2 Chip CPU-8 Cores/GPU 8-Cores 8GB 256GB - Midnight (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2022-13-6-inch-m2-chip-cpu-8-cores-gpu-8-cores-8gb-256gb-midnight-acceptable-refurbished",
+    "price": 1099.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Air-_2022_-13-6-inch-M2-Chip-CT08682_284e39d8-4eeb-46ac-8b41-d53a309de00b.jpg?v=1782365618",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple Macbook Air (2022) 13.6-inch M2 Chip CPU-8 Cores/GPU 8-Cores 8GB 256GB - Midnight (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2022-13-6-inch-m2-chip-cpu-8-cores-gpu-8-cores-8gb-256gb-midnight-good-refurbished",
+    "price": 1199.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Air-_2022_-13-6-inch-M2-Chip-CT08682_67843b37-ff0e-47fc-9c73-4bd3d858739f.jpg?v=1782364993",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple MacBook Air (2018) 13.3-inch i5 8GB 256GB @1.60GHz - Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2018-13-3-inch-i5-8gb-256gb-1-60ghz-silver-very-good-refurbished",
+    "price": 599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-MacBook-Air-_2018_-CT01289_3aaf8af5-0921-4274-b210-a148a879ef78.jpg?v=1782364482",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple Macbook Air (2023) 15.3-inch M2 Chip CPU-8 Cores/GPU 10-Cores 8GB 256GB - Space Gray (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2023-15-3-inch-m2-chip-cpu-8-cores-gpu-10-cores-8gb-256gb-space-gray-good-refurbished",
+    "price": 1599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Air-_2023_-CT00701.jpg?v=1782364069",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple iPad Pro 11 (2021) (3rd Gen) 128GB Wifi Only - Space Gray (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-pro-11-2021-3rd-gen-128gb-wifi-only-space-gray-good-refurbished",
+    "price": 929.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-11-_2021_-_3rd-Gen_-128GB-CT03076-3_42138b24-e349-4c45-a09d-b0f7cd73dd07.jpg?v=1782362972",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple iPhone 15 Plus 256GB 5G - Green (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-plus-256gb-5g-green-very-good-refurbished",
+    "price": 1199.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-Plus-256GB-5G---Green-MP00733.jpg?v=1782362306",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple iPhone 15 Plus 512GB 5G - Blue (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-plus-512gb-5g-blue-very-good-refurbished",
+    "price": 1299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-Plus-256GB-MP-01091_fb3fc644-7317-4636-9cb5-ef4f9125359e.jpg?v=1782361961",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple iPhone 15 256GB 5G - Blue (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-256gb-5g-blue-very-good-refurbished",
+    "price": 999.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-256GB-5G---Blue-MP00730.jpg?v=1782357451",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple iPhone 15 128GB 5G - Green (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-128gb-5g-green-good-refurbished",
+    "price": 939.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-128GB-5G---Green-MP03663.jpg?v=1782356484",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple iPhone 15 256GB 5G - Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-256gb-5g-black-good-refurbished",
+    "price": 984.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-128GB-Black-MP-00048_e4773e08-6655-4afc-b784-99a0837c7a19.jpg?v=1782355783",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-25T10:29:09Z"
+  }
+]

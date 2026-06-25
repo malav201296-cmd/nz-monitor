@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "name": "Repair",
+    "url": "https://hotspotelectronics.co.nz/products/screen-repair",
+    "image": "",
+    "site": "Hotspot Electronics",
+    "old_price": 970.0,
+    "new_price": 220.0,
+    "saving": 750.0,
+    "saving_pct": 77.3,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple iPhone 11 64GB 4G - White (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-11-64gb-good-pre-owned-1",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-11-64G-White-MP-03389.jpg?v=1734326219",
+    "site": "TechCrazy",
+    "old_price": 599.0,
+    "new_price": 369.0,
+    "saving": 230.0,
+    "saving_pct": 38.4,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple iPhone 11 64GB - Red (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/iphone-11-64gb-refurb-good",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone1164GBRedMP-03404.jpg?v=1778540663",
+    "site": "TechCrazy",
+    "old_price": 499.0,
+    "new_price": 369.0,
+    "saving": 130.0,
+    "saving_pct": 26.1,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-25T10:29:09Z"
+  },
+  {
+    "name": "Apple iPhone 11 64GB 4G - White (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-11-64gb-very-good-condition-3",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-11-64GB-White-MP-03455_08b2db05-2772-4d8c-91ca-5b2312d8334e.jpg?v=1778545085",
+    "site": "TechCrazy",
+    "old_price": 469.0,
+    "new_price": 399.0,
+    "saving": 70.0,
+    "saving_pct": 14.9,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-25T10:29:09Z"
+  }
+]
