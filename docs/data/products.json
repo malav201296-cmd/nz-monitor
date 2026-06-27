@@ -47706,7 +47706,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-8-plus-256gb-black-excellent": {
     "name": "Apple iPhone 8 Plus 256GB Black Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-8-plus-256gb-black-excellent",
-    "price": 269.99,
+    "price": 299.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-8-Plus-64GB-Black-Excellent_43f00dd1-5e35-4bdd-8eb0-05869c7a5fb3.webp?v=1739015319",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-08T14:40:57Z"
@@ -49262,5 +49262,21 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/VFan-Premium-Nylon-Braided-Aux-Cable-1-Meter-_L11_-AU00881.jpg?v=1782440317",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-26T10:39:45Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-8-plus-silver-excellent-256": {
+    "name": "Apple iPhone 8 Plus  256GB Silver Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-8-plus-silver-excellent-256",
+    "price": 299.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/iphone-8-plus-silver_0faf77b0-7feb-4c2e-af47-ce2c0491863e.jpg?v=1717212484",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-06-27T09:18:31Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-8-plus-256gb-gold-excellent": {
+    "name": "Apple iPhone 8 Plus 256GB Gold Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-8-plus-256gb-gold-excellent",
+    "price": 299.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-8-Plus-256GB-Gold-Excellent_fb5da0ab-4320-4afd-9549-a11fefa5d27c.webp?v=1757115400",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-06-27T09:18:31Z"
   }
 }
