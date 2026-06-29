@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "name": "Xiaomi Redmi 15 (2025) 4GB 128GB 5G Dual Sim Smart Phone (One NZ Locked) - Grey (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/xiaomi-redmi-15-2025-4gb-128gb-5g-dual-sim-smart-phone-one-nz-locked-grey-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Xiaomi-Redmi-15-_2026_-4GB-128GB-5G-MP00568.jpg?v=1781566229",
+    "site": "TechCrazy",
+    "old_price": 399.0,
+    "new_price": 299.0,
+    "saving": 100.0,
+    "saving_pct": 25.1,
+    "date_first_seen": "2026-06-16T18:19:43Z",
+    "detected_at": "2026-06-29T14:39:28Z"
+  },
+  {
+    "name": "Xiaomi Redmi 15 (2025) 4GB 128GB 5G Dual Sim Smart Phone (One NZ Locked) - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/xiaomi-redmi-15-2025-4gb-128gb-5g-dual-sim-smart-phone-one-nz-locked-black-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Xiaomi-Redmi-15-_2026_-4GB-128GB-5G-MP00567.jpg?v=1781566226",
+    "site": "TechCrazy",
+    "old_price": 399.0,
+    "new_price": 299.0,
+    "saving": 100.0,
+    "saving_pct": 25.1,
+    "date_first_seen": "2026-06-16T18:19:43Z",
+    "detected_at": "2026-06-29T14:39:28Z"
+  },
+  {
+    "name": "Amazon Fire HD 8 Tablet (2024) 32GB Wifi Only - Emerald (Brand New/Damage Box)",
+    "url": "https://www.techcrazy.co.nz/products/amazon-fire-hd-8-tablet-2024-32gb-wifi-only-emerald-brand-new-damage-box",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Amazon-Fire-HD-8-Tablet-_2024_-32GB-Wifi-Only-CT00495.jpg?v=1778223432",
+    "site": "TechCrazy",
+    "old_price": 199.0,
+    "new_price": 179.0,
+    "saving": 20.0,
+    "saving_pct": 10.1,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-06-29T14:39:28Z"
+  },
+  {
+    "name": "Apple Macbook Pro (2020) 13-inch M1 8-Core CPU / 8-Core GPU 16GB 512GB @3.20GHz Touch Bar - Space Gray (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2020-13-inch-m1-8-core-cpu-8-core-gpu-16gb-512gb-3-20ghz-touch-bar-space-grey-very-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-_2020_-13-inch-M1-CT-00101_24ea8727-9a11-4de0-9cb1-e9d14f5cf4b5.jpg?v=1756355282",
+    "site": "TechCrazy",
+    "old_price": 1399.0,
+    "new_price": 1149.0,
+    "saving": 250.0,
+    "saving_pct": 17.9,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-06-29T14:39:28Z"
+  },
+  {
+    "name": "Apple Macbook Pro (2020) 13.3-inch i5 16GB 512GB @2.00GHz - Space Gray (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2020-touch-bar-13-3-inch-i5-10th-gen-16gb-512gb-2-00ghz-thunderbolt-4-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-13-Touch-Bar-2020-i5-10th-Gen-CT-01662.jpg?v=1713835555",
+    "site": "TechCrazy",
+    "old_price": 999.0,
+    "new_price": 949.0,
+    "saving": 50.0,
+    "saving_pct": 5.0,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-06-29T14:39:28Z"
+  }
+]

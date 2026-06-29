@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "name": "Apple iPhone 14 Pro 256GB Gold  Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-pro-256gb-gold-excellent",
+    "price": 1019.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-14-Pro-Max-256GB-Gold-Excellent.webp?v=1736957178",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-06-29T14:39:28Z"
+  },
+  {
+    "name": "HP Elitebook X360 830 G8 13.3-inch i7 11th Gen 32GB 512GB @3.00GHz Windows 11 Pro Touch Screen Laptop - Silver (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-x360-830-g8-13-3-inch-i7-11th-gen-32gb-512gb-3-00ghz-windows-11-pro-touch-screen-laptop-silver-acceptable-refurbished",
+    "price": 899.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-X360-830-G8-CT-02221_2ceb0139-067b-48c2-a012-f5dc62b60b66.jpg?v=1782716982",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-29T14:39:28Z"
+  },
+  {
+    "name": "Samsung Galaxy S26 Ultra 12GB 256GB 5G - Black (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s26-ultra-12gb-256gb-5g-black-as-new-refurbished",
+    "price": 1799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S26-Ultra-12GB-256GB-MP00431_363f86e0-10be-46b5-ba80-dc5e8b3a7e22.jpg?v=1782716820",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-29T14:39:28Z"
+  },
+  {
+    "name": "TCL Nxtpaper TAB 10S 10-inch 4GB 64GB Wifi Only With Keyboard Smart Tablet (Ex Display Model) - Ethereal Sky (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/tcl-nxtpaper-tab-10s-10-inch-4gb-64gb-wifi-only-with-keyboard-smart-tablet-ex-display-model-ethereal-sky-good-refurbished",
+    "price": 179.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/TCL-TAB-10S-10-inch-4GB-64GB-Wifi-Only-Ethereal-Sky-CT-00026.jpg?v=1782715945",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-29T14:39:28Z"
+  },
+  {
+    "name": "Amazon Fire HD 8 Tablet (2024) 32GB Wifi Only - Emerald (Brand New/Damage Box)",
+    "url": "https://www.techcrazy.co.nz/products/amazon-fire-hd-8-tablet-2024-32gb-wifi-only-emerald-brand-new-damage-box-1",
+    "price": 179.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Amazon-Fire-HD-8-Tablet-_2024_-32GB-Wifi-Only-CT00495_fc6c965a-f4ec-493f-b451-58fbde56b979.jpg?v=1782715259",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-06-29T14:39:28Z"
+  }
+]
