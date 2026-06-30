@@ -1,38 +1,14 @@
 [
   {
-    "name": "Apple iPad 7 32GB Wi-Fi & Cellular Silver Excellent",
-    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-7-32gb-wi-fi-cellular-silver-excellent",
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPad-7-128GB-Wifi-Cellular-Silver-Premium-Pre-owned_8e98b6a5-fc68-43ac-b859-8715faf8ebbf.webp?v=1758064985",
-    "site": "Hotspot Electronics",
-    "old_price": 259.99,
-    "new_price": 249.99,
-    "saving": 10.0,
-    "saving_pct": 3.8,
-    "date_first_seen": "2026-06-06T05:24:57Z",
-    "detected_at": "2026-06-30T11:27:39Z"
-  },
-  {
-    "name": "HP Elitebook X360 830 G8 13.3-inch i7 11th Gen 32GB 512GB @3.00GHz Windows 11 Pro Touch Screen Laptop - Silver (Good Pre-Owned)",
-    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-x360-830-g8-13-3-inch-i7-11th-gen-32gb-512gb-3-00ghz-windows-11-pro-touch-screen-laptop-silver-good-pre-owned",
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-X360-830-G8-CT-02221_eee1648a-b5f5-4e02-ad34-b50896eb0edb.jpg?v=1755530923",
+    "name": "Apple iPhone 11 128GB 4G - Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-11-128gb-5g-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple_20iPhone_2011_2064GB_20MP_2002223.jpg?v=1729230574",
     "site": "TechCrazy",
-    "old_price": 1099.0,
-    "new_price": 999.0,
-    "saving": 100.0,
-    "saving_pct": 9.1,
+    "old_price": 599.0,
+    "new_price": 449.0,
+    "saving": 150.0,
+    "saving_pct": 25.0,
     "date_first_seen": "2026-06-06T05:35:30Z",
-    "detected_at": "2026-06-30T11:27:39Z"
-  },
-  {
-    "name": "Apple iPhone 13 128GB 5G - Pink (Good-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/apple-iphone-13-128gb-5g-good-pre-owned-2",
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-13-128GB-5G-MP-03413_abdac963-e80d-43e3-940d-b9ea41f8ed04.jpg?v=1745970807",
-    "site": "TechCrazy",
-    "old_price": 579.0,
-    "new_price": 569.0,
-    "saving": 10.0,
-    "saving_pct": 1.7,
-    "date_first_seen": "2026-06-06T05:35:30Z",
-    "detected_at": "2026-06-30T11:27:39Z"
+    "detected_at": "2026-06-30T18:23:02Z"
   }
 ]
