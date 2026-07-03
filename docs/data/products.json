@@ -5650,7 +5650,7 @@
   "https://www.techcrazy.co.nz/products/apple-watch-series-se-2-2022-gps-40mm-aluminium-32gb-without-band-midnight-good-pre-owned": {
     "name": "Apple Watch Series SE 2 2022 GPS 40MM Aluminium with Black Band 32GB - Midnight (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/apple-watch-series-se-2-2022-gps-40mm-aluminium-32gb-without-band-midnight-good-pre-owned",
-    "price": 269.0,
+    "price": 299.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Series-SE-2-2022-GPS-WE00512.jpg?v=1777611044",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -10602,7 +10602,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-series-5-pro-titanium-45mm-gps-black-titanium-good-pre-owned": {
     "name": "Samsung Galaxy Watch Series 5 Pro Titanium 45mm GPS - Black Titanium (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-series-5-pro-titanium-45mm-gps-black-titanium-good-pre-owned",
-    "price": 249.0,
+    "price": 274.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-Series-5-Pro-WE00308-1.jpg?v=1768375458",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -10610,7 +10610,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-series-5-pro-titanium-45mm-gps-gray-titanium-good-pre-owned": {
     "name": "Samsung Galaxy Watch Series 5 Pro Titanium 45mm GPS - Gray Titanium (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-series-5-pro-titanium-45mm-gps-gray-titanium-good-pre-owned",
-    "price": 249.0,
+    "price": 274.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-Series-5-Pro-WE00365-1.jpg?v=1768375000",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -48688,10 +48688,10 @@
     "date_first_seen": "2026-06-16T18:19:43Z"
   },
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-tab-a11-sm-x133-wi-fi-grey-brand-new-copy": {
-    "name": "Samsung Galaxy Tab A11 SM-X133 Wi-Fi Grey - Brand New (Copy)",
+    "name": "Samsung Galaxy Tab A11 SM-X133 Wi-Fi Grey - Brand New with Hoco Bluetooth Headset.",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-tab-a11-sm-x133-wi-fi-grey-brand-new-copy",
-    "price": 279.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/HKI-SGTABX13364GRY_1.webp?v=1776918453",
+    "price": 299.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/71A31B1D-C602-4D75-AE4B-E707DCB5D0BC.png?v=1783046379",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-17T13:02:30Z"
   },
@@ -49486,5 +49486,21 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-9th-Gen-_2021_-CT02110.jpg?v=1783009360",
     "site": "TechCrazy",
     "date_first_seen": "2026-07-02T18:17:16Z"
+  },
+  "https://hotspotelectronics.co.nz/products/acer-chromebook-n16q13-4gb-ddr3-ram-32gb-emmc-ssd-excellent": {
+    "name": "Acer Chromebook N16Q13  4GB DDR3 RAM  32GB eMMC SSD Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/acer-chromebook-n16q13-4gb-ddr3-ram-32gb-emmc-ssd-excellent",
+    "price": 149.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/PhotoRoom-20230315_175431_1_png.jpg?v=1783056905",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-03T10:14:43Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-galaxy-z-flip5-512gb-mint-brand-new": {
+    "name": "Samsung Galaxy Z Flip5 512GB Mint Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-z-flip5-512gb-mint-brand-new",
+    "price": 699.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/nz-galaxy-z-flip5-f731-sm-f731blgaxnz-537226686.png?v=1763500984",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-03T10:14:43Z"
   }
 }
