@@ -48960,7 +48960,7 @@
     "date_first_seen": "2026-06-23T11:42:34Z"
   },
   "https://www.techcrazy.co.nz/products/hoco-open-ear-bone-conduction-bluetooth-earphone-enc-noise-cancelling-dm43-black-brand-new": {
-    "name": "Hoco Open-Ear Bone Conduction Bluetooth Earphone ENC Noise Cancelling (DM43) - Black (Brand New)",
+    "name": "Hoco Open-Ear Bone Conduction Bluetooth Earphone (DM43) - Black (Brand New)",
     "url": "https://www.techcrazy.co.nz/products/hoco-open-ear-bone-conduction-bluetooth-earphone-enc-noise-cancelling-dm43-black-brand-new",
     "price": 59.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Open-Ear-Bone-Conduction-Earphone-_DM43_-AU00726.jpg?v=1782188343",
@@ -49502,5 +49502,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/nz-galaxy-z-flip5-f731-sm-f731blgaxnz-537226686.png?v=1763500984",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-07-03T10:14:43Z"
+  },
+  "https://www.techcrazy.co.nz/products/acer-predator-pt515-15-6-inch-i7-9th-gen-16gb-512gb-ge-force-nvidia-rtx-2060-6gb-windows-11-pro-gaming-laptop-black-very-good-refurbished": {
+    "name": "Acer Predator PT515 15.6-inch i7 9th Gen 16GB 512GB Ge Force NVIDIA RTX 2060 6GB Windows 11 Pro Gaming Laptop - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/acer-predator-pt515-15-6-inch-i7-9th-gen-16gb-512gb-ge-force-nvidia-rtx-2060-6gb-windows-11-pro-gaming-laptop-black-very-good-refurbished",
+    "price": 699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-Predator-PT515--15-6-inch-i7-9th-Gen-CT00775-4.jpg?v=1783132398",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-04T09:08:51Z"
   }
 }
