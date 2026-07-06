@@ -170,7 +170,7 @@
   "https://hotspotelectronics.co.nz/products/jbl-party-box-on-the-go-essential-portable-speaker": {
     "name": "JBL Party Box On-The-Go Essential portable speaker",
     "url": "https://hotspotelectronics.co.nz/products/jbl-party-box-on-the-go-essential-portable-speaker",
-    "price": 349.99,
+    "price": 379.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/JBLPARTYBOXGOSPEAKER.webp?v=1778205311",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -578,7 +578,7 @@
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-a35-5g-128gb-awesome-navy-brand-new": {
     "name": "Samsung Galaxy A35 5G 128GB Awesome Navy (Brand New)",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-a35-5g-128gb-awesome-navy-brand-new",
-    "price": 399.99,
+    "price": 449.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/MPHSAM00335600__1-600x600_2266f089-4fb8-4691-89ed-630071c59829.jpg?v=1777860129",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -49742,5 +49742,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-IdeaPad-Slim-3-_GEN-10_-CT00776.jpg?v=1783247923",
     "site": "TechCrazy",
     "date_first_seen": "2026-07-05T15:54:43Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-galaxy-s24-ultra-titanium-violet-256gb-excellent": {
+    "name": "Samsung Galaxy S24 Ultra Titanium Violet  256GB Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s24-ultra-titanium-violet-256gb-excellent",
+    "price": 1149.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/VLT-image-0.webp?v=1744344047",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-06T14:04:33Z"
   }
 }
