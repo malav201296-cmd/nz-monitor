@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Samsung Galaxy A07 (2025) 4GB 64GB 4G Dual Sim - Light Violet (Brand New) + Smart Watch (Y42 Ultra) (Bundle Deal)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a07-2025-4gb-64gb-4g-dual-sim-black-brand-new-smart-watch-y23-ultra-bundle-deal-1",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A07-_2025_-MP03921-B.jpg?v=1767277267",
+    "site": "TechCrazy",
+    "old_price": 269.0,
+    "new_price": 259.0,
+    "saving": 10.0,
+    "saving_pct": 3.7,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-07-07T02:11:46Z"
+  },
+  {
+    "name": "Apple iPhone 11 64GB 4G (Very Good-Refurbished)+Case & Protector + Smart Watch and Bluetooth Headset (Bundle Deal)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-11-64gb-5g-very-good-pre-owned-case-protector-smart-watch-and-bluetooth-headsets-bundle-deal-1",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-11-64GB-5G-_Case-_-Protector-_-Smart-Watch-and-Bluetooth-Headsets-MP-00605.jpg?v=1734448248",
+    "site": "TechCrazy",
+    "old_price": 797.0,
+    "new_price": 469.0,
+    "saving": 328.0,
+    "saving_pct": 41.2,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-07-07T02:11:46Z"
+  },
+  {
+    "name": "Apple iPhone 11 64GB 4G (Very Good-Refurbished)+Case & Protector + Smart Watch and Bluetooth Headset (Bundle Deal)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-11-64gb-5g-very-good-pre-owned-case-protector-smart-watch-and-bluetooth-headsets-bundle-deal",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-11-64GB-5G-_Case-_-Protector-_-Smart-Watch-and-Bluetooth-Headsets-MP-00601.jpg?v=1734446952",
+    "site": "TechCrazy",
+    "old_price": 797.0,
+    "new_price": 469.0,
+    "saving": 328.0,
+    "saving_pct": 41.2,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-07-07T02:11:46Z"
+  }
+]
