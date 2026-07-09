@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Lenovo X1 Yoga TouchScreen i7 Gen 5 8GB 512GB Windows 11 Pro Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/lenovo-x1-yoga-touchscreen-i7-gen-5-8gb-512gb-windows-11-pro-excellent",
+    "price": 599.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/IRO-image-0.webp?v=1783571049",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-09T09:22:49Z"
+  },
+  {
+    "name": "Apple iPad 8 32GB Wi-Fi  Space Grey Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-8-32gb-wi-fi-space-grey-excellent-1",
+    "price": 299.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPad-8-32GB-Wi-Fi-Space-Grey-Excellent.webp?v=1737027948",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-09T09:22:49Z"
+  },
+  {
+    "name": "Apple iPhone 12 64GB 5G - Black (Good-Refurbished) + Bluetooth Headset (W55) + Smart Watch (Y42 Ultra) 2 Straps (Bundle Deal)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-12-64gb-5g-black-good-refurbished-bluetooth-headset-w55-smart-watch-y42-ultra-2-straps-bundle-deal",
+    "price": 529.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-12-64GB-5G---Black-_-Bluetooth-Headset-_W55_-_-Smart-Watch-_Y42-Ultra_-MP02810.jpg?v=1783586988",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-09T09:22:49Z"
+  }
+]
