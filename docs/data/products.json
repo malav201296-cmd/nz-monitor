@@ -7946,7 +7946,7 @@
   "https://www.techcrazy.co.nz/products/hoco-ergonomic-wireless-mouse-with-nano-receiver-dual-mode-gm24-black": {
     "name": "Hoco Ergonomic Wireless Mouse With Nano Receiver, Dual Mode (GM24) - Black",
     "url": "https://www.techcrazy.co.nz/products/hoco-ergonomic-wireless-mouse-with-nano-receiver-dual-mode-gm24-black",
-    "price": 19.0,
+    "price": 29.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Ergonomic-Wireless-Mouse-with-Nano-Receiver-_GM24_-CT00032-2.jpg?v=1773153775",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -49880,7 +49880,7 @@
     "date_first_seen": "2026-07-08T19:09:48Z"
   },
   "https://www.techcrazy.co.nz/products/apple-iphone-15-plus-128gb-5g-pink-good-refurbished": {
-    "name": "Apple iPhone 15 Plus 128GB 5G - Pink (Good-Refurbished)",
+    "name": "Apple iPhone 15 Plus 256GB 5G - Pink (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-plus-128gb-5g-pink-good-refurbished",
     "price": 1049.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-Plus-256GB-MP00138_72d65ccb-2c0a-4d70-a130-b9c5058e02fa.jpg?v=1783518823",
@@ -49966,5 +49966,29 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-11-64GB-MP-03677-A_6623aa2b-dfbc-4d4b-a02d-cb9da5c6df0c.jpg?v=1783644233",
     "site": "TechCrazy",
     "date_first_seen": "2026-07-10T02:04:13Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-s26-ultra-12gb-256gb-5g-2-years-warranty-sky-blue-brand-new": {
+    "name": "Samsung Galaxy S26 Ultra 12GB 256GB 5G 2 Years Warranty - Sky Blue (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s26-ultra-12gb-256gb-5g-2-years-warranty-sky-blue-brand-new",
+    "price": 2049.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S26-Ultra-12GB-256GB-MP00894-0.jpg?v=1783530101",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-10T09:20:15Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-s26-ultra-12gb-256gb-5g-2-years-warranty-cobalt-violet-brand-new": {
+    "name": "Samsung Galaxy S26 Ultra 12GB 256GB 5G 2 Years Warranty - Cobalt Violet (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s26-ultra-12gb-256gb-5g-2-years-warranty-cobalt-violet-brand-new",
+    "price": 2049.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S26-Ultra-12GB-256GB-MP00893.jpg?v=1783530096",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-10T09:20:15Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-s26-ultra-12gb-256gb-5g-2-years-warranty-black-brand-new": {
+    "name": "Samsung Galaxy S26 Ultra 12GB 256GB 5G 2 Years Warranty - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s26-ultra-12gb-256gb-5g-2-years-warranty-black-brand-new",
+    "price": 2049.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S26-Ultra-12GB-256GB-MP00892.jpg?v=1783530092",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-10T09:20:15Z"
   }
 }
