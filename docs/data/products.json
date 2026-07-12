@@ -49990,5 +49990,61 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S26-Ultra-12GB-256GB-MP00892.jpg?v=1783530092",
     "site": "TechCrazy",
     "date_first_seen": "2026-07-10T09:20:15Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-16e-128gb-5g-black-very-good-refurbished": {
+    "name": "Apple iPhone 16E 128GB 5G - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-16e-128gb-5g-black-very-good-refurbished",
+    "price": 869.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-16E-128GB-5G-MP00665.jpg?v=1783874564",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-12T18:52:54Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-13-pro-512gb-5g-sierra-blue-good-refurbished": {
+    "name": "Apple iPhone 13 Pro 512GB 5G - Sierra Blue (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-13-pro-512gb-5g-sierra-blue-good-refurbished",
+    "price": 2299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-Air-256GB-5G-E-SIM-Only-MP00891.jpg?v=1783873610",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-12T18:52:54Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-15-pro-max-512gb-5g-natural-titanium-very-good-refurbished": {
+    "name": "Apple iPhone 15 Pro Max 512GB 5G - Natural Titanium (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-pro-max-512gb-5g-natural-titanium-very-good-refurbished",
+    "price": 1549.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone15ProMax256GB5G-NaturalTitaniumMP01333_d0a383b3-c066-45fd-a282-b417eb7ad625.png?v=1783872273",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-12T18:52:54Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-15-plus-256gb-5g-blue-good-refurbished": {
+    "name": "Apple iPhone 15 Plus 256GB 5G - Blue (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-plus-256gb-5g-blue-good-refurbished",
+    "price": 1049.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-Plus-256GB-MP-01091_684b8c06-cfcd-4799-a4cd-6d5121476bed.jpg?v=1783872089",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-12T18:52:54Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-15-128gb-5g-yellow-very-good-refurbished": {
+    "name": "Apple iPhone 15 128GB 5G - Yellow (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-128gb-5g-yellow-very-good-refurbished",
+    "price": 969.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-128GB-5G---Yellow-MP00889.jpg?v=1783871897",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-12T18:52:54Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-14-pro-max-128gb-5g-battery-100-deep-purple-good-refurbished": {
+    "name": "Apple iPhone 14 Pro Max 128GB 5G Battery 100% - Deep Purple (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-pro-max-128gb-5g-battery-100-deep-purple-good-refurbished",
+    "price": 1049.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone14ProMax128GB5G-DeepPurpleMP03414_1acb79ac-52a4-432a-ac42-9cc0b2d52145.png?v=1783870663",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-12T18:52:54Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-14-pro-128gb-5g-battery-100-deep-purple-very-good-refurbished": {
+    "name": "Apple iPhone 14 Pro 128GB 5G Battery 100% - Deep Purple (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-pro-128gb-5g-battery-100-deep-purple-very-good-refurbished",
+    "price": 999.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone14Pro128GB5G-DeepPurpleMP02268_73d709e2-12f9-43c1-89d5-083b02ea211d.png?v=1783870421",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-12T18:52:54Z"
   }
 }
