@@ -1754,7 +1754,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-red-excellent-battery-100": {
     "name": "Apple iPhone 14 Plus 128GB Red Excellent (BATTERY 100%)",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-red-excellent-battery-100",
-    "price": 799.99,
+    "price": 749.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-Iphone-14-Plus-128GB-Red-Excellent_88814bc3-d202-4a38-8f91-d8c67656dd9a.webp?v=1738931275",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -2090,7 +2090,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-blue-excellent-battery-100": {
     "name": "Apple iPhone 14 Plus 128GB Blue Excellent (BATTERY 100%)",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-blue-excellent-battery-100",
-    "price": 799.99,
+    "price": 749.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/image-2023-03-17T173040.583.webp?v=1723890492",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -48626,7 +48626,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-white-excellent-battery-100": {
     "name": "Apple iPhone 14 Plus 128GB White Excellent (BATTERY 100%)",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-white-excellent-battery-100",
-    "price": 799.99,
+    "price": 749.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/image-2023-05-03T183244.060.webp?v=1723890490",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-16T18:19:43Z"
@@ -48634,7 +48634,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-purple-excellent-battery-100": {
     "name": "Apple iPhone 14 Plus 128GB Purple  Excellent (BATTERY 100%)",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-purple-excellent-battery-100",
-    "price": 799.99,
+    "price": 749.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/PUR-image-0_7f5e4d41-fcba-41b7-bd71-d0584a5baa50.webp?v=1762397210",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-16T18:19:43Z"
@@ -50046,5 +50046,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone14Pro128GB5G-DeepPurpleMP02268_73d709e2-12f9-43c1-89d5-083b02ea211d.png?v=1783870421",
     "site": "TechCrazy",
     "date_first_seen": "2026-07-12T18:52:54Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-red-excellent-100-battery-health": {
+    "name": "Apple iPhone 13 128GB Red Excellent  (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-red-excellent-100-battery-health",
+    "price": 619.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-13-128GB-Red-Excellent_4b04e2bc-3d69-4a6d-bdb7-813144f0695c.webp?v=1748001237",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-13T01:56:01Z"
   }
 }

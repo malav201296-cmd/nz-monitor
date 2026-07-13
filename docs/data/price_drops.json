@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "name": "Apple iPhone 14 Plus 128GB Red Excellent (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-red-excellent-battery-100",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-Iphone-14-Plus-128GB-Red-Excellent_88814bc3-d202-4a38-8f91-d8c67656dd9a.webp?v=1738931275",
+    "site": "Hotspot Electronics",
+    "old_price": 799.99,
+    "new_price": 749.99,
+    "saving": 50.0,
+    "saving_pct": 6.3,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-07-13T01:56:01Z"
+  },
+  {
+    "name": "Apple iPhone 14 Plus 128GB White Excellent (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-white-excellent-battery-100",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/image-2023-05-03T183244.060.webp?v=1723890490",
+    "site": "Hotspot Electronics",
+    "old_price": 799.99,
+    "new_price": 749.99,
+    "saving": 50.0,
+    "saving_pct": 6.3,
+    "date_first_seen": "2026-06-16T18:19:43Z",
+    "detected_at": "2026-07-13T01:56:01Z"
+  },
+  {
+    "name": "Apple iPhone 14 Plus 128GB Purple  Excellent (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-purple-excellent-battery-100",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/PUR-image-0_7f5e4d41-fcba-41b7-bd71-d0584a5baa50.webp?v=1762397210",
+    "site": "Hotspot Electronics",
+    "old_price": 799.99,
+    "new_price": 749.99,
+    "saving": 50.0,
+    "saving_pct": 6.3,
+    "date_first_seen": "2026-06-16T18:19:43Z",
+    "detected_at": "2026-07-13T01:56:01Z"
+  },
+  {
+    "name": "Apple iPhone 14 Plus 128GB Blue Excellent (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-blue-excellent-battery-100",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/image-2023-03-17T173040.583.webp?v=1723890492",
+    "site": "Hotspot Electronics",
+    "old_price": 799.99,
+    "new_price": 749.99,
+    "saving": 50.0,
+    "saving_pct": 6.3,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-07-13T01:56:01Z"
+  }
+]
