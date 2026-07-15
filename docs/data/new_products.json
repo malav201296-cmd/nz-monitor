@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "name": "Apple AirPods Pro 3 - White (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/apple-airpods-pro-3-white-brand-new",
+    "price": 449.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-AirPods-Pro-3---White-AU00565.jpg?v=1784133838",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-15T18:56:58Z"
+  },
+  {
+    "name": "Hoco Micro SD Card & USB Drive - USB Drive 64GB",
+    "url": "https://www.techcrazy.co.nz/products/hoco-micro-sd-card-usb-drive-usb-drive-64gb",
+    "price": 49.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Micro-SD-Card-_-USB-Drive---USB-Drive-64GB-MC00023.jpg?v=1784132613",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-15T18:56:58Z"
+  },
+  {
+    "name": "Hoco Micro SD Card & USB Drive - USB Drive 32GB",
+    "url": "https://www.techcrazy.co.nz/products/hoco-micro-sd-card-usb-drive-usb-drive-32gb",
+    "price": 39.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Micro-SD-Card-_-USB-Drive---USB-Drive-32GB-MC00022.jpg?v=1784132361",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-15T18:56:58Z"
+  },
+  {
+    "name": "Acer Chromebook C722 11-inch Intel Celeron N4020 4GB 32GB @1.10GHz - Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/acer-chromebook-c722-11-inch-intel-celeron-n4020-4gb-32gb-1-10ghz-black-good-refurbished",
+    "price": 169.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-Chromebook-C722-11-inch-Intel-Celeron-N4020-CT00584.jpg?v=1784131551",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-15T18:56:58Z"
+  }
+]
