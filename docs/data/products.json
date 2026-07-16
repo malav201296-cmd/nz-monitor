@@ -8384,7 +8384,7 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://www.techcrazy.co.nz/products/hp-elitebook-840-g8-14-inch-i5-11th-gen-8gb-256gb-2-40ghz-windows-11-home-laptop-silver-very-good-pre-owned": {
-    "name": "HP Elitebook 840 G8 14-inch i5 11th Gen 8GB 256GB @2.40GHz Windows 11 Home Laptop - Silver (Very Good Pre-Owned)",
+    "name": "HP Elitebook 840 G8 14-inch i5 11th Gen 8GB 256GB @2.40GHz Windows 11 Home Laptop - Silver (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/hp-elitebook-840-g8-14-inch-i5-11th-gen-8gb-256gb-2-40ghz-windows-11-home-laptop-silver-very-good-pre-owned",
     "price": 599.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-840-G8-14-inch-i5-11th-Gen-CT-00764_5994fde2-0ece-4de1-8d75-e0619a6b3782.jpg?v=1771888122",
@@ -8400,7 +8400,7 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://www.techcrazy.co.nz/products/hp-elitebook-840-g8-14-inch-i5-11th-gen-16gb-256gb-2-40ghz-windows-11-home-laptop-silver-very-good-pre-owned": {
-    "name": "HP Elitebook 840 G8 14-inch i5 11th Gen 16GB 256GB @2.40GHz Windows 11 Home Laptop - Silver (Very Good Pre-Owned)",
+    "name": "HP Elitebook 840 G8 14-inch i5 11th Gen 16GB 256GB @2.40GHz Windows 11 Home Laptop - Silver (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/hp-elitebook-840-g8-14-inch-i5-11th-gen-16gb-256gb-2-40ghz-windows-11-home-laptop-silver-very-good-pre-owned",
     "price": 649.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-840-G8-14-inch-i5-11th-Gen-CT-00764_819e3747-a9f1-4b66-bc68-96aa0e044b11.jpg?v=1771888063",
@@ -50206,5 +50206,29 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-Chromebook-C722-11-inch-Intel-Celeron-N4020-CT00584.jpg?v=1784131551",
     "site": "TechCrazy",
     "date_first_seen": "2026-07-15T18:56:58Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-14-128gb-midnight-black-excellent": {
+    "name": "Apple iPhone 14 128GB Midnight Black Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-128gb-midnight-black-excellent",
+    "price": 699.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-14-128GB-Midnight-Black-Excellent.webp?v=1738931104",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-16T01:49:18Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-15-pro-max-256gb-natural-titanium-excellent-1": {
+    "name": "Apple iPhone 15 Pro Max 256GB Natural Titanium Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-15-pro-max-256gb-natural-titanium-excellent-1",
+    "price": 1399.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/429956-Product-0-I-638301547829382517.webp?v=1729217047",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-16T01:49:18Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-16-pro-max-256gb-black-titanium-excellent": {
+    "name": "Apple iPhone 16 Pro Max 256GB Black Titanium  Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-16-pro-max-256gb-black-titanium-excellent",
+    "price": 1649.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLA-image-0_1_9d04b92f-2e6e-4afd-80a6-0fa4a9014d8d.webp?v=1748563614",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-16T01:49:18Z"
   }
 }
