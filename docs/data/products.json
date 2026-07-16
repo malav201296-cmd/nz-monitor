@@ -2088,7 +2088,7 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-blue-excellent-battery-100": {
-    "name": "Apple iPhone 14 Plus 128GB Blue Excellent (BATTERY 100%)",
+    "name": "Apple iPhone 14 Plus 128GB Blue Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-blue-excellent-battery-100",
     "price": 749.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/image-2023-03-17T173040.583.webp?v=1723890492",
@@ -3738,7 +3738,7 @@
   "https://www.techcrazy.co.nz/products/apple-ipad-7-8-9-10-2-inch-flip-case-black-1": {
     "name": "Flip Case 10.2-inch for Apple iPad 7/8/9 - Black",
     "url": "https://www.techcrazy.co.nz/products/apple-ipad-7-8-9-10-2-inch-flip-case-black-1",
-    "price": 29.0,
+    "price": 39.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Flip-Case-10-2-inch-for-Apple-iPad-7-CTA00021.jpg?v=1780236550",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -11912,7 +11912,7 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://www.techcrazy.co.nz/products/hp-elitebook-840-g8-14-inch-i5-11th-gen-16gb-256gb-2-40ghz-windows-11-pro-touch-screen-laptop-silver-very-good-pre-owned": {
-    "name": "HP Elitebook 840 G8 14-inch i5 11th Gen 16GB 256GB @2.40GHz Windows 11 Pro Touch Screen Laptop - Silver (Very Good Pre-Owned)",
+    "name": "HP Elitebook 840 G8 14-inch i5 11th Gen 16GB 256GB @2.40GHz Windows 11 Pro Touch Screen Laptop - Silver (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/hp-elitebook-840-g8-14-inch-i5-11th-gen-16gb-256gb-2-40ghz-windows-11-pro-touch-screen-laptop-silver-very-good-pre-owned",
     "price": 699.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-840-G8-14-inch-i5-11th-Gen-CT-00764_2c13b446-393a-4a99-a40f-7c1dc916006b.jpg?v=1766535232",
@@ -49050,7 +49050,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-15-pro-128gb-black-titanium-excellent": {
     "name": "Apple iPhone 15 Pro 128GB Black Titanium  Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-15-pro-128gb-black-titanium-excellent",
-    "price": 1099.99,
+    "price": 1079.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/mphapp115221__1.jpg?v=1782265565",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-24T10:36:14Z"
@@ -50230,5 +50230,29 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLA-image-0_1_9d04b92f-2e6e-4afd-80a6-0fa4a9014d8d.webp?v=1748563614",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-07-16T01:49:18Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-14-pro-max-256gb-gold-excellent": {
+    "name": "Apple iPhone 14 Pro Max 256GB Gold  Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-pro-max-256gb-gold-excellent",
+    "price": 1079.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-14-Pro-Max-256GB-Gold-Excellent.webp?v=1736957178",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-16T07:57:31Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-black-excellent": {
+    "name": "Apple iPhone 14 Plus 128GB Black Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-black-excellent",
+    "price": 749.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/N214555_0.webp?v=1723890493",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-16T07:57:31Z"
+  },
+  "https://www.techcrazy.co.nz/products/lenovo-ideapad-3-chromebook-14-inch-intel-celeron-n4020-4gb-32gb-1-10ghz-silver-good-refurbished": {
+    "name": "Lenovo Ideapad 3 Chromebook 14-inch Intel Celeron N4020 4GB 32GB @1.10GHz - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/lenovo-ideapad-3-chromebook-14-inch-intel-celeron-n4020-4gb-32gb-1-10ghz-silver-good-refurbished",
+    "price": 299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-Ideapad-3-Chromebook-14-inch-Intel-Celeron-N4020-CT01617.jpg?v=1784179846",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-16T07:57:31Z"
   }
 }
