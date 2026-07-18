@@ -50326,5 +50326,21 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-840-G8-14-inch-i5-11th--_-Laptop-Bag-_-Sunglasses-_DI87-Max_-_Bundle-Deal_-CT02010.jpg?v=1784267930",
     "site": "TechCrazy",
     "date_first_seen": "2026-07-17T07:53:50Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-xs-64gb-white-excellent-refurbished": {
+    "name": "Apple iPhone XS 64GB White Excellent  (Refurbished )",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-xs-64gb-white-excellent-refurbished",
+    "price": 309.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/iphone-x-silver.jpg?v=1683878369",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-18T07:29:00Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-x-64gb-white-excellent": {
+    "name": "Apple iPhone X 64GB White Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-x-64gb-white-excellent",
+    "price": 299.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/iphone-x-silver.jpg?v=1683878369",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-18T07:29:00Z"
   }
 }
