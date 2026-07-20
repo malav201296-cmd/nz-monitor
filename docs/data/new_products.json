@@ -1,18 +1,66 @@
 [
   {
-    "name": "Apple iPhone 14 Pro Max 128GB Purple Excellent (BATTERY 100%)",
-    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-pro-max-128gb-purple-excellent-battery-100",
-    "price": 1049.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/imgpsh_fullsize_anim_16.jpg?v=1739013501",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-07-20T08:42:15Z"
+    "name": "Apple Watch Ultra 2 49MM Aluminium GPS + Cellular - Natural Titanium (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-ultra-2-49mm-aluminium-gps-cellular-natural-titanium-very-good-refurbished",
+    "price": 949.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Ultra-2-49MM-Aluminium-GPS-_-Cellular-WE00251.jpg?v=1784555165",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-20T13:49:46Z"
   },
   {
-    "name": "Apple Watch SE 3 40mm Starlight  Cellular  Brand New",
-    "url": "https://hotspotelectronics.co.nz/products/apple-watch-se-3-40mm-starlight-cellular-brand-new",
-    "price": 489.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/WTHAPP1030111__1.jpg?v=1784520634",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-07-20T08:42:15Z"
+    "name": "Samsung Galaxy A37 8GB 256GB 5G Dual Sim Smartphone - Awesome Lavender (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a37-8gb-256gb-5g-dual-sim-smartphone-awesome-lavender-brand-new",
+    "price": 799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A37-8GB-256GB-MP00704.jpg?v=1784554251",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-20T13:49:46Z"
+  },
+  {
+    "name": "Samsung Galaxy A37 8GB 256GB 5G Dual Sim Smartphone - Awesome Grey Green (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a37-8gb-256gb-5g-dual-sim-smartphone-awesome-grey-green-brand-new",
+    "price": 799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A37-8GB-256GB-MP00703.jpg?v=1784554248",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-20T13:49:46Z"
+  },
+  {
+    "name": "Samsung Galaxy A57 8GB 256GB 5G Dual Sim Smartphone - Awesome Gray (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a57-8gb-256gb-5g-dual-sim-smartphone-awesome-gray-brand-new",
+    "price": 899.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A57-8GB-256GB-MP00705.jpg?v=1784554256",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-20T13:49:46Z"
+  },
+  {
+    "name": "Apple Watch Ultra 2 49MM Aluminium GPS + Cellular - Black Titanium (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-ultra-2-49mm-aluminium-gps-cellular-black-titanium-good-refurbished",
+    "price": 899.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Ultra-2-49MM-Aluminium-GPS-_-Cellular-WE00253_315ca71f-a1c6-4a96-8a3f-0b51d43d8c7a.jpg?v=1784540497",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-20T13:49:46Z"
+  },
+  {
+    "name": "Apple Watch Ultra 2 49MM Aluminium GPS + Cellular - Black Titanium (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-ultra-2-49mm-aluminium-gps-cellular-black-titanium-very-good-refurbished",
+    "price": 949.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Ultra-2-49MM-Aluminium-GPS-_-Cellular-WE00253_7b4a61ea-deab-4306-b6a7-1d5bf9b9ca05.jpg?v=1784540394",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-20T13:49:46Z"
+  },
+  {
+    "name": "Apple Watch Ultra 2 49MM Aluminium GPS + Cellular - Black Titanium (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-ultra-2-49mm-aluminium-gps-cellular-black-titanium-as-new-refurbished",
+    "price": 975.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Ultra-2-49MM-Aluminium-GPS-_-Cellular-WE00253.jpg?v=1784540276",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-20T13:49:46Z"
+  },
+  {
+    "name": "Apple Watch Series 9 41MM Aluminium GPS - Starlight (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-series-9-41mm-aluminium-gps-starlight-good-refurbished",
+    "price": 515.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Series-9-41MM-Aluminium-WE00250-2.jpg?v=1784537396",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-20T13:49:46Z"
   }
 ]
