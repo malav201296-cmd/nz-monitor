@@ -6328,7 +6328,7 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://www.techcrazy.co.nz/products/apple-macbook-pro-16-inch-2019-touch-bar-i7-9th-gen-16gb-ram-512gb-ssd": {
-    "name": "Apple Macbook Pro (2019) 16-inch i7 16GB 512GB @2.60GHz - Silver (Very Good-)",
+    "name": "Apple Macbook Pro (2019) 16-inch i7 16GB 512GB @2.60GHz - Silver (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-16-inch-2019-touch-bar-i7-9th-gen-16gb-ram-512gb-ssd",
     "price": 899.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleMacbookPro_2019_TouchBar16-inchi79thGen16GB512GBCT00788.jpg?v=1724734551",
@@ -50758,5 +50758,45 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-7-40MM-WE00268-0.jpg?v=1784708133",
     "site": "TechCrazy",
     "date_first_seen": "2026-07-22T13:23:31Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-6-classic-47mm-aluminium-gps-cellular-sports-band-jet-black-good-refurbished": {
+    "name": "Samsung Galaxy Watch 6 Classic 47MM Aluminium GPS+Cellular Sports Band - Jet Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-6-classic-47mm-aluminium-gps-cellular-sports-band-jet-black-good-refurbished",
+    "price": 499.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-6-Classic-47MM-Aluminium-GPS_Cellular-WE00282.jpg?v=1784735528",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-22T18:58:36Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-ultra-47mm-aluminium-gps-cellular-with-dark-grey-marine-band-titanium-silver-very-good-refurbished": {
+    "name": "Samsung Galaxy Watch Ultra 47MM Aluminium GPS+Cellular With Dark Grey Marine Band - Titanium Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-ultra-47mm-aluminium-gps-cellular-with-dark-grey-marine-band-titanium-silver-very-good-refurbished",
+    "price": 699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-Ultra-47MM-Aluminium-WE00281.jpg?v=1784735055",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-22T18:58:36Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-ultra-47mm-aluminium-gps-cellular-with-orange-marine-band-titanium-gray-very-good-refurbished": {
+    "name": "Samsung Galaxy Watch Ultra 47MM Aluminium GPS+Cellular With Orange Marine Band - Titanium Gray (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-ultra-47mm-aluminium-gps-cellular-with-orange-marine-band-titanium-gray-very-good-refurbished",
+    "price": 699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-Ultra-47MM-Aluminium-GPS_Cellular-WE00291.jpg?v=1784734589",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-22T18:58:36Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-fe-40mm-aluminium-gps-sports-band-black-very-good-refurbished": {
+    "name": "Samsung Galaxy Watch FE 40MM Aluminium GPS Sports Band - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-fe-40mm-aluminium-gps-sports-band-black-very-good-refurbished",
+    "price": 429.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-FE-40MM-Aluminium-GPS-WE00280.jpg?v=1784733708",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-22T18:58:36Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-8-40mm-aluminium-gps-white-sports-band-silver-very-good-refurbished": {
+    "name": "Samsung Galaxy Watch 8 40MM Aluminium GPS White Sports Band - Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-8-40mm-aluminium-gps-white-sports-band-silver-very-good-refurbished",
+    "price": 425.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-8-40MM-Aluminium-GPS-White-WE00277.jpg?v=1784733170",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-22T18:58:36Z"
   }
 }
