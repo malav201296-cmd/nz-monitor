@@ -50686,5 +50686,77 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-15-FD0XXX-15-inch-i7-12th-Gen-16GB-512GB-CT00715.jpg?v=1784685069",
     "site": "TechCrazy",
     "date_first_seen": "2026-07-22T08:10:06Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-8-44mm-aluminium-gps-sports-band-graphite-very-good-refurbished": {
+    "name": "Samsung Galaxy Watch 8 44MM Aluminium GPS Sports Band - Graphite (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-8-44mm-aluminium-gps-sports-band-graphite-very-good-refurbished",
+    "price": 475.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-8-40MM-Aluminium-WE00275_3279694c-836f-449f-855d-0dab6a73dd72.jpg?v=1784713438",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-22T13:23:31Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-8-40mm-aluminium-gps-sports-band-graphite-very-good-refurbished": {
+    "name": "Samsung Galaxy Watch 8 40MM Aluminium GPS Sports Band - Graphite (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-8-40mm-aluminium-gps-sports-band-graphite-very-good-refurbished",
+    "price": 435.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-8-40MM-Aluminium-WE00275_3fa33763-d307-4063-aca5-ed2f989193bd.jpg?v=1784713309",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-22T13:23:31Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-8-40mm-aluminium-gps-cellular-sports-band-graphite-very-good-refurbished": {
+    "name": "Samsung Galaxy Watch 8 40MM Aluminium GPS+Cellular Sports Band - Graphite (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-8-40mm-aluminium-gps-cellular-sports-band-graphite-very-good-refurbished",
+    "price": 435.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-8-40MM-Aluminium-WE00275.jpg?v=1784713006",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-22T13:23:31Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-series-7-44mm-aluminium-gps-cellular-silver-very-good-refurbished": {
+    "name": "Samsung Galaxy Watch Series 7 44MM Aluminium GPS+Cellular - Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-series-7-44mm-aluminium-gps-cellular-silver-very-good-refurbished",
+    "price": 369.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-Series-7-Aluminum-WE00372_eeae0c17-4781-494c-90ee-a72e130ae275.jpg?v=1784712596",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-22T13:23:31Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-7-44mm-aluminium-gps-green-very-good-refurbished": {
+    "name": "Samsung Galaxy Watch 7 44MM Aluminium GPS - Green (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-7-44mm-aluminium-gps-green-very-good-refurbished",
+    "price": 399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-7-44MM-Aluminium-WE00269_722be9c0-2d76-46dd-a976-8b483160697a.jpg?v=1784711977",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-22T13:23:31Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-7-44mm-aluminium-gps-cellular-green-good-refurbished": {
+    "name": "Samsung Galaxy Watch 7 44MM Aluminium GPS+Cellular - Green (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-7-44mm-aluminium-gps-cellular-green-good-refurbished",
+    "price": 359.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-7-44MM-Aluminium-WE00269_2db7e71a-41a1-49dc-91fc-a56fbd99b794.jpg?v=1784711842",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-22T13:23:31Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-7-44mm-aluminium-gps-cellular-green-very-good-refurbished": {
+    "name": "Samsung Galaxy Watch 7 44MM Aluminium GPS+Cellular - Green (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-7-44mm-aluminium-gps-cellular-green-very-good-refurbished",
+    "price": 369.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-7-44MM-Aluminium-WE00269.jpg?v=1784711525",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-22T13:23:31Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-7-40mm-aluminium-gps-cream-good-refurbished": {
+    "name": "Samsung Galaxy Watch 7 40MM Aluminium GPS - Cream (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-7-40mm-aluminium-gps-cream-good-refurbished",
+    "price": 499.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-7-40MM-WE00268-0_704fa1b2-989f-4b15-a07c-8429bdff95b6.jpg?v=1784708527",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-22T13:23:31Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-7-40mm-aluminium-gps-cream-very-good-refurbished": {
+    "name": "Samsung Galaxy Watch 7 40MM Aluminium GPS - Cream (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-watch-7-40mm-aluminium-gps-cream-very-good-refurbished",
+    "price": 349.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Watch-7-40MM-WE00268-0.jpg?v=1784708133",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-22T13:23:31Z"
   }
 }
