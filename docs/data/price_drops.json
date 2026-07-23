@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "name": "Samsung Galaxy A37 8GB 256GB 5G Dual Sim Smartphone - Awesome Lavender (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a37-8gb-256gb-5g-dual-sim-smartphone-awesome-lavender-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A37-8GB-256GB-MP00704.jpg?v=1784554251",
+    "site": "TechCrazy",
+    "old_price": 799.0,
+    "new_price": 699.0,
+    "saving": 100.0,
+    "saving_pct": 12.5,
+    "date_first_seen": "2026-07-20T13:49:46Z",
+    "detected_at": "2026-07-23T01:57:39Z"
+  },
+  {
+    "name": "Samsung Galaxy A37 8GB 256GB 5G Dual Sim Smartphone - Awesome Grey Green (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a37-8gb-256gb-5g-dual-sim-smartphone-awesome-grey-green-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A37-8GB-256GB-MP00703.jpg?v=1784554248",
+    "site": "TechCrazy",
+    "old_price": 799.0,
+    "new_price": 699.0,
+    "saving": 100.0,
+    "saving_pct": 12.5,
+    "date_first_seen": "2026-07-20T13:49:46Z",
+    "detected_at": "2026-07-23T01:57:39Z"
+  },
+  {
+    "name": "Samsung Galaxy A57 8GB 256GB 5G Dual Sim Smartphone - Awesome Gray (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a57-8gb-256gb-5g-dual-sim-smartphone-awesome-gray-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A57-8GB-256GB-MP00705.jpg?v=1784554256",
+    "site": "TechCrazy",
+    "old_price": 899.0,
+    "new_price": 849.0,
+    "saving": 50.0,
+    "saving_pct": 5.6,
+    "date_first_seen": "2026-07-20T13:49:46Z",
+    "detected_at": "2026-07-23T01:57:39Z"
+  },
+  {
+    "name": "Apple iPhone 13 128GB 5G - Red (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-13-128gb-5g-red-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-13-128GB-5G-MP-00705_e71b7d01-aca5-4435-85ae-1da9fa595691.jpg?v=1770731509",
+    "site": "TechCrazy",
+    "old_price": 579.0,
+    "new_price": 569.0,
+    "saving": 10.0,
+    "saving_pct": 1.7,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-07-23T01:57:39Z"
+  },
+  {
+    "name": "Apple iPhone 13 128GB 5G - Green (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-13-128gb-5g-good-pre-owned-3",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-13-128GB-5G-Green-MP-03176_6987179e-d6e5-46c0-ad62-4a607855a380.jpg?v=1751242627",
+    "site": "TechCrazy",
+    "old_price": 799.0,
+    "new_price": 569.0,
+    "saving": 230.0,
+    "saving_pct": 28.8,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-07-23T01:57:39Z"
+  },
+  {
+    "name": "Apple iPhone 13 128GB 5G - Starlight (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-13-128gb-5g-good-pre-owned-1",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-13-128GB-MP-03178_a87c8dbb-2d29-4fd8-a635-98a06f18ad49.jpg?v=1745887938",
+    "site": "TechCrazy",
+    "old_price": 799.0,
+    "new_price": 569.0,
+    "saving": 230.0,
+    "saving_pct": 28.8,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-07-23T01:57:39Z"
+  },
+  {
+    "name": "Acer Nitro 5 15.6-inch i7 13th Gen 16GB 512GB Nvidia GeForce RTX4050 Gaming Laptop - Black (Very Good - Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/acer-nitro-5-15-6-inch-i7-13th-gen-16gb-512gb-nvidia-geforce-rtx4050-gaming-laptop-very-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-Nitro-5-15-6-inch-i7-13th-Gen-16GB-512GB-CT-03121.jpg?v=1728808323",
+    "site": "TechCrazy",
+    "old_price": 2299.0,
+    "new_price": 1399.0,
+    "saving": 900.0,
+    "saving_pct": 39.1,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-07-23T01:57:39Z"
+  }
+]
