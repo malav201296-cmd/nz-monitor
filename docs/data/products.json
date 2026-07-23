@@ -50974,5 +50974,37 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-11-_2021_-_3rd-Gen_-128GB-CT03076-3_b23ccf5c-23b7-4dfc-9ba0-67862dd02c95.jpg?v=1784773878",
     "site": "TechCrazy",
     "date_first_seen": "2026-07-23T08:13:38Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-imac-2021-24-inch-m1-chip-8-core-cpu-gpu-16gb-512gb-silver-very-good-refurbished": {
+    "name": "Apple iMac (2021) 24-inch M1 Chip 8-Core CPU & GPU 16GB 512GB - Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-imac-2021-24-inch-m1-chip-8-core-cpu-gpu-16gb-512gb-silver-very-good-refurbished",
+    "price": 1699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iMac-_2021_-24-inch-CT-01042_b5649af1-d428-47bc-ac8b-d6746e362edd.jpg?v=1784801140",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-23T13:26:39Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-imac-2021-24-inch-m1-chip-8-core-cpu-gpu-16gb-256gb-silver-very-good-refurbished": {
+    "name": "Apple iMac (2021) 24-inch M1 Chip 8-Core CPU & GPU 16GB 256GB - Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-imac-2021-24-inch-m1-chip-8-core-cpu-gpu-16gb-256gb-silver-very-good-refurbished",
+    "price": 1499.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iMac-_2021_-24-inch-CT-01042_f0f70a9d-0585-4aeb-923e-763b28922d3d.jpg?v=1784800921",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-23T13:26:39Z"
+  },
+  "https://www.techcrazy.co.nz/products/lenovo-ideapad-1-14-inch-intel-celeron-n4500-4gb-128gb-1-10ghz-silver-good-refurbished": {
+    "name": "Lenovo IdeaPad 1 14-inch Intel Celeron N4500 4GB 128GB @1.10GHz - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/lenovo-ideapad-1-14-inch-intel-celeron-n4500-4gb-128gb-1-10ghz-silver-good-refurbished",
+    "price": 299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-IdeaPad-1-14-inch-Intel-Celeron-N4500-CT00898.jpg?v=1784798821",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-23T13:26:39Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-macbook-air-2022-13-6-inch-m2-chip-cpu-8-cores-gpu-8-cores-16gb-256gb-space-grey-brand-new-open-box": {
+    "name": "Apple Macbook Air (2022) 13.6-inch M2 Chip CPU-8 Cores/GPU 8-Cores 16GB 256GB - Space Grey (Brand New-Open Box)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2022-13-6-inch-m2-chip-cpu-8-cores-gpu-8-cores-16gb-256gb-space-grey-brand-new-open-box",
+    "price": 1699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Air-_2022_-13-6-inch-M2-Chip-CT00421_31cb9f1b-6c18-4ca3-befc-b786c6be1465.jpg?v=1784797432",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-23T13:26:39Z"
   }
 }
