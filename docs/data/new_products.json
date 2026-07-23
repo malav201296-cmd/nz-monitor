@@ -1,34 +1,42 @@
 [
   {
-    "name": "Apple iMac (2021) 24-inch M1 Chip 8-Core CPU & GPU 16GB 512GB - Silver (Very Good-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/apple-imac-2021-24-inch-m1-chip-8-core-cpu-gpu-16gb-512gb-silver-very-good-refurbished",
-    "price": 1699.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iMac-_2021_-24-inch-CT-01042_b5649af1-d428-47bc-ac8b-d6746e362edd.jpg?v=1784801140",
+    "name": "Apple Macbook Pro (2021) 16.2-inch M1 Pro Chip CPU-10 Core / GPU-16 Core 16GB 1TB - Space Gray (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2021-16-2-inch-m1-pro-chip-cpu-10-core-gpu-16-core-16gb-1tb-space-gray-very-good-refurbished",
+    "price": 1999.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-_2021_-16-2-inch-M1-Pro-CT00028.jpg?v=1784824629",
     "site": "TechCrazy",
-    "date_first_seen": "2026-07-23T13:26:39Z"
+    "date_first_seen": "2026-07-23T19:00:51Z"
   },
   {
-    "name": "Apple iMac (2021) 24-inch M1 Chip 8-Core CPU & GPU 16GB 256GB - Silver (Very Good-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/apple-imac-2021-24-inch-m1-chip-8-core-cpu-gpu-16gb-256gb-silver-very-good-refurbished",
+    "name": "Apple Macbook Pro (2021) 16.2-inch M1 Pro Chip CPU-10 Cores / GPU-16 Cores 16GB 512GB - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2021-16-2-inch-m1-pro-chip-cpu-10-cores-gpu-16-cores-16gb-512gb-silver-good-refurbished",
+    "price": 1699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-_2021_-16-2-inch-M1-Pro-Chip-CT00897.jpg?v=1784824491",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-23T19:00:51Z"
+  },
+  {
+    "name": "Apple Macbook Pro 2020 13.3 inch i5 10th Gen 16GB 1TB @2.00GHz - Space Gray (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2020-13-3-inch-i5-10th-gen-16gb-1tb-2-00ghz-space-gray-good-refurbished",
+    "price": 1299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-2020-13-3-inch-i5-10th-Gen-CT00894.jpg?v=1784823667",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-23T19:00:51Z"
+  },
+  {
+    "name": "Apple Macbook Pro (2019) 16-inch i9 9th Gen 16GB 1TB @2.30GHz - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2019-16-inch-i9-9th-gen-16gb-1tb-2-30ghz-silver-good-refurbished",
+    "price": 1699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-16-inch-2019-Touch-Bar-i9-9th-Gen-Space-Grey-CT-00786_8d552ec3-9e83-41ab-bdb0-0871e312e88b.jpg?v=1784823028",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-23T19:00:51Z"
+  },
+  {
+    "name": "Apple Macbook Air (2022) 13.6-inch M2 Chip CPU-8 Cores/GPU 10-Cores 16GB 512GB - Midnight (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2022-13-6-inch-m2-chip-cpu-8-cores-gpu-10-cores-16gb-512gb-midnight-very-good-refurbished",
     "price": 1499.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iMac-_2021_-24-inch-CT-01042_f0f70a9d-0585-4aeb-923e-763b28922d3d.jpg?v=1784800921",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Air-_2022_-13-6-inch-M2-Chip-CT08682_70705fca-a564-40c3-9cab-23db139c79a3.jpg?v=1784822825",
     "site": "TechCrazy",
-    "date_first_seen": "2026-07-23T13:26:39Z"
-  },
-  {
-    "name": "Lenovo IdeaPad 1 14-inch Intel Celeron N4500 4GB 128GB @1.10GHz - Silver (Good-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/lenovo-ideapad-1-14-inch-intel-celeron-n4500-4gb-128gb-1-10ghz-silver-good-refurbished",
-    "price": 299.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-IdeaPad-1-14-inch-Intel-Celeron-N4500-CT00898.jpg?v=1784798821",
-    "site": "TechCrazy",
-    "date_first_seen": "2026-07-23T13:26:39Z"
-  },
-  {
-    "name": "Apple Macbook Air (2022) 13.6-inch M2 Chip CPU-8 Cores/GPU 8-Cores 16GB 256GB - Space Grey (Brand New-Open Box)",
-    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2022-13-6-inch-m2-chip-cpu-8-cores-gpu-8-cores-16gb-256gb-space-grey-brand-new-open-box",
-    "price": 1699.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Air-_2022_-13-6-inch-M2-Chip-CT00421_31cb9f1b-6c18-4ca3-befc-b786c6be1465.jpg?v=1784797432",
-    "site": "TechCrazy",
-    "date_first_seen": "2026-07-23T13:26:39Z"
+    "date_first_seen": "2026-07-23T19:00:51Z"
   }
 ]
