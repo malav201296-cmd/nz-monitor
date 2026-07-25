@@ -2186,7 +2186,7 @@
   "https://hotspotelectronics.co.nz/products/hoco-y23-smart-watch-with-calling-function-brand-new-copy": {
     "name": "Hoco Y23 Smart Watch, Bluetooth Calling – Silver",
     "url": "https://hotspotelectronics.co.nz/products/hoco-y23-smart-watch-with-calling-function-brand-new-copy",
-    "price": 74.99,
+    "price": 64.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/1-fa6a43e764-hoco-smart-watch-with-calling-feature-_y23_-we-00086-0.webp?v=1766805245",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -2200,7 +2200,7 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://hotspotelectronics.co.nz/products/hoco-w61-children-headset-brand-new": {
-    "name": "Hoco W61 Children Headset (Brand New)",
+    "name": "Hoco W61 Wired Headset – Yellow & Orange (Brand New)",
     "url": "https://hotspotelectronics.co.nz/products/hoco-w61-children-headset-brand-new",
     "price": 34.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/1-664b29973d-14_f49b4fc7_5e2e_4991_8af5_4784766d6ae4__57482175549095712801280.webp?v=1760070063",
@@ -2888,7 +2888,7 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://hotspotelectronics.co.nz/products/hoco-w55-wireless-stereo-headphone-green-copy": {
-    "name": "Hoco  W43 Wireless Stereo Headphone",
+    "name": "Hoco W43 Stereo Bluetooth Headset – Brand New White",
     "url": "https://hotspotelectronics.co.nz/products/hoco-w55-wireless-stereo-headphone-green-copy",
     "price": 29.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/hoco-stereo-comfortable-bluetooth-headset-w-25-hours-microsd-and-aux-input-modes-w43-grey-parallel-imported-new-zealand__54438.jpg?v=1744177111",
@@ -2928,10 +2928,10 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://hotspotelectronics.co.nz/products/hoco-premium-bluetooth-headset-noise-cancelling-w37-copy": {
-    "name": "HOCO W103  Gaming Headset Headphones",
+    "name": "HOCO W110 Gaming Headset – White",
     "url": "https://hotspotelectronics.co.nz/products/hoco-premium-bluetooth-headset-noise-cancelling-w37-copy",
     "price": 39.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/hoco-w103-magic-tour-gaming-headphones-interior.jpg?v=1736469211",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/hoco-w110-resource-gaming-headphones-mic.jpg?v=1784944661",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
@@ -51086,5 +51086,61 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/507439fb-421a-49f3-b4cd-45e61009869f.png?v=1784863442",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-07-24T08:09:41Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-w103-gaming-headset-black": {
+    "name": "HOCO W103 Gaming Headset – Black",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-w103-gaming-headset-black",
+    "price": 39.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/shopping_3_12f2a98d-ff83-4d26-9bc4-331d6eb97fbb.webp?v=1784951357",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-25T07:52:05Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-w42-wireless-blue-led-light-bluetooth-headphone": {
+    "name": "Hoco W42 Wireless Blue LED Light Bluetooth Headphone",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-w42-wireless-blue-led-light-bluetooth-headphone",
+    "price": 39.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/12_84a39ab5-b6af-4cae-8b71-33e2204d4120.webp?v=1784941480",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-25T07:52:05Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-w43-stereo-bluetooth-headset-brand-new-purple": {
+    "name": "Hoco W43 Stereo Bluetooth Headset – Brand New Purple",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-w43-stereo-bluetooth-headset-brand-new-purple",
+    "price": 29.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/naushniki-bluetooth-hoco-w43-adventure-bt-headphones-purple.jpg?v=1784940056",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-25T07:52:05Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-wireless-w46-wireless-bluetooth-headphone-milky-white": {
+    "name": "Hoco Wireless W46 Wireless Bluetooth Headphone Milky white",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-wireless-w46-wireless-bluetooth-headphone-milky-white",
+    "price": 24.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Hoco-W46-BK-9-1100x1100.jpg?v=1747360598",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-25T07:52:05Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-anc-wireless-headphones-black-w63-brand-new": {
+    "name": "HOCO  ANC Wireless Headphones – Black W63 ((Brand New)",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-anc-wireless-headphones-black-w63-brand-new",
+    "price": 49.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/4-da889d95a9-2026-05-07_00h22_42.webp?v=1784938056",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-25T07:52:05Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-w48-rgb-light-wireless-headphones-black-brand-new": {
+    "name": "HOCO  RGB Light Wireless Headphones – Black W48  ( Brand New )",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-w48-rgb-light-wireless-headphones-black-brand-new",
+    "price": 49.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/HOCO-W48-Wireless-Headphones-1.jpg?v=1784937395",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-25T07:52:05Z"
+  },
+  "https://hotspotelectronics.co.nz/products/wireless-headphones-hoco-w25": {
+    "name": "Deep Bass Wireless Headphone Hoco W25 Black",
+    "url": "https://hotspotelectronics.co.nz/products/wireless-headphones-hoco-w25",
+    "price": 29.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/2_d28facb3-7655-4fbf-8c82-49a18eb2f815.jpg?v=1747358437",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-25T07:52:05Z"
   }
 }
