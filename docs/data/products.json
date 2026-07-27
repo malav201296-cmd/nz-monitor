@@ -6210,7 +6210,7 @@
   "https://www.techcrazy.co.nz/products/hoco-100w-4-port-ultra-fast-desktop-laptop-charging-adaptor-au9-white": {
     "name": "Hoco 100W 4-Port Ultra Fast Desktop/Laptop Charging Adaptor (AU9) - White",
     "url": "https://www.techcrazy.co.nz/products/hoco-100w-4-port-ultra-fast-desktop-laptop-charging-adaptor-au9-white",
-    "price": 69.0,
+    "price": 49.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-100W-4-Port-Ultra-Fast-Desktop-CTA00989.jpg?v=1776676564",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -6250,7 +6250,7 @@
   "https://www.techcrazy.co.nz/products/hoco-100w-4-port-ultra-fast-desktop-laptop-charging-adaptor-au9-black": {
     "name": "Hoco 100W 4-Port Ultra Fast Desktop/Laptop Charging Adaptor (AU9) - Black",
     "url": "https://www.techcrazy.co.nz/products/hoco-100w-4-port-ultra-fast-desktop-laptop-charging-adaptor-au9-black",
-    "price": 69.0,
+    "price": 49.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-100W-4-Port-Ultra-Fast-Desktop-laptop-Charging-Adaptor--Black-_AU9_-CTA02358.jpg?v=1776673873",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -34424,7 +34424,7 @@
     "date_first_seen": "2026-06-06T05:35:30Z"
   },
   "https://www.techcrazy.co.nz/products/apple-iphone-13-128gb-5g-good-pre-owned": {
-    "name": "Apple iPhone 13 128GB 5G -Blue (Good-Refurbished)",
+    "name": "Apple iPhone 13 128GB 5G - Blue (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/apple-iphone-13-128gb-5g-good-pre-owned",
     "price": 569.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-13-128GB-5G-MP-03514.jpg?v=1723739322",
@@ -51166,5 +51166,37 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-2016-15-inch-CT00787.jpg?v=1785085675",
     "site": "TechCrazy",
     "date_first_seen": "2026-07-26T18:58:13Z"
+  },
+  "https://www.techcrazy.co.nz/products/hoco-wired-gaming-headset-led-light-microphone-w117-black-brand-new": {
+    "name": "Hoco Wired Gaming Headset LED Light & Microphone (W117) - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-wired-gaming-headset-led-light-microphone-w117-black-brand-new",
+    "price": 49.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Wired-Gaming-Headset-LED-Light-_-Microphone-_W117_-AU00667-5.jpg?v=1785116352",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-27T02:04:13Z"
+  },
+  "https://www.techcrazy.co.nz/products/hoco-wired-gaming-headset-with-led-light-microphone-w118-black-brand-new": {
+    "name": "Hoco Wired Gaming Headset With LED Light & Microphone (W118) - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-wired-gaming-headset-with-led-light-microphone-w118-black-brand-new",
+    "price": 39.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Wired-Gaming-Headset-With-LED-AU00666.jpg?v=1785115177",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-27T02:04:13Z"
+  },
+  "https://www.techcrazy.co.nz/products/hoco-rugged-smart-watch-with-calling-feature-y45-black-brand-new": {
+    "name": "Hoco Rugged Smart Watch With Calling Feature Y45 - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-rugged-smart-watch-with-calling-feature-y45-black-brand-new",
+    "price": 99.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Rugged-Smart-Watch-With-Calling-Feature-Y45-WE00668-5.jpg?v=1785113178",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-27T02:04:13Z"
+  },
+  "https://www.techcrazy.co.nz/products/hoco-4-way-dual-360-rotatable-cabin-rear-dash-cameras-with-wi-fi-app-dv17": {
+    "name": "Hoco 4-Way Dual 360° Rotatable Cabin & Rear Dash Cameras With Wi-Fi App (DV17)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-4-way-dual-360-rotatable-cabin-rear-dash-cameras-with-wi-fi-app-dv17",
+    "price": 149.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-4-Way-Dual-360-Rotatable-Cabin-_-Rear-Dash-Cameras-HE00255.jpg?v=1785112691",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-27T02:04:13Z"
   }
 }
