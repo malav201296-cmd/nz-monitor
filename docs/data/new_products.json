@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Power Bank Hoco J163 10000 mAh (Copy)",
+    "url": "https://hotspotelectronics.co.nz/products/power-bank-hoco-j163-10000-mah-copy",
+    "price": 39.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/10_600x_b05454cf-4cd0-4098-bd05-6d5696b82b46.webp?v=1785286133",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-29T01:48:36Z"
+  },
+  {
+    "name": "Power Bank Hoco J163 10000 mAh",
+    "url": "https://hotspotelectronics.co.nz/products/power-bank-hoco-j163-10000-mah",
+    "price": 39.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/10_600x_b05454cf-4cd0-4098-bd05-6d5696b82b46.webp?v=1785286133",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-29T01:48:36Z"
+  },
+  {
+    "name": "Power Bank Hoco J132B 22.5W Led display 30000 mAh",
+    "url": "https://hotspotelectronics.co.nz/products/power-bank-hoco-j132b-22-5w-led-display-30000-mah",
+    "price": 64.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/10_600x_36086935-775e-4417-bd16-16f1ad34e25b.webp?v=1785283874",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-29T01:48:36Z"
+  }
+]

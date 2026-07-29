@@ -9986,7 +9986,7 @@
   "https://www.techcrazy.co.nz/products/apple-watch-series-8-45mm-gps-aluminium-with-blue-sport-band-midnight-good-pre-owned": {
     "name": "Apple Watch Series 8 45MM GPS Aluminium With Blue Sport Band - Midnight (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/apple-watch-series-8-45mm-gps-aluminium-with-blue-sport-band-midnight-good-pre-owned",
-    "price": 429.0,
+    "price": 399.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Series-8-45MM-GPS-Aluminium-With-Blue-Sport-Band---Midnight--WE00161-1.jpg?v=1768978719",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -15162,7 +15162,7 @@
   "https://www.techcrazy.co.nz/products/zeroflex-12-inch-single-custom-ported-subwoofer-box-black": {
     "name": "Zeroflex 12-inch Single Custom/Ported Subwoofer Box - Black",
     "url": "https://www.techcrazy.co.nz/products/zeroflex-12-inch-single-custom-ported-subwoofer-box-black",
-    "price": 329.0,
+    "price": 299.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Zeroflex-12-inch-Single-Custom---Ported-Subwoofer-Box---Black-CA00604.jpg?v=1760506792",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -17874,7 +17874,7 @@
   "https://www.techcrazy.co.nz/products/hp-pavilion-15-6-inch-amd-ryzen-7-16gb-512gb-2-00ghz-windows-11-home-laptop-silver-good-pre-owned": {
     "name": "HP Pavilion 15.6-inch AMD Ryzen 7 16GB 512GB @2.00GHz Windows 11 Home Laptop - Silver (Good Pre-Owned)",
     "url": "https://www.techcrazy.co.nz/products/hp-pavilion-15-6-inch-amd-ryzen-7-16gb-512gb-2-00ghz-windows-11-home-laptop-silver-good-pre-owned",
-    "price": 999.0,
+    "price": 849.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Pavilion-15-6-inch-AMD-Ryzen-7-CT01612.jpg?v=1755223097",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -22410,7 +22410,7 @@
   "https://www.techcrazy.co.nz/products/soundigital-evo5-1600rms-mono-amplifier-with-universal-bass-controller": {
     "name": "SounDigital EVO5 1600RMS Mono Amplifier With Universal Bass Controller",
     "url": "https://www.techcrazy.co.nz/products/soundigital-evo5-1600rms-mono-amplifier-with-universal-bass-controller",
-    "price": 349.0,
+    "price": 329.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/SounDigital-EVO5-1600RMS-CA01115.jpg?v=1746458451",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -31754,7 +31754,7 @@
   "https://www.techcrazy.co.nz/products/zeroflex-15-inch-single-custom-ported-subwoofer-box": {
     "name": "Zeroflex 15-inch Single Custom/Ported Subwoofer Box Evo Series (Carpeted)",
     "url": "https://www.techcrazy.co.nz/products/zeroflex-15-inch-single-custom-ported-subwoofer-box",
-    "price": 349.0,
+    "price": 399.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Zeroflex-15-inch-Single-CA00097.jpg?v=1743555990",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -48946,7 +48946,7 @@
   "https://www.techcrazy.co.nz/products/soundigital-evo6-4ch-800rms-amplifier-black-brand-new": {
     "name": "SounDigital EVO6 4CH 800RMS Amplifier - Black (Brand New)",
     "url": "https://www.techcrazy.co.nz/products/soundigital-evo6-4ch-800rms-amplifier-black-brand-new",
-    "price": 499.0,
+    "price": 399.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/SounDigital-EVO6-4CH-800RMS-Amplifier-CA01947.jpg?v=1782190130",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-23T11:42:34Z"
@@ -51454,5 +51454,29 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Maxguard-Smart-Keyboard-Case-04.webp?v=1776299734",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-07-28T08:17:02Z"
+  },
+  "https://hotspotelectronics.co.nz/products/power-bank-hoco-j163-10000-mah-copy": {
+    "name": "Power Bank Hoco J163 10000 mAh (Copy)",
+    "url": "https://hotspotelectronics.co.nz/products/power-bank-hoco-j163-10000-mah-copy",
+    "price": 39.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/10_600x_b05454cf-4cd0-4098-bd05-6d5696b82b46.webp?v=1785286133",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-29T01:48:36Z"
+  },
+  "https://hotspotelectronics.co.nz/products/power-bank-hoco-j163-10000-mah": {
+    "name": "Power Bank Hoco J163 10000 mAh",
+    "url": "https://hotspotelectronics.co.nz/products/power-bank-hoco-j163-10000-mah",
+    "price": 39.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/10_600x_b05454cf-4cd0-4098-bd05-6d5696b82b46.webp?v=1785286133",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-29T01:48:36Z"
+  },
+  "https://hotspotelectronics.co.nz/products/power-bank-hoco-j132b-22-5w-led-display-30000-mah": {
+    "name": "Power Bank Hoco J132B 22.5W Led display 30000 mAh",
+    "url": "https://hotspotelectronics.co.nz/products/power-bank-hoco-j132b-22-5w-led-display-30000-mah",
+    "price": 64.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/10_600x_36086935-775e-4417-bd16-16f1ad34e25b.webp?v=1785283874",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-29T01:48:36Z"
   }
 }
