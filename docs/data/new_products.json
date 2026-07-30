@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "HOCO GM52 Ergonomic 6-Button Wired Gaming Mouse with LED Light, 12800 DPI",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-gm52-ergonomic-6-button-wired-gaming-mouse-with-led-light-12800-dpi",
+    "price": 28.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/8_600x_be5a5bef-8043-4520-b742-b5f7e53fa759.webp?v=1785370435",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-30T01:41:19Z"
+  },
+  {
+    "name": "Hoco GM702 Ergonomic Wired Gaming Keyboard with RGB Rainbow Lights and Wrist Rest",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-gm702-ergonomic-wired-gaming-keyboard-with-rgb-rainbow-lights-and-wrist-rest",
+    "price": 44.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/9_600x_b373a15d-87aa-42e4-bf95-ed7f17139933.webp?v=1785369819",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-30T01:41:19Z"
+  },
+  {
+    "name": "Hoco Mini car charger 38W Z52",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-mini-car-charger-38w-z52",
+    "price": 19.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/HOCOZ52_1_600x_9d34edbb-2422-4213-ab60-21a889cfd042.webp?v=1785363617",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-30T01:41:19Z"
+  },
+  {
+    "name": "Fast Charging Silicone Data Cable USB to TYPE-C 3A",
+    "url": "https://hotspotelectronics.co.nz/products/fast-charging-silicone-data-cable-usb-to-type-c-3a",
+    "price": 19.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/10_fcf2b469-60f7-4fde-825e-732231243408.webp?v=1745368030",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-30T01:41:19Z"
+  },
+  {
+    "name": "Hoco Super Fast Data Cable TYPE-C to TYPE-C 60 Watts",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-super-fast-data-cable-type-c-to-type-c-60-watts",
+    "price": 19.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/D40CTOCimage_4_600x_f399d54c-7492-4a39-91bc-cdd4eae9ad7d.webp?v=1745367637",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-30T01:41:19Z"
+  },
+  {
+    "name": "MAXGuard Fast Charger USB & Type-C 45W Charger",
+    "url": "https://hotspotelectronics.co.nz/products/maxguard-fast-charger-usb-type-c-45w-charger",
+    "price": 44.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Maxguard45WPDchargerwithType-CtoType-CCharger45PDCC.webp?v=1744502749",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-30T01:41:19Z"
+  },
+  {
+    "name": "Mac Mini (Mid 2010) Intel Core 2 Duo 2GB 240GB @2.4GHz - Silver (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/mac-mini-mid-2010-intel-core-2-duo-2gb-240gb-2-4ghz-silver-acceptable-refurbished",
+    "price": 99.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Mac-Mini-_Mid-2010_-Intel-Core-2-Duo-4GB-CT03058_0c71723a-91a6-4653-94db-885f8904897b.jpg?v=1785375518",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-30T01:41:19Z"
+  },
+  {
+    "name": "Acer Aspire 3 15.6 inch i3 8GB 256GB @1.80GHz Windows 11 Home Laptop - Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/acer-aspire-3-15-6-inch-i3-8gb-256gb-1-80ghz-windows-11-home-laptop-silver-very-good-refurbished",
+    "price": 499.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-Aspire-3-15-6-inch-i3-N305-CT-00230_5a3a4e09-b5f7-47b0-a81c-6a2d862d5d96.jpg?v=1785374420",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-30T01:41:19Z"
+  },
+  {
+    "name": "Apple Macbook Pro (2020) 13-inch M1 Chip 8 GPU 8GB 256GB Touch Bar - Space Grey (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2020-13-inch-m1-chip-8-gpu-8gb-256gb-touch-bar-space-grey-very-good-refurbished",
+    "price": 999.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple_20Macbook_20Pro_20_2020_20Touch_20Bar_2013-inch_20M1_20Chip_208_20_20CT_2000148_239e80b0-b061-42d6-bf39-02175415e86f.jpg?v=1785374010",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-30T01:41:19Z"
+  },
+  {
+    "name": "Apple iPad Pro 3rd Gen (2021) 11-inch 64GB WiFi + Cellular - Space Grey (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-pro-3-2021-11-inch-64gb-wifi-cellular-good-pre-owned",
+    "price": 799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-3-_2021_-11-Inch-64GB-CT-03026.jpg?v=1724740809",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-30T01:41:19Z"
+  }
+]
