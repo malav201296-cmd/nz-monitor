@@ -1,18 +1,58 @@
 [
   {
-    "name": "Samsung Galaxy Tab A8  SM- X205 Wifi - cellular  10.5 inch Grey Brand New (Copy)",
-    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-tab-a8-sm-x205-wifi-cellular-10-5-inch-grey-brand-new-copy",
+    "name": "Apple iPhone 15 Pro Max 256GB Blue Titanium Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-15-pro-max-256gb-blue-titanium-excellent-1",
+    "price": 1399.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/IMG-1275.jpg?v=1728881923",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-07-31T08:36:20Z"
+  },
+  {
+    "name": "Samsung Galaxy Tab A8  SM- X200 Wifi 10.5 inch Grey Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-tab-a8-sm-x200-wifi-10-5-inch-grey-excellent",
     "price": 299.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/copertina-samsung_galaxy_tab_a8_10_5_wifi_android_11_ram_3_gb_32_gb_gray-01__99962-500x500.jpg?v=1785125657",
     "site": "Hotspot Electronics",
-    "date_first_seen": "2026-07-31T01:58:13Z"
+    "date_first_seen": "2026-07-31T08:36:20Z"
   },
   {
-    "name": "HP Elitebook 840 G8 14-inch i5 11th Gen 16GB 256GB @2.40GHz Windows 11 Pro Touch Screen Laptop - Silver (Good-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-840-g8-14-inch-i5-11th-gen-16gb-256gb-2-40ghz-windows-11-pro-touch-screen-laptop-silver-good-pre-owned",
-    "price": 649.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-840-G8-14-inch-i5-11th-Gen-CT-00764_d403fb17-6f77-4130-9d31-42832e753c32.jpg?v=1766535469",
+    "name": "Samsung Galaxy Tab A11 (2025) 8.7-inch 4GB 64GB - Silver (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a11-2025-8-7-inch-4gb-64gb-silver-as-new-refurbished",
+    "price": 249.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-A11-_2025_-Silver-CT00316_21c74a5b-794d-4784-9b66-bf0235787e9b.jpg?v=1785480273",
     "site": "TechCrazy",
-    "date_first_seen": "2026-07-31T01:58:13Z"
+    "date_first_seen": "2026-07-31T08:36:20Z"
+  },
+  {
+    "name": "Samsung Galaxy Tab A11 (2025) 8.7-inch 4GB 64GB - Gray (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a11-2025-8-7-inch-4gb-64gb-gray-as-new-refurbished",
+    "price": 249.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-A11-_2025_-CT00316_972f4ee5-1887-4609-ae81-866f25d9f557.jpg?v=1785480141",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-31T08:36:20Z"
+  },
+  {
+    "name": "Samsung Galaxy Tab S10 Lite 10.9-inch 6GB 128GB Wifi Only - Grey (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-s10-lite-10-9-inch-6gb-128gb-wifi-only-grey-brand-new",
+    "price": 999.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-S10-Lite-10-9-inch-6GB-128GB-CT00114.jpg?v=1785479906",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-31T08:36:20Z"
+  },
+  {
+    "name": "Samsung Galaxy Tab S10 FE Plus 8GB 128GB WiFi Only - Grey (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-s10-fe-plus-8gb-128gb-wifi-only-grey-brand-new",
+    "price": 1599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-S10-FE-Plus-8GB-128GB-CT00356.jpg?v=1785478013",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-31T08:36:20Z"
+  },
+  {
+    "name": "Samsung Galaxy Tab S10 FE Plus 8GB 128GB WiFi Only - Silver (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-s10-fe-plus-8gb-128gb-wifi-only-silver-brand-new",
+    "price": 1599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-S10-FE-Plus-8GB-128GB-WiFi-CT00024.jpg?v=1785476878",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-07-31T08:36:20Z"
   }
 ]
