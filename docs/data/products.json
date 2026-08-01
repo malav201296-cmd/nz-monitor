@@ -258,7 +258,7 @@
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-s25-ultra-titanium-white-256gb-excellent": {
     "name": "Samsung Galaxy S25 ULTRA Titanium White 256GB Excellent",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s25-ultra-titanium-white-256gb-excellent",
-    "price": 1429.99,
+    "price": 1419.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/SIL-image-0_12698da3-6f09-46e9-abba-4048c8e74dd1.webp?v=1779340480",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -51814,5 +51814,29 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-S10-FE-Plus-8GB-128GB-WiFi-CT00024.jpg?v=1785476878",
     "site": "TechCrazy",
     "date_first_seen": "2026-07-31T08:36:20Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-galaxy-s9-plus-purple-excellent": {
+    "name": "Samsung Galaxy S9 Plus  Lilac Purple Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s9-plus-purple-excellent",
+    "price": 309.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/LIL-image-0.jpg?v=1699831572",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-01T01:59:20Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-11-pro-512gb-gold-excellent": {
+    "name": "Apple iPhone 11 Pro 512GB Gold Excellent Battery health 90% Above",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-pro-512gb-gold-excellent",
+    "price": 509.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/GOL-image-0_1.jpg?v=1723890702",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-01T01:59:20Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-galaxy-s25-ultra-titanium-black-512gb-excellent": {
+    "name": "Samsung Galaxy S25 ULTRA Titanium Black 512GB Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s25-ultra-titanium-black-512gb-excellent",
+    "price": 1499.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/SSM-11901334143_1N.webp?v=1744345826",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-01T01:59:20Z"
   }
 }

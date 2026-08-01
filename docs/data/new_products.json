@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Samsung Galaxy S9 Plus  Lilac Purple Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s9-plus-purple-excellent",
+    "price": 309.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/LIL-image-0.jpg?v=1699831572",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-01T01:59:20Z"
+  },
+  {
+    "name": "Apple iPhone 11 Pro 512GB Gold Excellent Battery health 90% Above",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-pro-512gb-gold-excellent",
+    "price": 509.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/GOL-image-0_1.jpg?v=1723890702",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-01T01:59:20Z"
+  },
+  {
+    "name": "Samsung Galaxy S25 ULTRA Titanium Black 512GB Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s25-ultra-titanium-black-512gb-excellent",
+    "price": 1499.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/SSM-11901334143_1N.webp?v=1744345826",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-01T01:59:20Z"
+  }
+]
