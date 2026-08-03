@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "name": "Samsung Galaxy Tab S10 Lite 10.9-inch 6GB 128GB Wifi Only - Grey (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-s10-lite-10-9-inch-6gb-128gb-wifi-only-grey-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-S10-Lite-10-9-inch-6GB-128GB-CT00114.jpg?v=1785479906",
+    "site": "TechCrazy",
+    "old_price": 999.0,
+    "new_price": 699.0,
+    "saving": 300.0,
+    "saving_pct": 30.0,
+    "date_first_seen": "2026-07-31T08:36:20Z",
+    "detected_at": "2026-08-03T01:58:06Z"
+  },
+  {
+    "name": "Samsung Galaxy Tab S10 FE Plus 8GB 128GB WiFi Only - Grey (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-s10-fe-plus-8gb-128gb-wifi-only-grey-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-S10-FE-Plus-8GB-128GB-CT00356.jpg?v=1785478013",
+    "site": "TechCrazy",
+    "old_price": 1599.0,
+    "new_price": 1099.0,
+    "saving": 500.0,
+    "saving_pct": 31.3,
+    "date_first_seen": "2026-07-31T08:36:20Z",
+    "detected_at": "2026-08-03T01:58:06Z"
+  },
+  {
+    "name": "Samsung Galaxy Tab S10 FE Plus 8GB 128GB WiFi Only - Silver (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-s10-fe-plus-8gb-128gb-wifi-only-silver-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-S10-FE-Plus-8GB-128GB-WiFi-CT00024.jpg?v=1785476878",
+    "site": "TechCrazy",
+    "old_price": 1599.0,
+    "new_price": 1099.0,
+    "saving": 500.0,
+    "saving_pct": 31.3,
+    "date_first_seen": "2026-07-31T08:36:20Z",
+    "detected_at": "2026-08-03T01:58:06Z"
+  },
+  {
+    "name": "Zeroflex TKO-W8.0 8-inch Midbass Drivers 120 RMS With Box (2 Pairs)",
+    "url": "https://www.techcrazy.co.nz/products/zeroflex-tko-w8-0-8-inch-midbass-drivers-120-rms-with-box-2-pairs",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Zeroflex-TKO-W8-0-8-AU00051.jpg?v=1769058794",
+    "site": "TechCrazy",
+    "old_price": 358.0,
+    "new_price": 295.0,
+    "saving": 63.0,
+    "saving_pct": 17.6,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-08-03T01:58:06Z"
+  }
+]
