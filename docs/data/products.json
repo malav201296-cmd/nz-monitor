@@ -2826,7 +2826,7 @@
   "https://hotspotelectronics.co.nz/products/ipad-9-64gb-wi-fi-space-grey-as-new": {
     "name": "Apple iPad 9 64GB Wi-FI  Space Grey Excellent",
     "url": "https://hotspotelectronics.co.nz/products/ipad-9-64gb-wi-fi-space-grey-as-new",
-    "price": 379.99,
+    "price": 369.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/iPad-9-64GB-Wi-FI-Brand-New.webp?v=1737028747",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -8602,7 +8602,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a11-2025-8-7-inch-4gb-64gb-cellular-4g-silver-brand-new": {
     "name": "Samsung Galaxy Tab A11 (2025) 8.7-inch 4GB 64GB Cellular 4G - Silver (Brand New)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a11-2025-8-7-inch-4gb-64gb-cellular-4g-silver-brand-new",
-    "price": 299.0,
+    "price": 329.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-A11-_2025_-Silver-CT00316_844745a3-3e49-4ebf-9131-a308852931e4.jpg?v=1771346923",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -55846,5 +55846,93 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/image_2_7c0d8a8f-c40e-464c-b575-437b9a260838.webp?v=1690711994",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-05T01:46:21Z"
+  },
+  "https://www.techcrazy.co.nz/products/hp-thunderbolt-dock-g2-120w-dual-4k-display-docking-station-black-very-good-refurbished": {
+    "name": "HP Thunderbolt Dock G2 – 120W | Dual 4K Display Docking Station - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/hp-thunderbolt-dock-g2-120w-dual-4k-display-docking-station-black-very-good-refurbished",
+    "price": 229.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Thunderbolt-Dock-G2-_-120W-CT00962.jpg?v=1785906317",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T08:19:56Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-ipad-11-inch-11th-gen-a16-128gb-wifi-only-pink-brand-new": {
+    "name": "Apple iPad 11-inch (11th Gen) A16 128GB WiFi Only - Pink (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-11-inch-11th-gen-a16-128gb-wifi-only-pink-brand-new",
+    "price": 999.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-11-inch-_11th-Gen_-A16-128GB-CT00953.jpg?v=1785904996",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T08:19:56Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-ipad-11-inch-11th-gen-a16-128gb-wifi-only-blue-brand-new": {
+    "name": "Apple iPad 11-inch (11th Gen) A16 128GB WiFi Only - Blue (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-11-inch-11th-gen-a16-128gb-wifi-only-blue-brand-new",
+    "price": 999.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-11-inch-_11th-Gen_-A16-128GB-WiFi-CT00952.jpg?v=1785904569",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T08:19:56Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-ipad-11-inch-11th-gen-a16-128gb-wifi-only-silver-brand-new": {
+    "name": "Apple iPad 11-inch (11th Gen) A16 128GB WiFi Only - Silver (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-11-inch-11th-gen-a16-128gb-wifi-only-silver-brand-new",
+    "price": 999.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-11-inch-_11th-Gen_-A16-CT00951.jpg?v=1785904009",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T08:19:56Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-a06-2025-4gb-128gb-5g-smartphone-black-brand-new": {
+    "name": "Samsung Galaxy A06 (2025) 4GB 128GB 5G Smartphone - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a06-2025-4gb-128gb-5g-smartphone-black-brand-new",
+    "price": 249.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A06-_2025_-4GB-128GB-5G-MP00895.jpg?v=1785903502",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T08:19:56Z"
+  },
+  "https://www.techcrazy.co.nz/products/acefast-ultra-thin-flat-nylon-braided-fast-charging-cable-c24-usb-c-to-usb-c-pd-60w-brand-new": {
+    "name": "Acefast Ultra-Thin Flat Nylon Braided Fast Charging Cable (C24) USB-C to USB-C (PD 60W) (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/acefast-ultra-thin-flat-nylon-braided-fast-charging-cable-c24-usb-c-to-usb-c-pd-60w-brand-new",
+    "price": 19.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acefast-Ultra-Thin-Flat-Nylon-Braided-Fast-Charging-Cable-_C24_-MBA01495.jpg?v=1785895913",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T08:19:56Z"
+  },
+  "https://www.techcrazy.co.nz/products/acefast-ultra-thin-flat-nylon-braided-fast-charging-cable-c24-lightning-to-usb-c-pd-30w-brand-new": {
+    "name": "Acefast Ultra-Thin Flat Nylon Braided Fast Charging Cable (C24) Lightning to USB-C (PD 30W) (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/acefast-ultra-thin-flat-nylon-braided-fast-charging-cable-c24-lightning-to-usb-c-pd-30w-brand-new",
+    "price": 19.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acefast-Ultra-Thin-Flat-Nylon-Braided-Fast-Charging-Cable-_C24_-MBA01496-2.jpg?v=1785896444",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T08:19:56Z"
+  },
+  "https://www.techcrazy.co.nz/products/dell-d6000s-docking-station-4k-usb-c-black-good-refurbished": {
+    "name": "Dell D6000s Docking Station 4K USB-C - Black Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/dell-d6000s-docking-station-4k-usb-c-black-good-refurbished",
+    "price": 149.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Dell-D6000-Docking-Station-4K-USB-C---Black-CT00959_c5cc92f6-e749-4096-8954-8c235f31d1f3.jpg?v=1785895013",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T08:19:56Z"
+  },
+  "https://www.techcrazy.co.nz/products/dell-d6000s-docking-station-4k-usb-c-black-very-good-refurbished": {
+    "name": "Dell D6000s Docking Station 4K USB-C - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/dell-d6000s-docking-station-4k-usb-c-black-very-good-refurbished",
+    "price": 155.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Dell-D6000-Docking-Station-4K-USB-C---Black-CT00959_fe26ecf2-c894-448d-afdb-4f6ffb463c79.jpg?v=1785895011",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T08:19:56Z"
+  },
+  "https://www.techcrazy.co.nz/products/acefast-high-speed-usb-a-to-usb-c-otg-adapter-10gbps-data-sync-charging-dongle-j7-brand-new": {
+    "name": "Acefast High-Speed USB-A to USB-C OTG Adapter, 10GBPS Data Sync & Charging Dongle (J7) (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/acefast-high-speed-usb-a-to-usb-c-otg-adapter-10gbps-data-sync-charging-dongle-j7-brand-new",
+    "price": 19.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acefast-High-Speed-USB-A-to-USB-C-OTG-Adapter-MBA00614.jpg?v=1785895037",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T08:19:56Z"
+  },
+  "https://www.techcrazy.co.nz/products/acefast-led-illuminated-nylon-braided-aluminum-alloy-fast-charging-cable-c19-usb-c-to-usb-c-brand-newpd-60w": {
+    "name": "Acefast LED Illuminated Nylon Braided Aluminum Alloy Fast Charging Cable (C19) USB-C to USB-C (PD 60W) (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/acefast-led-illuminated-nylon-braided-aluminum-alloy-fast-charging-cable-c19-usb-c-to-usb-c-brand-newpd-60w",
+    "price": 19.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acefast-LED-Illuminated-Nylon-Braided-Aluminum-Alloy-Fast-Charging-Cable-_C19_-MBA01494-3.jpg?v=1785895433",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T08:19:56Z"
   }
 }
