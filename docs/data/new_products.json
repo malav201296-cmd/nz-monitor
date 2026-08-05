@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Samsung Galaxy S24 Ultra Titanium Yellow 256GB Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s24-ultra-titanium-yellow-256gb-excellent",
+    "price": 1149.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/YLW-image-0.webp?v=1785883485",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-05T01:46:21Z"
+  },
+  {
+    "name": "Samsung  Galaxy S21 5G 256GB White Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s21-5g-256gb-white-excellent",
+    "price": 419.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/image_56.webp?v=1673063593",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-05T01:46:21Z"
+  },
+  {
+    "name": "Samsung  Galaxy S21 5G 128GB Black Good Condition",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s21-5g-128gb-black-good-condition",
+    "price": 369.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/image_2_7c0d8a8f-c40e-464c-b575-437b9a260838.webp?v=1690711994",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-05T01:46:21Z"
+  }
+]
