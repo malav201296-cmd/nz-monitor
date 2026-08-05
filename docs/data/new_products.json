@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "name": "Microsoft Surface 1917 Docking Station GEN 2 - Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/microsoft-surface-1917-docking-station-gen-2-black-good-refurbished",
+    "price": 149.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Microsoft-Surface-1917-Docking-Station-GEN-2-CT00968.jpg?v=1785948292",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T19:16:22Z"
+  },
+  {
+    "name": "Microsoft Surface 1661 Docking Station GEN 1 - Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/microsoft-surface-1661-docking-station-gen-1-black-good-refurbished",
+    "price": 129.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Microsoft-Surface-1661-Docking-Station-GEN-1-CT00964_49bf1005-5bce-4cef-a8bb-6ef229f6f51d.jpg?v=1785947625",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T19:16:22Z"
+  },
+  {
+    "name": "Microsoft Surface 1661 Docking Station GEN 1 - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/microsoft-surface-1661-docking-station-gen-1-black-very-good-refurbished",
+    "price": 135.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Microsoft-Surface-1661-Docking-Station-GEN-1-CT00964.jpg?v=1785947500",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T19:16:22Z"
+  },
+  {
+    "name": "Apple iPad Pro 11-inch M4 Smart Folio Case - Charcoal Grey (As New Demo Unit)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-pro-11-inch-m4-smart-folio-case-charcoal-grey-as-new-demo-unit",
+    "price": 149.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-11-inch-M4-Smart-Folio-Case-CTA00005.jpg?v=1785942756",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T19:16:22Z"
+  },
+  {
+    "name": "Apple iPad Pro 13-inch M4 256GB Wifi Only (MVX23X/A) - Space Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-pro-13-inch-m4-256gb-wifi-only-mvx23x-a-space-black-brand-new",
+    "price": 2999.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-13-inch-M4-Wi-Fi-256GB-CT00983.jpg?v=1785942751",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-05T19:16:22Z"
+  }
+]
