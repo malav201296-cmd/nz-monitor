@@ -55974,5 +55974,45 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-13-inch-M4-Wi-Fi-256GB-CT00983.jpg?v=1785942751",
     "site": "TechCrazy",
     "date_first_seen": "2026-08-05T19:16:22Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-11-pro-max-64gb-space-grey-excellent-battery-100": {
+    "name": "Apple iPhone 11 Pro Max 64GB Space Grey Excellent  (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-pro-max-64gb-space-grey-excellent-battery-100",
+    "price": 549.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/1-1fa547108d-iphone11pro-black-ressize.webp?v=1785972260",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-06T01:46:39Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-11-pro-max-64gb-midnight-green-excellent-battery-100": {
+    "name": "Apple iPhone 11 Pro Max 64GB Midnight Green Excellent  (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-pro-max-64gb-midnight-green-excellent-battery-100",
+    "price": 549.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/iphone11progreen1.webp?v=1785971951",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-06T01:46:39Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-11-64gb-purple-excellent-battery-100": {
+    "name": "Apple iPhone 11 64GB Purple Excellent (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-64gb-purple-excellent-battery-100",
+    "price": 399.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-11-64GB-Purple-Excellent_fdfcee4c-f646-4cce-9416-6fde6638b74f.webp?v=1737019672",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-06T01:46:39Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-11-64gb-white-excellent-battery-100": {
+    "name": "Apple iPhone 11 64GB White Excellent (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-64gb-white-excellent-battery-100",
+    "price": 399.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-11-64GB-White-Excellent_e9a63ecb-006a-4c01-af65-172de9e29bc9.webp?v=1739014531",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-06T01:46:39Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-11-pro-max-64gb-gold-excellent-battery-100": {
+    "name": "Apple iPhone 11 Pro Max 64GB Gold Excellent  (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-pro-max-64gb-gold-excellent-battery-100",
+    "price": 549.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/image_82.webp?v=1723890767",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-06T01:46:39Z"
   }
 }
