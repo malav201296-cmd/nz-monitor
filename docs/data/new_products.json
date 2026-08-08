@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "name": "Lenovo X1 Carbon GEN 7 14-inch i5 10th Gen 8GB 512GB @1.60GHz Windows 11 Pro - Black (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/lenovo-x1-carbon-gen-7-14-inch-i5-10th-gen-8gb-512gb-1-60ghz-windows-11-pro-black-as-new-refurbished",
+    "price": 599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-X1-Carbon-GEN-7-14-inch-i5-10th-Gen-CT00920.jpg?v=1786162908",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-08T06:36:09Z"
+  },
+  {
+    "name": "Asus Zenbook 15.6-inch i7 10th Gen 16GB 512GB Nvidia GTX 1650 4GB @1.80GHz Windows 11 Pro Laptop - Ponder Blue (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/asus-zenbook-15-6-inch-i7-10th-gen-16gb-512gb-nvidia-gtx-1650-4gb-1-80ghz-windows-11-pro-laptop-ponder-blue-good-refurbished",
+    "price": 799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Asus-Zenbook-15-6-inch-i7-10th-Gen-16GB-512GB-CT01005.jpg?v=1786162100",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-08T06:36:09Z"
+  },
+  {
+    "name": "Acer Chromebook C733 11.6-inch Intel Celeron N4020 4GB 32GB @1.10GHz - Black (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/acer-chromebook-c733-11-6-inch-intel-celeron-n4020-4gb-32gb-1-10ghz-black-acceptable-refurbished",
+    "price": 199.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-Chromebook-C733-11-6-inch-Intel-Celeron-N4120-CT00396_680e785b-b83e-4098-84a6-57bde015fcce.jpg?v=1786158840",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-08T06:36:09Z"
+  },
+  {
+    "name": "Samsung Galaxy S23 Plus 8GB 256GB 5G - Phantom Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-plus-8gb-256gb-5g-phantom-black-very-good-refurbished",
+    "price": 599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S23-Plus-8GB-256GB-5G-MP01017_9a8f404e-ca82-4b10-839d-000308c32b4d.jpg?v=1786158317",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-08T06:36:09Z"
+  },
+  {
+    "name": "Samsung Galaxy S23 Plus 8GB 256GB 5G - Phantom Black (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-plus-8gb-256gb-5g-phantom-black-acceptable-refurbished",
+    "price": 599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S23-Plus-8GB-256GB-5G-MP01017_cb5004e7-fa99-4048-9a11-5b08415e4fcc.jpg?v=1786158134",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-08T06:36:09Z"
+  }
+]
