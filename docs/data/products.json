@@ -2434,7 +2434,7 @@
   "https://hotspotelectronics.co.nz/products/screen-repair": {
     "name": "Repair",
     "url": "https://hotspotelectronics.co.nz/products/screen-repair",
-    "price": 360.0,
+    "price": 260.0,
     "image": "",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -56270,5 +56270,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-ThinkPad-T490-14-inch-i5-10th-Gen-CT00070.jpg?v=1786415178",
     "site": "TechCrazy",
     "date_first_seen": "2026-08-11T06:50:41Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-galaxy-tab-a9-plus-64gb-graphite-excellent": {
+    "name": "Samsung GALAXY TAB A9 Plus 64GB Graphite Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-tab-a9-plus-64gb-graphite-excellent",
+    "price": 259.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/7n5i0w.ffdc54.l.jpg?v=1759016169",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-12T01:10:09Z"
   }
 }
