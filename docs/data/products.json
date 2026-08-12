@@ -2434,7 +2434,7 @@
   "https://hotspotelectronics.co.nz/products/screen-repair": {
     "name": "Repair",
     "url": "https://hotspotelectronics.co.nz/products/screen-repair",
-    "price": 260.0,
+    "price": 440.0,
     "image": "",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -18474,7 +18474,7 @@
   "https://www.techcrazy.co.nz/products/acer-travelmate-spin-b311rn-31-11-6-inch-intel-pentium-silver-n5030-4gb-128gb-1-10ghz-windows-11-pro-touch-screen-laptop-shale-black-good-pre-owned": {
     "name": "Acer TravelMate Spin B311RN-31 11.6-inch Intel Pentium Silver N5030 4GB 128GB @1.10GHz Windows 11 Pro Touch Screen Laptop - Shale Black (Good Pre-Owned)",
     "url": "https://www.techcrazy.co.nz/products/acer-travelmate-spin-b311rn-31-11-6-inch-intel-pentium-silver-n5030-4gb-128gb-1-10ghz-windows-11-pro-touch-screen-laptop-shale-black-good-pre-owned",
-    "price": 199.0,
+    "price": 399.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-TravelMate-Spin-B311R-31-CT02440_4df43cfe-fbbb-445b-aeae-d8dbef7fe92b.jpg?v=1754357201",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -55810,7 +55810,7 @@
   "https://www.techcrazy.co.nz/products/google-pixel-10a-8gb-128gb-5g-obsidian-brand-new": {
     "name": "Google Pixel 10A 8GB 128GB 5G - Obsidian (Brand New)",
     "url": "https://www.techcrazy.co.nz/products/google-pixel-10a-8gb-128gb-5g-obsidian-brand-new",
-    "price": 999.0,
+    "price": 855.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Google-Pixel-10A-8GB-128GB-5G---Obsidian-MP01005.jpg?v=1785817622",
     "site": "TechCrazy",
     "date_first_seen": "2026-08-04T08:22:52Z"
@@ -56278,5 +56278,21 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/7n5i0w.ffdc54.l.jpg?v=1759016169",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-12T01:10:09Z"
+  },
+  "https://www.techcrazy.co.nz/products/hoco-button-cell-battery-cr2025-5pcs-pack-ja6-ja7": {
+    "name": "Hoco Button Cell Battery CR2025 - 5pcs Pack (JA6/JA7)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-button-cell-battery-cr2025-5pcs-pack-ja6-ja7",
+    "price": 49.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Button-Cell-Battery-CR2025---5pcs-Pack-JA6JA7-EL00028-1.jpg?v=1786509845",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-12T07:10:08Z"
+  },
+  "https://www.techcrazy.co.nz/products/hoco-button-cell-battery-cr2032-5pcs-pack-ja6-ja7": {
+    "name": "Hoco Button Cell Battery CR2032 - 5pcs Pack (JA6/JA7)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-button-cell-battery-cr2032-5pcs-pack-ja6-ja7",
+    "price": 49.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Button-Cell-Battery-CR2032---5pcs-Pack-JA6JA7-EL00027.jpg?v=1786508678",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-12T07:10:08Z"
   }
 }
