@@ -1,14 +1,26 @@
 [
   {
-    "name": "Acer TravelMate B311-32 11.6-inch Intel Celeron N5100 4GB 128GB @1.10GHz Windows 11 Pro - Black (Good-Refurbished) + Laptop Bag + Smart Watch (Y42) 2 Straps (Bundle Deal)",
-    "url": "https://www.techcrazy.co.nz/products/acer-travelmate-b311-32-11-6-inch-intel-celeron-n5100-4gb-128gb-1-10ghz-windows-11-pro-black-good-pre-owned-laptop-bag-sunglasses-di87-max-smart-watch-y42-2-straps-bundle-deal",
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-TravelMate-B311-32-CT03815.jpg?v=1776910134",
-    "site": "TechCrazy",
-    "old_price": 349.0,
-    "new_price": 299.0,
-    "saving": 50.0,
-    "saving_pct": 14.3,
+    "name": "Samsung Galaxy A51 Excellent Black",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-a51-excellent-black",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Samsung-Galaxy-A51-_2019_-8GB-128GB-MP-03136_1080x1080_a7a91068-dbb6-4e93-b8c4-4c8028d2d44f.webp?v=1717819827",
+    "site": "Hotspot Electronics",
+    "old_price": 269.99,
+    "new_price": 184.99,
+    "saving": 85.0,
+    "saving_pct": 31.5,
+    "date_first_seen": "2026-08-02T01:55:26Z",
+    "detected_at": "2026-08-13T07:13:57Z"
+  },
+  {
+    "name": "Repair",
+    "url": "https://hotspotelectronics.co.nz/products/screen-repair",
+    "image": "",
+    "site": "Hotspot Electronics",
+    "old_price": 440.0,
+    "new_price": 200.0,
+    "saving": 240.0,
+    "saving_pct": 54.5,
     "date_first_seen": "2026-06-06T05:24:57Z",
-    "detected_at": "2026-08-13T01:11:56Z"
+    "detected_at": "2026-08-13T07:13:57Z"
   }
 ]

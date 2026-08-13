@@ -2434,7 +2434,7 @@
   "https://hotspotelectronics.co.nz/products/screen-repair": {
     "name": "Repair",
     "url": "https://hotspotelectronics.co.nz/products/screen-repair",
-    "price": 440.0,
+    "price": 200.0,
     "image": "",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -37824,7 +37824,7 @@
     "date_first_seen": "2026-06-06T05:35:30Z"
   },
   "https://www.techcrazy.co.nz/products/samsung-galaxy-z-fold4-256gb-5g-very-good-pre-owned": {
-    "name": "Samsung Galaxy Z Fold4 256GB 5G - Beige (Very Good- Pre-Owned)",
+    "name": "Samsung Galaxy Z Fold4 256GB 5G - Beige (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-z-fold4-256gb-5g-very-good-pre-owned",
     "price": 1699.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/products/Samsung-Galaxy-Z-Fold4-256GB-5G-Beige-MP-02882.jpg?v=1706778975",
@@ -44128,7 +44128,7 @@
     "date_first_seen": "2026-06-06T05:35:30Z"
   },
   "https://www.techcrazy.co.nz/products/apple-iphone-se-64gb-2020-very-good-condition": {
-    "name": "Apple iPhone SE 2020 - Black (2nd Gen) 64GB 4G - Black (Very Good-Refurbished)",
+    "name": "Apple iPhone SE 2020 (2nd Gen) 64GB 4G - Black (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/apple-iphone-se-64gb-2020-very-good-condition",
     "price": 199.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple_20iPhone_20SE_202nd_20Gen_20MP_2003266_1c186152-5e5b-4361-9c9e-63aac130289b.jpg?v=1778544563",
@@ -52706,7 +52706,7 @@
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-a51-excellent-black": {
     "name": "Samsung Galaxy A51 Excellent Black",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-a51-excellent-black",
-    "price": 269.99,
+    "price": 184.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Samsung-Galaxy-A51-_2019_-8GB-128GB-MP-03136_1080x1080_a7a91068-dbb6-4e93-b8c4-4c8028d2d44f.webp?v=1717819827",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-02T01:55:26Z"
@@ -56374,5 +56374,61 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung_Galaxy_A17_4GB_128GB_5G_-_Black_Brand_New_Smart_Watch_Y42_Ultra_2_Straps_Bluetooth_Headset_W68_Bundle_Deal.jpg?v=1786545156",
     "site": "TechCrazy",
     "date_first_seen": "2026-08-12T18:50:35Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-galaxy-a50-excellent-black": {
+    "name": "Samsung Galaxy A50 Excellent Black",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-a50-excellent-black",
+    "price": 149.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/AndroidPIT-samsung-galaxy-a50-hero-w1400h1400.jpg?v=1786599507",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-13T07:13:57Z"
+  },
+  "https://hotspotelectronics.co.nz/products/sound-magus-ck75-class-ab-75w-rms-4-amp": {
+    "name": "Sound Magus CK75 CLASS AB - 75w RMS 4 AMP",
+    "url": "https://hotspotelectronics.co.nz/products/sound-magus-ck75-class-ab-75w-rms-4-amp",
+    "price": 229.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot_13-8-2026_14647.jpg?v=1786587047",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-13T07:13:57Z"
+  },
+  "https://hotspotelectronics.co.nz/products/sound-magus-c3000-1-mono-high-power-amplifier": {
+    "name": "Sound Magus C3000.1 Mono High Power Amplifier",
+    "url": "https://hotspotelectronics.co.nz/products/sound-magus-c3000-1-mono-high-power-amplifier",
+    "price": 689.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/C3000.jpg?v=1786586454",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-13T07:13:57Z"
+  },
+  "https://www.techcrazy.co.nz/products/acer-travelmate-spin-b311rn-31-11-6-inch-intel-pentium-silver-n5030-8gb-256gb-1-10ghz-windows-11-pro-touch-screen-laptop-black-good-refurbished": {
+    "name": "Acer TravelMate Spin B311RN-31 11.6-inch Intel Pentium Silver N5030 8GB 256GB @1.10GHz Windows 11 Pro Touch Screen Laptop - Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/acer-travelmate-spin-b311rn-31-11-6-inch-intel-pentium-silver-n5030-8gb-256gb-1-10ghz-windows-11-pro-touch-screen-laptop-black-good-refurbished",
+    "price": 299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-TravelMate-Spin-B311R-31-CT02440_f4bcc869-3072-4136-8435-2051be43b885.jpg?v=1786587991",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-13T07:13:57Z"
+  },
+  "https://www.techcrazy.co.nz/products/acer-travelmate-spin-b311rn-31-11-6-inch-intel-pentium-silver-n5030-8gb-256gb-1-10ghz-windows-11-pro-touch-screen-laptop-with-stylus-black-good-refurbished": {
+    "name": "Acer TravelMate Spin B311RN-31 11.6-inch Intel Pentium Silver N5030 8GB 256GB @1.10GHz Windows 11 Pro Touch Screen Laptop With Stylus - Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/acer-travelmate-spin-b311rn-31-11-6-inch-intel-pentium-silver-n5030-8gb-256gb-1-10ghz-windows-11-pro-touch-screen-laptop-with-stylus-black-good-refurbished",
+    "price": 324.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-TravelMate-Spin-B311R-31-CT02440_a83bd510-b065-4101-824b-61017cabf140.jpg?v=1786587640",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-13T07:13:57Z"
+  },
+  "https://www.techcrazy.co.nz/products/acer-travelmate-spin-b311rn-31-11-6-inch-intel-pentium-silver-n5030-8gb-256gb-1-10ghz-windows-11-pro-touch-screen-laptop-with-stylus-black-very-good-refurbished": {
+    "name": "Acer TravelMate Spin B311RN-31 11.6-inch Intel Pentium Silver N5030 8GB 256GB @1.10GHz Windows 11 Pro Touch Screen Laptop With Stylus - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/acer-travelmate-spin-b311rn-31-11-6-inch-intel-pentium-silver-n5030-8gb-256gb-1-10ghz-windows-11-pro-touch-screen-laptop-with-stylus-black-very-good-refurbished",
+    "price": 349.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-TravelMate-Spin-B311R-31-CT02440_d807a00c-461a-4fcf-a7c9-fcbc1c94c2c4.jpg?v=1786587418",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-13T07:13:57Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-good-pre-owned-1": {
+    "name": "Apple iPhone 14 128GB 5G - Blue (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-good-pre-owned-1",
+    "price": 899.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone14128GBMP01743.jpg?v=1745888515",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-13T07:13:57Z"
   }
 }
