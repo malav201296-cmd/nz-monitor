@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "name": "Ultimate Ears MiniRoll Portable Bluetooth Speaker - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/ultimate-ears-miniroll-portable-bluetooth-speaker-black-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Ultimate-Ears-MiniRoll-Portable-Bluetooth-Speaker-AU00062.jpg?v=1772417924",
+    "site": "TechCrazy",
+    "old_price": 98.0,
+    "new_price": 77.0,
+    "saving": 21.0,
+    "saving_pct": 21.4,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-08-13T18:51:17Z"
+  },
+  {
+    "name": "Hoco Wireless Air Conduction Audio Sunglasses with Music Playback, 6 Hours Playtime (DI87 Max) - Black",
+    "url": "https://www.techcrazy.co.nz/products/hoco-wireless-air-conduction-audio-sunglasses-with-music-playback-6-hours-playtime-di87-max-black",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Wireless-Air-Conduction-Audio-Sunglasses-AU01240.jpg?v=1768444981",
+    "site": "TechCrazy",
+    "old_price": 99.0,
+    "new_price": 39.0,
+    "saving": 60.0,
+    "saving_pct": 60.6,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-08-13T18:51:17Z"
+  },
+  {
+    "name": "Apple iPhone 15 256GB 5G - Blue (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-256gb-5g-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-128GB-Blue-MP-00052.jpg?v=1749776148",
+    "site": "TechCrazy",
+    "old_price": 1399.0,
+    "new_price": 984.0,
+    "saving": 415.0,
+    "saving_pct": 29.7,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-08-13T18:51:17Z"
+  },
+  {
+    "name": "Microsoft Surface Pro 7+ 12.3-inch i5 11th Gen 8GB 256GB @2.40GHz Windows 11 Pro Touch Screen - Platinum (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/microsoft-surface-pro-7-12-inch-i5-11th-gen-8gb-256gb-2-40ghz-w10p-with-keyboard-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Microsoft-Surface-Pro-7_-12-inch-i7-CT-00180_223ae9bd-6c99-4cb2-8d94-76e7f7b77a96.jpg?v=1716339842",
+    "site": "TechCrazy",
+    "old_price": 699.0,
+    "new_price": 549.0,
+    "saving": 150.0,
+    "saving_pct": 21.5,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-08-13T18:51:17Z"
+  },
+  {
+    "name": "Apple iPhone 14 128GB 5G - Red (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-very-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone14128GB5GMP023141_d53eaf4a-0744-48c8-ad54-f10eae46f0c3.jpg?v=1723616321",
+    "site": "TechCrazy",
+    "old_price": 1199.0,
+    "new_price": 669.0,
+    "saving": 530.0,
+    "saving_pct": 44.2,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-08-13T18:51:17Z"
+  }
+]
