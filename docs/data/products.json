@@ -42,7 +42,7 @@
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-ultra-5g-128gb-burgundy-excellent": {
     "name": "Samsung Galaxy S22 Ultra 5G 128GB Burgundy Excellent",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-ultra-5g-128gb-burgundy-excellent",
-    "price": 749.99,
+    "price": 729.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BUR-image-0.jpg?v=1697678391",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -232,10 +232,10 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-s24-256gb-marble-grey-brand-new": {
-    "name": "Samsung Galaxy S24  256GB Marble Grey  Brand New",
+    "name": "Samsung Galaxy S24  256GB onyx Black Brand New",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s24-256gb-marble-grey-brand-new",
     "price": 899.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/GRY-image-0_69648c49-d5f9-4df5-b05c-5b6bce662f83.webp?v=1779420753",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLK-image-0.webp?v=1786663403",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
@@ -594,7 +594,7 @@
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-s26-ultra-violet-256gb-brand-new": {
     "name": "Samsung Galaxy S26 ULTRA Violet 256GB Brand New",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s26-ultra-violet-256gb-brand-new",
-    "price": 1999.99,
+    "price": 1949.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/MPHSAM0094802__1_12233c36-e0cf-4ae7-b3e7-971907cc85f1.jpg?v=1773019327",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -47706,7 +47706,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-8-plus-256gb-black-excellent": {
     "name": "Apple iPhone 8 Plus 256GB Black Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-8-plus-256gb-black-excellent",
-    "price": 299.99,
+    "price": 279.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-8-Plus-64GB-Black-Excellent_43f00dd1-5e35-4bdd-8eb0-05869c7a5fb3.webp?v=1739015319",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-08T14:40:57Z"
@@ -49034,7 +49034,7 @@
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-ultra-5g-256gb-burgundy-excellent": {
     "name": "Samsung Galaxy S22 Ultra 5G 256GB Burgundy Excellent",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-ultra-5g-256gb-burgundy-excellent",
-    "price": 799.99,
+    "price": 749.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BUR-image-0_bb648952-8195-4cd5-af73-e60d3e151e62.jpg?v=1712825682",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-24T10:36:14Z"
@@ -49042,7 +49042,7 @@
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-ultra-5g-256gb-phantom-black-excellent": {
     "name": "Samsung Galaxy S22 Ultra 5G 256GB  Phantom Black Excellent",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-ultra-5g-256gb-phantom-black-excellent",
-    "price": 799.99,
+    "price": 749.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/MPHSAM2090800__1.jpg?v=1703724395",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-24T10:36:14Z"
@@ -53994,7 +53994,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-15-pro-max-256gb-natural-titanium-excellent": {
     "name": "Apple iPhone 15 Pro Max 256GB Natural  Titanium Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-15-pro-max-256gb-natural-titanium-excellent",
-    "price": 1299.99,
+    "price": 1399.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/NAT-image-0_1.jpg?v=1769138794",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-02T01:55:26Z"
@@ -56486,5 +56486,37 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer_TravelMate_Spin_B311RN-31_11.6-inch_Intel_Pentium_Silver_N5030_8GB_256GB_1.10GHz_Windows_11_Pro_Touch_Screen_Laptop_No_Stylus_-_Black_Acceptable-Refurbished_Laptop_Bag_Wireless_Mouse_GM41_Earbuds_EW207_Bundle_Deal.jpg?v=1786635382",
     "site": "TechCrazy",
     "date_first_seen": "2026-08-13T18:51:17Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-galaxy-s23-ultra-green-512gb-excellent": {
+    "name": "Samsung Galaxy S23 ULTRA  Green 512GB  Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s23-ultra-green-512gb-excellent",
+    "price": 969.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/GRE-image-0.webp?v=1712824569",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-14T01:10:19Z"
+  },
+  "https://hotspotelectronics.co.nz/products/iphone-12-128gb-white-excellent-battery-100": {
+    "name": "iPhone 12 128GB  White Excellent (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/iphone-12-128gb-white-excellent-battery-100",
+    "price": 489.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iphone-12-Mini-64GB-White-Excellent_2e253a58-a128-4f17-800d-58058d9f877a.webp?v=1736963813",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-14T01:10:19Z"
+  },
+  "https://hotspotelectronics.co.nz/products/iphone-12-pro-128gb-gold-excellent-battery-100": {
+    "name": "iPhone 12 Pro 128GB Gold Excellent (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/iphone-12-pro-128gb-gold-excellent-battery-100",
+    "price": 589.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/iphone-12-pro-gold.jpg?v=1723890896",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-14T01:10:19Z"
+  },
+  "https://hotspotelectronics.co.nz/products/iphone-14-128gb-starlight-excellent-battery-100": {
+    "name": "iPhone 14 128GB  Starlight  Excellent  (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/iphone-14-128gb-starlight-excellent-battery-100",
+    "price": 699.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/image-2023-04-01T211654.001.webp?v=1680337170",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-14T01:10:19Z"
   }
 }
