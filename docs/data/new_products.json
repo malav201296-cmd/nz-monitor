@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "name": "Apple iPhone 17 Pro Max 256GB 5G Battery 100% - Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-17-pro-max-256gb-5g-battery-100-silver-very-good-refurbished",
+    "price": 1999.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-17-Pro-Max-256GB-MP01028.jpg?v=1786902444",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-16T18:15:42Z"
+  },
+  {
+    "name": "Apple iPhone 14 128GB 5G E-SIM - Red (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-e-sim-red-acceptable-refurbished",
+    "price": 599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple_20iPhone_2014_20128GB_205G_20MP_2002314_201.jpg?v=1786902079",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-16T18:15:42Z"
+  },
+  {
+    "name": "Apple iPhone SE 2nd Gen (2020) 256GB 4G - White (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-se-2nd-gen-2020-256gb-4g-white-acceptable-refurbished",
+    "price": 189.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-SE-64GB-_2020_-MP-03267_b2b36d7f-b05b-4ee8-b9b7-7b973e99ba6c.jpg?v=1786901968",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-16T18:15:42Z"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 256GB 5G E-Sim Only - Space Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-pro-max-256gb-5g-e-sim-only-space-black-very-good-refurbished",
+    "price": 999.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-14-Pro-Max-128GB-Space-Black-MP-03641_1a12d327-78a0-421e-87a3-1975ce3f11dc.jpg?v=1786901574",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-16T18:15:42Z"
+  }
+]
