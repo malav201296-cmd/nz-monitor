@@ -12722,7 +12722,7 @@
   "https://www.techcrazy.co.nz/products/sony-ps5-digital-edition-slim-console-825gb-with-wireless-controller-white-brand-new": {
     "name": "Sony PS5 Digital Edition Slim Console 825GB With Wireless Controller - White (Brand New)",
     "url": "https://www.techcrazy.co.nz/products/sony-ps5-digital-edition-slim-console-825gb-with-wireless-controller-white-brand-new",
-    "price": 769.0,
+    "price": 859.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Sony-PS5-Digital-Edition-Console-825GB-HE00624-0_cc16d342-f124-4ff0-bd42-576f1c0aa95d.jpg?v=1765321741",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -26698,7 +26698,7 @@
   "https://www.techcrazy.co.nz/products/apple-imac-21-5-inch-i5-2017-8gb-128gb-good-pre-owned": {
     "name": "Apple iMac 21.5-inch i5 (2017) 8GB 128GB (Good Pre-Owned)",
     "url": "https://www.techcrazy.co.nz/products/apple-imac-21-5-inch-i5-2017-8gb-128gb-good-pre-owned",
-    "price": 599.0,
+    "price": 799.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iMac-21-5-inch-i5-_2017_-8GB-128GB-CT-00628-0.jpg?v=1736822146",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -56550,5 +56550,29 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-14-Pro-Max-128GB-Space-Black-MP-03641_1a12d327-78a0-421e-87a3-1975ce3f11dc.jpg?v=1786901574",
     "site": "TechCrazy",
     "date_first_seen": "2026-08-16T18:15:42Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-ipad-air-5-2022-10-9-inch-m1-chip-8gb-64gb-wifi-cellular-blue-good-refurbished": {
+    "name": "Apple iPad Air 5 (2022) 10.9-inch M1 Chip 8GB 64GB Wifi + Cellular - Blue (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-air-5-2022-10-9-inch-m1-chip-8gb-64gb-wifi-cellular-blue-good-refurbished",
+    "price": 699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Air-5-_2022_-CT00058_af162804-966d-46a1-b540-7ac58986c0ee.jpg?v=1786934438",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-17T06:35:20Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-ipad-air-5-2022-10-9-inch-m1-chip-8gb-64gb-wifi-cellular-blue-very-good-refurbished": {
+    "name": "Apple iPad Air 5 (2022) 10.9-inch M1 Chip 8GB 64GB Wifi + Cellular - Blue (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-air-5-2022-10-9-inch-m1-chip-8gb-64gb-wifi-cellular-blue-very-good-refurbished",
+    "price": 749.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Air-5-_2022_-CT00058_2422233d-46eb-4f06-b90d-33bfd61424e3.jpg?v=1786934436",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-17T06:35:20Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-14-plus-128gb-5g-blue-very-good-refurbished": {
+    "name": "Apple iPhone 14 Plus 128GB 5G - Blue (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-plus-128gb-5g-blue-very-good-refurbished",
+    "price": 699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-14-Plus-128GB-MP01744_4e2b3dc3-279c-4f5e-a87f-701f32ddbd3a.jpg?v=1786934432",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-17T06:35:20Z"
   }
 }
