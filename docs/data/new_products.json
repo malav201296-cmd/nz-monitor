@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "name": "HP Chromebook G6 11.6” 1.1GHz Intel Celeron N3450 Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/hp-chromebook-g6-11-6-1-1ghz-intel-celeron-n3450-excellent",
+    "price": 159.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/c06224431.png?v=1675848857",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-19T06:27:47Z"
+  },
+  {
+    "name": "Apple iPad 9 64GB Wi-FI  Silver Good Condition",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-9-64gb-wi-fi-silver-good-condition",
+    "price": 339.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/ipad9.webp?v=1787110877",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-19T06:27:47Z"
+  },
+  {
+    "name": "Apple iPad 7 128GB Wi-Fi & Cellular Space Grey Good Condition",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-7-128gb-wi-fi-cellular-space-grey-good-condition",
+    "price": 249.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/ipad-7th-generation-space-gray_4a529035-bdcd-4709-8b1c-989839a9cb09.jpg?v=1723890623",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-19T06:27:47Z"
+  },
+  {
+    "name": "Apple iPad Air 5  10.9-inch M1 Chip 8GB 256GB Wifi + Cellular 5G - Space Grey",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-air-5-10-9-inch-m1-chip-8gb-256gb-wifi-cellular-5g-space-grey",
+    "price": 749.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/ipad_air55.jpg?v=1787105721",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-19T06:27:47Z"
+  },
+  {
+    "name": "Apple iPad 9 64GB Wi-FI  Space Grey Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-9-64gb-wi-fi-space-grey-excellent",
+    "price": 369.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/iPad-9-64GB-Wi-FI-Brand-New.webp?v=1737028747",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-19T06:27:47Z"
+  }
+]

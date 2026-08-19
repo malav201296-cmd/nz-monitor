@@ -1450,7 +1450,7 @@
   "https://hotspotelectronics.co.nz/products/ipad-air-4-10-9-inch-64gb-wi-fi-green-excellent": {
     "name": "iPad Air 4 10.9 inch 64GB Wi-Fi Green Excellent",
     "url": "https://hotspotelectronics.co.nz/products/ipad-air-4-10-9-inch-64gb-wi-fi-green-excellent",
-    "price": 619.99,
+    "price": 649.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/GRE-image-0_abd28247-94ed-43b7-9873-8b24ffae139f.webp?v=1749624210",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -11266,7 +11266,7 @@
   "https://www.techcrazy.co.nz/products/apple-iphone-13-128gb-5g-pink-acceptable-reconditioned": {
     "name": "Apple iPhone 13 128GB 5G - Pink (Acceptable-Reconditioned)",
     "url": "https://www.techcrazy.co.nz/products/apple-iphone-13-128gb-5g-pink-acceptable-reconditioned",
-    "price": 549.0,
+    "price": 599.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-13-128GB-5G-MP-03413_eea4ecea-ed73-4b58-8d67-7af1b878b7ae.jpg?v=1767380391",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -14130,7 +14130,7 @@
   "https://www.techcrazy.co.nz/products/apple-airpods-3-with-magsafe-charging-white-good-pre-owned": {
     "name": "Apple AirPods 3 Magsafe Charging Case - White (Good-Reconditioned)",
     "url": "https://www.techcrazy.co.nz/products/apple-airpods-3-with-magsafe-charging-white-good-pre-owned",
-    "price": 179.0,
+    "price": 210.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-AirPods-_3rd-generation_-with-Lightning-Charging-Case-MBA-02408_dfe4c2ce-f082-432e-856d-4ee7145ff7aa.jpg?v=1762477198",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -56646,5 +56646,45 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Nintendo-Switch-Console-_2019_-HE00155.jpg?v=1787037940",
     "site": "TechCrazy",
     "date_first_seen": "2026-08-18T12:26:13Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hp-chromebook-g6-11-6-1-1ghz-intel-celeron-n3450-excellent": {
+    "name": "HP Chromebook G6 11.6” 1.1GHz Intel Celeron N3450 Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/hp-chromebook-g6-11-6-1-1ghz-intel-celeron-n3450-excellent",
+    "price": 159.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/c06224431.png?v=1675848857",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-19T06:27:47Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-ipad-9-64gb-wi-fi-silver-good-condition": {
+    "name": "Apple iPad 9 64GB Wi-FI  Silver Good Condition",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-9-64gb-wi-fi-silver-good-condition",
+    "price": 339.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/ipad9.webp?v=1787110877",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-19T06:27:47Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-ipad-7-128gb-wi-fi-cellular-space-grey-good-condition": {
+    "name": "Apple iPad 7 128GB Wi-Fi & Cellular Space Grey Good Condition",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-7-128gb-wi-fi-cellular-space-grey-good-condition",
+    "price": 249.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/ipad-7th-generation-space-gray_4a529035-bdcd-4709-8b1c-989839a9cb09.jpg?v=1723890623",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-19T06:27:47Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-ipad-air-5-10-9-inch-m1-chip-8gb-256gb-wifi-cellular-5g-space-grey": {
+    "name": "Apple iPad Air 5  10.9-inch M1 Chip 8GB 256GB Wifi + Cellular 5G - Space Grey",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-air-5-10-9-inch-m1-chip-8gb-256gb-wifi-cellular-5g-space-grey",
+    "price": 749.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/ipad_air55.jpg?v=1787105721",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-19T06:27:47Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-ipad-9-64gb-wi-fi-space-grey-excellent": {
+    "name": "Apple iPad 9 64GB Wi-FI  Space Grey Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-9-64gb-wi-fi-space-grey-excellent",
+    "price": 369.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/iPad-9-64GB-Wi-FI-Brand-New.webp?v=1737028747",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-19T06:27:47Z"
   }
 }
