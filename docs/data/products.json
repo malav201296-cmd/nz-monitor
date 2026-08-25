@@ -57670,5 +57670,37 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Sony-PS5-Disk-Edition-Console-825GB-HE00156-2.jpg?v=1787647340",
     "site": "TechCrazy",
     "date_first_seen": "2026-08-25T12:29:44Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-watch-series-8-aluminum-41mm-gps-black-midnight-acceptable-refurbished": {
+    "name": "Apple Watch Series 8 Aluminum 41MM GPS Black - Midnight (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-series-8-aluminum-41mm-gps-black-midnight-acceptable-refurbished",
+    "price": 349.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Series-8-Aluminum-41MM-WE00387_fd0adef3-e217-4f1c-a882-9f4040823283.jpg?v=1787673477",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-25T18:25:34Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-watch-series-8-aluminum-41mm-gps-cellular-black-midnight-acceptable-refurbished": {
+    "name": "Apple Watch Series 8 Aluminum 41MM GPS + Cellular Black - Midnight (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-series-8-aluminum-41mm-gps-cellular-black-midnight-acceptable-refurbished",
+    "price": 369.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Series-8-Aluminum-41MM-WE00387.jpg?v=1787673333",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-25T18:25:34Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-watch-series-5-aluminum-44mm-gps-cellular-black-strap-space-gray-acceptable-refurbished": {
+    "name": "Apple Watch Series 5 Aluminum 44mm GPS + Cellular Black Strap - Space Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-series-5-aluminum-44mm-gps-cellular-black-strap-space-gray-acceptable-refurbished",
+    "price": 229.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Series-5-Aluminum-44mm-WE00382-1.jpg?v=1787672308",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-25T18:25:34Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-watch-se-gen-2-aluminium-40mm-gps-starlight-strap-starlight-good-refurbsihed": {
+    "name": "Apple Watch SE Gen-2 Aluminum 40mm GPS Starlight Strap - Starlight (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-se-gen-2-aluminium-40mm-gps-starlight-strap-starlight-good-refurbsihed",
+    "price": 299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-SE-Gen-2-Aluminum-40mm-WE00381.jpg?v=1787671961",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-25T18:25:34Z"
   }
 }
