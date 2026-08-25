@@ -1,178 +1,82 @@
 [
   {
-    "name": "Apple AirPods 4th Generation Brand New",
-    "url": "https://hotspotelectronics.co.nz/products/apple-airpods-4th-generation-brand-new",
-    "price": 249.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/HSTAPP6331745__2.jpg?v=1736470459",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Apple iPhone 11 128GB Green Excellent (BATTERY 100%)",
-    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-128gb-green-excellent-battery-100",
-    "price": 429.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/iphone-11-green.jpg?v=1723890685",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Hoco W35 MAX Wireless Stereo Headphone - Silver",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-w35-max-wireless-stereo-headphone-silver",
-    "price": 44.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Hoco-W35-Max-ANC-Wireless-Headph.png?v=1760072369",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Hoco W118 Lightweight Over-Ear Wired Gaming Headset",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-lightweight-over-ear-wired-gaming-headset",
-    "price": 39.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/9_600x_df2b5c72-0581-4afe-8a0b-da82782909cd.webp?v=1785384303",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "HOCO W72 Leather Bluetooth Headset with Mirror LED Light",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-w72-leather-bluetooth-headset-with-mirror-led-light",
-    "price": 39.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/11_600x_da34a85e-aa23-46d4-b0e2-4df49eabfda9.webp?v=1785383157",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Hoco W63 ANC Wireless Headphones – Black",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-w63-anc-wireless-headphones-black",
-    "price": 49.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/4-da889d95a9-2026-05-07_00h22_42.webp?v=1784938056",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "HOCO W48 RGB Light Wireless Headphones – Black",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-w48-rgb-light-wireless-headphones-black",
-    "price": 49.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/HOCO-W48-Wireless-Headphones-1.jpg?v=1784937395",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "HOCO Y32 Smart Watch Pink Brand New",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-y32-smart-watch-pink-brand-new",
-    "price": 69.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/OIP.jpg?v=1778891128",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Hoco Y33 Curved Screen Smart Watch Black Brand New",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-y33-curved-screen-smart-watch-black-brand-new",
-    "price": 65.0,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Hoco_watch.png?v=1787278756",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Hoco W67 Open Ear Bluetooth Headphones – White",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-w67-open-ear-bluetooth-headphones-white",
-    "price": 49.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2026-03-07132943.png?v=1772843483",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Hoco Y31 Touch Screen Smart Watch Black Brand New",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-y31-touch-screen-smart-watch-black-brand-new",
-    "price": 69.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2026-03-07132455.png?v=1772843301",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Hoco Y31 Touch Screen Smart Watch Silver Brand New",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-y31-touch-screen-smart-watch-silver-brand-new",
-    "price": 69.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2026-02-06161257.png?v=1770347705",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Hoco W67 Open Ear Bluetooth Headphones – Black",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-w67-open-ear-bluetooth-headphones-black",
-    "price": 49.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2026-03-07115135.png?v=1772842282",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Hoco W52 Wireless Stereo Headphone – Black",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-w52-wireless-stereo-headphone-black",
-    "price": 44.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot_2026-01-16_115513.png?v=1772840547",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Apple Watch SE 2 GPS 44mm Midnight Brand New",
-    "url": "https://hotspotelectronics.co.nz/products/apple-watch-se-2-gps-44mm-midnight-brand-new",
-    "price": 499.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/WTHAPP644320__2.jpg?v=1736208195",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Hoco Y33 Curved Screen Smart Watch Silver Brand New",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-y33-curved-screen-smart-watch-silver-brand-new",
-    "price": 65.0,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Hoco-Y33-Smart-Watch-Curved-Screen-3.jpg?v=1766801883",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Hoco W61 Wired Headdphones – Yellow & Orange",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-w61-wired-headdphones-yellow-orange",
-    "price": 34.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/1-664b29973d-14_f49b4fc7_5e2e_4991_8af5_4784766d6ae4__57482175549095712801280.webp?v=1760070063",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Hoco W53 Premium Bluetooth Headphones - Black",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-w53-premium-bluetooth-headphones-black",
-    "price": 54.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/12_600x_77aa3193-392e-4e74-8abc-9b4b092c58b0.webp?v=1760067455",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Hoco W53 Premium Bluetooth Headphones - White",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-w53-premium-bluetooth-headphones-white",
-    "price": 54.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/W53-BK-2-800x800.jpg?v=1760066422",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Vipfan True Wireless Earphones Pro T03",
-    "url": "https://hotspotelectronics.co.nz/products/vipfan-true-wireless-earphones-pro-t03",
-    "price": 49.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/01_600x_c90e8849-3c7b-4eb6-bba0-0a5e919a6485.webp?v=1679823967",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "Hoco Crystal TWS Headset EW54 Brand New",
-    "url": "https://hotspotelectronics.co.nz/products/hoco-crystal-tws-headset-ew54-brand-new",
-    "price": 24.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/hoco-ew54-rayo-tws-headset-white.jpg?v=1757207295",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-25T06:30:16Z"
-  },
-  {
-    "name": "TPU Case with Air Cushion For Apple iPhone 15 Plus - Clear",
-    "url": "https://www.techcrazy.co.nz/products/tpu-case-with-air-cushion-for-apple-iphone-15-plus-clear",
-    "price": 29.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/TPU-Case-with-Air-Cushion-For-Apple-iPhone-15-Pro-inch---Clear-MBA02673.jpg?v=1787623543",
+    "name": "Apple iPad Mini 4 64GB Wifi Only - Space Gray (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-mini-4-64gb-wifi-only-space-gray-good-refurbished",
+    "price": 199.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Mini-4-7.9-inch-128GB-Wifi-Only-Space-Grey-CT-00790-1_f70a0b81-5195-4a80-ba71-69bb613ff731.jpg?v=1787650193",
     "site": "TechCrazy",
-    "date_first_seen": "2026-08-25T06:30:16Z"
+    "date_first_seen": "2026-08-25T12:29:44Z"
+  },
+  {
+    "name": "Apple iPhone 14 128GB 5G - Purple (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-purple-good-refurbished",
+    "price": 625.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone14128GBMP-07076_928d70d2-1cdd-4298-bded-05987fd96115.jpg?v=1787649661",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-25T12:29:44Z"
+  },
+  {
+    "name": "Apple iPhone 14 128GB 5G - Blue (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-blue-acceptable-refurbished",
+    "price": 588.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone14128GBMP01743_fb442abb-d17e-472f-98be-ec3dba3fd818.jpg?v=1787649487",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-25T12:29:44Z"
+  },
+  {
+    "name": "Apple iPhone 11 Pro 64GB 4G Battery 100% - Space Gray (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-11-pro-64gb-4g-battery-100-space-gray-good-refurbished",
+    "price": 479.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple_20iPhone_2011_20Pro_2064GB_20MP_2003146_203_687aae72-e245-4f5b-99dd-1248a0c853f2.jpg?v=1787649204",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-25T12:29:44Z"
+  },
+  {
+    "name": "Apple iPhone 8 Plus 64GB 4G - Space Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-8-plus-64gb-4g-space-gray-acceptable-refurbished",
+    "price": 149.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone8Plus64GBMP-03081_02976f64-f548-4860-b979-06c544a8fdf3.jpg?v=1787649056",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-25T12:29:44Z"
+  },
+  {
+    "name": "Apple iPad 8th Gen (2020) 10.2-inch 32GB Wifi Only - Gold (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-8th-gen-2020-10-2-inch-32gb-wifi-only-gold-acceptable-refurbished",
+    "price": 399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-8th-Gen-_2020_-CT00917-2_2bbd6562-d91f-4e88-8eef-456179dc64e5.jpg?v=1787648607",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-25T12:29:44Z"
+  },
+  {
+    "name": "Apple iPad 8th Gen (2020) 10.2-inch 32GB Wifi Only - Gold (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-8th-gen-2020-10-2-inch-32gb-wifi-only-gold-good-refurbished",
+    "price": 399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-8th-Gen-_2020_-CT00917-2_290a3bdb-ff3b-4f97-bac4-e3a1b9e6371f.jpg?v=1787648500",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-25T12:29:44Z"
+  },
+  {
+    "name": "Apple iPad 8th Gen (2020) 10.2-inch 32GB Wifi Only - Space Grey (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-8th-gen-2020-10-2-inch-32gb-wifi-only-space-grey-acceptable-refurbished",
+    "price": 399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-8-_2021_-128GB-Wifi-_-Cellular-4G-CT-03195_22f22f53-a9e4-416b-a79c-70105144dcd1.jpg?v=1787648291",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-25T12:29:44Z"
+  },
+  {
+    "name": "Nintendo Switch Console (2017) 6.2-inch 32GB - Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/nintendo-switch-console-2017-6-2-inch-32gb-black-good-refurbished",
+    "price": 179.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Nintendo-Switch-Console-_2017_-6.2-inch-32GB-HE00157-5.jpg?v=1787648042",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-25T12:29:44Z"
+  },
+  {
+    "name": "Sony PS5 Disk Edition Console 825GB Without Controller - White (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/sony-ps5-disk-edition-console-825gb-without-controller-white-acceptable-refurbished",
+    "price": 899.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Sony-PS5-Disk-Edition-Console-825GB-HE00156-2.jpg?v=1787647340",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-25T12:29:44Z"
   }
 ]
