@@ -1,14 +1,26 @@
 [
   {
-    "name": "Sony Wireless  PS5 Controller Brand New",
-    "url": "https://hotspotelectronics.co.nz/products/sony-wireless-ps5-controller-brand-new",
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/GAMSNY5101__1.webp?v=1763856302",
+    "name": "Apple  iPhone 11 128GB Purple Excellent (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-128gb-purple-excellent-100-battery-health",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-11-64GB-Purple-Excellent_fdfcee4c-f646-4cce-9416-6fde6638b74f.webp?v=1737019672",
     "site": "Hotspot Electronics",
-    "old_price": 129.99,
-    "new_price": 119.99,
-    "saving": 10.0,
-    "saving_pct": 7.7,
-    "date_first_seen": "2026-06-06T05:24:57Z",
-    "detected_at": "2026-08-25T00:44:02Z"
+    "old_price": 549.99,
+    "new_price": 429.99,
+    "saving": 120.0,
+    "saving_pct": 21.8,
+    "date_first_seen": "2026-08-02T01:55:26Z",
+    "detected_at": "2026-08-25T06:30:16Z"
+  },
+  {
+    "name": "Apple iPhone 11 (128GB) Black Excellent (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-128gb-black-excellent-100-battery-health",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-11-64GB-Black-Excellent_455f419c-39e6-4359-85d7-7d058fb711f6.webp?v=1748577410",
+    "site": "Hotspot Electronics",
+    "old_price": 499.99,
+    "new_price": 429.99,
+    "saving": 70.0,
+    "saving_pct": 14.0,
+    "date_first_seen": "2026-08-02T01:55:26Z",
+    "detected_at": "2026-08-25T06:30:16Z"
   }
 ]
