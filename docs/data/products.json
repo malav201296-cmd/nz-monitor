@@ -130,7 +130,7 @@
   "https://hotspotelectronics.co.nz/products/jbl-partybox-encore-essential-portable-speaker": {
     "name": "JBL PartyBox Encore Essential Portable Speaker",
     "url": "https://hotspotelectronics.co.nz/products/jbl-partybox-encore-essential-portable-speaker",
-    "price": 279.0,
+    "price": 269.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/SPKJBL5468778__4_646f4768-16e8-42cb-b3a0-6dad979829d8.jpg?v=1764644712",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -224,7 +224,7 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://hotspotelectronics.co.nz/products/bluetooth-speaker-hoco-bs33-black": {
-    "name": "Hoco BS33 Bluetooth Speaker Black",
+    "name": "Hoco BS33 Bluetooth Speaker - Black",
     "url": "https://hotspotelectronics.co.nz/products/bluetooth-speaker-hoco-bs33-black",
     "price": 34.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/2_700x_3267be92-a3ad-4dc1-b7fb-101f0da3b6d0.jpg?v=1737152333",
@@ -2434,7 +2434,7 @@
   "https://hotspotelectronics.co.nz/products/screen-repair": {
     "name": "Repair",
     "url": "https://hotspotelectronics.co.nz/products/screen-repair",
-    "price": 400.0,
+    "price": 600.0,
     "image": "",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -52066,7 +52066,7 @@
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-s24-ultra-titanium-gray-256gb-excellent-1": {
     "name": "Samsung Galaxy S24 Ultra Titanium Gray 256GB Excellent",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s24-ultra-titanium-gray-256gb-excellent-1",
-    "price": 1199.99,
+    "price": 1149.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/GRY-image-0_a88e2893-7d91-4a65-b93f-b7502ae8e1a2.webp?v=1744343828",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-02T01:55:26Z"
@@ -53832,9 +53832,9 @@
     "date_first_seen": "2026-08-02T01:55:26Z"
   },
   "https://hotspotelectronics.co.nz/products/apple-iphone-16-pro-max-256gb-white-titanium-excellent": {
-    "name": "Apple iPhone 16 Pro Max 256GB White Titanium Excellent",
+    "name": "Apple iPhone 16 Pro Max 256GB White Titanium Excellent  (New Screen Installed )",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-16-pro-max-256gb-white-titanium-excellent",
-    "price": 1699.99,
+    "price": 1539.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-16-Pro-Max-256GB-Dessert-Titanium-Brand-New.._ed6faf54-847e-4fe3-b096-27101c78e639.webp?v=1738942579",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-02T01:55:26Z"
@@ -56386,7 +56386,7 @@
   "https://hotspotelectronics.co.nz/products/sound-magus-ck75-class-ab-75w-rms-4-amp": {
     "name": "Sound Magus CK75 CLASS AB - 75w RMS 4 AMP",
     "url": "https://hotspotelectronics.co.nz/products/sound-magus-ck75-class-ab-75w-rms-4-amp",
-    "price": 229.99,
+    "price": 174.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot_13-8-2026_14647.jpg?v=1786587047",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-13T07:13:57Z"
@@ -57734,5 +57734,117 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Premium-Bluetooth-Headset-AU00152.jpg?v=1787704745",
     "site": "TechCrazy",
     "date_first_seen": "2026-08-26T00:44:53Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-13-pro-max-256gb-white-excellent-battery-100": {
+    "name": "Apple iPhone 13 Pro Max 256GB White Excellent (BATTERY 100%)",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-pro-max-256gb-white-excellent-battery-100",
+    "price": 949.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-13-Pro-Max-128GB-Silver-Excellent.jpg?v=1739006926",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-26T06:32:21Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-bs33-bluetooth-speaker-blue": {
+    "name": "Hoco BS33 Bluetooth Speaker - Blue",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-bs33-bluetooth-speaker-blue",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/695_1.jpg?v=1682816701",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-26T06:32:21Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-wireless-w46-bluetooth-headphone-milky-white": {
+    "name": "Hoco Wireless W46 Bluetooth Headphone Milky white",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-wireless-w46-bluetooth-headphone-milky-white",
+    "price": 24.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/bluetooth-headset-w-20-hours-bluetooth-5.3-w46-white-parallel-imported-new-zealand__44407.jpg?v=1747360637",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-26T06:32:21Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-ds67-bluetooth-speaker-600w-with-2-mics-brand-new": {
+    "name": "HOCO DS67 Bluetooth Speaker 600W With 2 mics - BRAND NEW",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-ds67-bluetooth-speaker-600w-with-2-mics-brand-new",
+    "price": 169.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/1_600x_a6db9310-c9c4-4c83-bdd3-ddce1860bb36.webp?v=1764124132",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-26T06:32:21Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-hc36-bluetooth-speaker-brand-new": {
+    "name": "Hoco HC36 Bluetooth Speaker - Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-hc36-bluetooth-speaker-brand-new",
+    "price": 49.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/3_600x_9329e338-c55a-4824-b9d8-c4181c283c00.webp?v=1764124966",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-26T06:32:21Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-ht1-pro-bluetooth-speaker-white": {
+    "name": "Hoco HT1 Pro Bluetooth Speaker - White",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-ht1-pro-bluetooth-speaker-white",
+    "price": 74.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Hoco-HT1-Max-Portable-Speaker-1-600x600.jpg?v=1764123773",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-26T06:32:21Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-ht1-bluetooth-speaker-black": {
+    "name": "Hoco HT1 Bluetooth Speaker - Black",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-ht1-bluetooth-speaker-black",
+    "price": 74.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Hoco-HT1-Max-Portable-Speaker-600x600_45c57e3e-7213-44ac-a623-95d60bc7109a.jpg?v=1764123584",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-26T06:32:21Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-hc40-wireless-bluetooth-speaker": {
+    "name": "Hoco HC40 Wireless  Bluetooth Speaker",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-hc40-wireless-bluetooth-speaker",
+    "price": 69.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/638973466954900000_dc58700e-bf49-4623-8fee-f71e11b4191a.jpg?v=1764122218",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-26T06:32:21Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-bs51-wireless-portable-loudspeaker-black": {
+    "name": "Hoco BS51 Wireless portable loudspeaker - Black",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-bs51-wireless-portable-loudspeaker-black",
+    "price": 29.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BS51-7_600x_3481c763-bc2e-4f08-bffe-97122b677f52.jpg?v=1757734651",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-26T06:32:21Z"
+  },
+  "https://hotspotelectronics.co.nz/products/bulldog-wireless-bluetooth-speaker-m11-black": {
+    "name": "Bulldog wireless Bluetooth Speaker M11 - Black",
+    "url": "https://hotspotelectronics.co.nz/products/bulldog-wireless-bluetooth-speaker-m11-black",
+    "price": 69.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/4_700x_2d60d84d-9f70-4663-b1de-7c5efbb32443.webp?v=1737777015",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-26T06:32:21Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hoco-bs33-bluetooth-speaker-red": {
+    "name": "Hoco BS33 Bluetooth Speaker - Red",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-bs33-bluetooth-speaker-red",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/RED-image-1_e3014bd7-53c8-40e9-aa7f-d189ef3797a1.webp?v=1737152092",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-26T06:32:21Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-ipad-air-2-16gb-wifi-cellular-gold-very-good-refurbsihed": {
+    "name": "Apple iPad Air 2 16GB Wifi + Cellular - Gold (Very Good-Refurbsihed)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-air-2-16gb-wifi-cellular-gold-very-good-refurbsihed",
+    "price": 149.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Air-2-16GB-Wifi-_-Cellular-CT01049.jpg?v=1787708658",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-26T06:32:21Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-ipad-7-10-2-inch-128gb-wifi-only-rose-gold-very-good-refurbished": {
+    "name": "Apple iPad 7 10.2-inch 128GB Wifi Only - Rose Gold (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-7-10-2-inch-128gb-wifi-only-rose-gold-very-good-refurbished",
+    "price": 299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-7-10-2-inch-128GB-CT01046.jpg?v=1787707193",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-26T06:32:21Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-13-128gb-5g-green-acceptable-reconditioned": {
+    "name": "Apple iPhone 13 128GB 5G - Green (Acceptable-Reconditioned)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-13-128gb-5g-green-acceptable-reconditioned",
+    "price": 699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-13-128GB-5G-Green-MP-03176_3cf30bfb-d859-4233-8042-a92a80bf86f3.jpg?v=1787704749",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-26T06:32:21Z"
   }
 }
