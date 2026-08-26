@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Google Pixel 10A 8GB 128GB 5G - Obsidian (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/google-pixel-10a-8gb-128gb-5g-obsidian-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Google-Pixel-10A-8GB-128GB-5G---Obsidian-MP01005.jpg?v=1785817622",
+    "site": "TechCrazy",
+    "old_price": 885.0,
+    "new_price": 779.0,
+    "saving": 106.0,
+    "saving_pct": 12.0,
+    "date_first_seen": "2026-08-04T08:22:52Z",
+    "detected_at": "2026-08-26T00:44:53Z"
+  },
+  {
+    "name": "Lenovo ThinkPad Yoga 11E Gen 5 11.6-inch N4120 4GB 128GB Windows 11 Pro 2 in 1 Touch Screen Laptop - Black (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/lenovo-thinkpad-yoga-11e-gen-5-11-6-inch-n4120-4gb-128gb-w10p-2-in-1-touch-screen-laptop-as-new-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-ThinkPad-Yoga-11E-Gen-CT-03192.jpg?v=1729820585",
+    "site": "TechCrazy",
+    "old_price": 699.0,
+    "new_price": 269.0,
+    "saving": 430.0,
+    "saving_pct": 61.5,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-08-26T00:44:53Z"
+  },
+  {
+    "name": "Apple iPhone 12 64GB 5G (Good- Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-12-64gb-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/products/Apple-iPhone-12-128GB---Green-MGJF3X-A-1.jpg?v=1703132878",
+    "site": "TechCrazy",
+    "old_price": 599.0,
+    "new_price": 429.0,
+    "saving": 170.0,
+    "saving_pct": 28.4,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-08-26T00:44:53Z"
+  }
+]
