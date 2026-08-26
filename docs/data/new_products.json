@@ -1,18 +1,90 @@
 [
   {
-    "name": "Apple iPad Air 2 9.7-inch 128GB Wifi + Cellular 4G - Gold (Acceptable-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/apple-ipad-air-2-9-7-inch-128gb-wifi-cellular-4g-gold-acceptable-refurbished",
-    "price": 178.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Air-2-9-7-inch-64GB-CT03269_2efa31c5-f453-4fe9-bedb-98a1483752b2.jpg?v=1787734780",
+    "name": "Apple Macbook Air (2017) 13-inch i5 Dual Core 8GB 128GB @1.80GHz Intel HD Graphics 6000 1536 - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2017-13-inch-i5-dual-core-8gb-128gb-1-80ghz-intel-hd-graphics-6000-1536-silver-good-refurbished",
+    "price": 599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-MacBook-Air-13-i5-8GB-256GB-CT-03173_5d69d016-4650-44ee-b8ff-b973e7584064.jpg?v=1787758944",
     "site": "TechCrazy",
-    "date_first_seen": "2026-08-26T12:32:50Z"
+    "date_first_seen": "2026-08-26T19:38:34Z"
   },
   {
-    "name": "Apple iPhone 17 Pro Max 256GB 5G Battery 100% - Silver (As New-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/apple-iphone-17-pro-max-256gb-5g-battery-100-silver-as-new-refurbished",
-    "price": 2099.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-17-Pro-Max-256GB-MP01028_877c82db-1183-4356-a659-657a6cf6bc23.jpg?v=1787734279",
+    "name": "Apple Macbook (2015) 12-inch Intel Core M 8GB 256GB @1.10GHz Intel HD Graphics 5300  - Gold (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-2015-12-inch-intel-core-m-8gb-256gb-1-10ghz-intel-hd-graphics-5300-gold-acceptable-refurbished",
+    "price": 399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-_2015_-12-inch-Intel-Core-M-CT02129.jpg?v=1787758832",
     "site": "TechCrazy",
-    "date_first_seen": "2026-08-26T12:32:50Z"
+    "date_first_seen": "2026-08-26T19:38:34Z"
+  },
+  {
+    "name": "Apple Watch Series 10 Aluminum 42MM GPS Black Strap - Jet Black (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-series-10-aluminum-42mm-gps-black-strap-jet-black-acceptable-refurbished",
+    "price": 499.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Series-10-Aluminium-46MM-WE00209_b2289405-c6f8-469e-983c-7652a523c9ad.jpg?v=1787758570",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-26T19:38:34Z"
+  },
+  {
+    "name": "Apple Watch Series 8 Aluminum 45MM GPS Black Strap - Silver (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-series-8-aluminum-45mm-gps-black-strap-silver-acceptable-refurbished",
+    "price": 349.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Series-8-Aluminum-45MM-WE00388_392af8da-eecf-4ef1-861f-a5402c24868d.jpg?v=1787758455",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-26T19:38:34Z"
+  },
+  {
+    "name": "Apple Watch Series 8 Aluminum 45MM GPS Black Strap - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-series-8-aluminum-45mm-gps-black-strap-silver-good-refurbished",
+    "price": 399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Series-8-Aluminum-45MM-WE00388.jpg?v=1787758294",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-26T19:38:34Z"
+  },
+  {
+    "name": "Apple Watch Series 7 Aluminum 45MM GPS + Cellular Black Strap - Midnight (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-series-7-aluminum-45mm-gps-cellular-black-strap-midnight-acceptable-refurbished",
+    "price": 349.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Series-7-Aluminum-45MM-WE00385-0.jpg?v=1787757939",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-26T19:38:34Z"
+  },
+  {
+    "name": "Apple Watch Series 7 Aluminum 45MM GPS Black Strap - Green (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-series-7-aluminum-45mm-gps-black-strap-green-acceptable-refurbished",
+    "price": 329.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Series-7-Aluminum-45MM-WE00384.jpg?v=1787755811",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-26T19:38:34Z"
+  },
+  {
+    "name": "Apple Watch Series 6 Aluminum 40MM GPS Black Band - Gold (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-series-6-aluminum-40mm-gps-black-band-gold-good-refurbished",
+    "price": 299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Series-4-40MM-GPS-WE00520-0_39337112-3b21-400c-879b-a0e7a8d8d9e8.jpg?v=1787754725",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-26T19:38:34Z"
+  },
+  {
+    "name": "Apple Watch Series 3 Aluminum 42mm GPS+Cellular Black Strap - Space Gray (Acceptble-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-watch-series-3-aluminum-42mm-gps-cellular-black-strap-space-gray-acceptble-refurbished",
+    "price": 199.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Series-3-Aluminum-42mm-GPS-WE00353_1796a849-34b8-4f6e-8c7c-7d9433cebc32.jpg?v=1787754510",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-26T19:38:34Z"
+  },
+  {
+    "name": "Apple iPad 9th Gen (2021) 10.2-inch 64GB Wi-Fi + Cellular - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-9th-gen-2021-10-2-inch-64gb-wi-fi-cellular-silver-good-refurbished",
+    "price": 344.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-9th-Gen-_2021_-CT-00905-1_4b9a23ed-1a32-4565-aa0f-41d633c1939e.jpg?v=1787754324",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-26T19:38:34Z"
+  },
+  {
+    "name": "Apple iPad 8th Gen (2020) 10.2-inch 32GB Wifi + Cellular 4G - Space Gray (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-8th-gen-2020-10-2-inch-32gb-wifi-cellular-4g-space-gray-good-refurbished",
+    "price": 299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-8-_2021_-128GB-Wifi-_-Cellular-4G-CT-03195-1_2b7a756b-421b-43b9-9ab9-946c4d7ac082.jpg?v=1787754163",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-26T19:38:34Z"
   }
 ]
