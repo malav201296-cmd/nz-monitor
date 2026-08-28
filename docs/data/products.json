@@ -146,7 +146,7 @@
   "https://hotspotelectronics.co.nz/products/ipad-air-5-10-9-inch-64gb-wi-fi-cellular-blue-excellent": {
     "name": "iPad Air 5 10.9 inch 64GB Wi-Fi & Cellular  Blue Excellent",
     "url": "https://hotspotelectronics.co.nz/products/ipad-air-5-10-9-inch-64gb-wi-fi-cellular-blue-excellent",
-    "price": 679.99,
+    "price": 689.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLU-image-0_a24da0ed-bf99-4f9b-ac6a-e994e352b56f.webp?v=1773278301",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -2362,7 +2362,7 @@
   "https://hotspotelectronics.co.nz/products/apple-ipad-9-generation-256gb-cellular-space-grey-excellent": {
     "name": "Apple iPad 9 Generation 256GB Cellular Space grey Good Condition",
     "url": "https://hotspotelectronics.co.nz/products/apple-ipad-9-generation-256gb-cellular-space-grey-excellent",
-    "price": 529.99,
+    "price": 399.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-Ipad-9-64GB-WIFI-NZ-PC-Clearance-Image-2_9f528496-9065-41ca-9c55-ff2d52606aac.jpg?v=1753150029",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -4506,7 +4506,7 @@
   "https://www.techcrazy.co.nz/products/skullcandy-crusher-wireless-over-ear-headphones-black-brand-new": {
     "name": "SkullCandy Crusher Wireless Over-Ear Headphones - Black (Brand New)",
     "url": "https://www.techcrazy.co.nz/products/skullcandy-crusher-wireless-over-ear-headphones-black-brand-new",
-    "price": 199.0,
+    "price": 149.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/SkullCandy-Crusher-Wireless-Over-Ear-Headphones-AU00526.jpg?v=1779078259",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -10970,7 +10970,7 @@
   "https://www.techcrazy.co.nz/products/beats-solo-4-wireless-on-ear-headphones-matte-gray-brand-new": {
     "name": "Beats Solo 4 Wireless On-Ear Headphones - Matte Gray (Brand New)",
     "url": "https://www.techcrazy.co.nz/products/beats-solo-4-wireless-on-ear-headphones-matte-gray-brand-new",
-    "price": 288.0,
+    "price": 199.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Beats-Solo-4-Wireless-On-Ear-Headphones---Matte-Gray-AU00132.jpg?v=1767777320",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -13346,7 +13346,7 @@
   "https://www.techcrazy.co.nz/products/hoco-40w-premium-bluetooth-portable-speaker-ht1-max-black": {
     "name": "Hoco 40W Premium Bluetooth Portable Speaker (HT1 Max) - Black",
     "url": "https://www.techcrazy.co.nz/products/hoco-40w-premium-bluetooth-portable-speaker-ht1-max-black",
-    "price": 99.0,
+    "price": 59.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-40W-Premium-Bluetooth-Portable-Speaker-_HT1-Max_-AU00203.jpg?v=1764136018",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -56274,7 +56274,7 @@
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-tab-a9-plus-64gb-graphite-excellent": {
     "name": "Samsung GALAXY TAB A9 Plus 64GB Graphite Excellent",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-tab-a9-plus-64gb-graphite-excellent",
-    "price": 259.99,
+    "price": 279.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/7n5i0w.ffdc54.l.jpg?v=1759016169",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-12T01:10:09Z"
@@ -57258,7 +57258,7 @@
   "https://hotspotelectronics.co.nz/products/apple-ipad-11-inch-with-a16-chip-128gb-wifi-pink-excellent": {
     "name": "Apple iPad 11-inch with A16 Chip 128GB WiFi - Pink Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-ipad-11-inch-with-a16-chip-128gb-wifi-pink-excellent",
-    "price": 699.99,
+    "price": 719.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/shopping_6.webp?v=1787540902",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-24T06:37:56Z"
@@ -57998,5 +57998,45 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/3_600x_18a81d60-60ca-4fbc-8fda-dadf6f468f7e.webp?v=1723877999",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-27T05:55:15Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-tab-a7-lite-8-7-2021-glass-screen-protector": {
+    "name": "Samsung Tab A7 Lite 8.7\" 2021 Glass Screen Protector",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-tab-a7-lite-8-7-2021-glass-screen-protector",
+    "price": 24.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2025-12-03141845.png?v=1764724744",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-28T01:56:19Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-galaxy-tab-a-8-0-sm-t387-glass": {
+    "name": "Samsung Galaxy Tab A 8.0 SM-T387 Glass",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-tab-a-8-0-sm-t387-glass",
+    "price": 24.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/1700130045_0100_0100.jpg?v=1787877601",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-28T01:56:19Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-galaxy-tab-s9-glass-screen-protector": {
+    "name": "Samsung Galaxy Tab S9+ Glass Screen Protector",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-tab-s9-glass-screen-protector",
+    "price": 24.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/TB-SAM-2308-TS9U.SPG_T3CYBRW2ZFPN.webp?v=1787876401",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-28T01:56:19Z"
+  },
+  "https://hotspotelectronics.co.nz/products/tempered-glass-for-apple-ipad-air-4-5-10-9-inch": {
+    "name": "Tempered Glass For Apple iPad Air 4/5 10.9-inch",
+    "url": "https://hotspotelectronics.co.nz/products/tempered-glass-for-apple-ipad-air-4-5-10-9-inch",
+    "price": 19.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/shopping_8.webp?v=1787875947",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-28T01:56:19Z"
+  },
+  "https://hotspotelectronics.co.nz/products/glass-protector-for-ipad-10th-ipad-162025-10-9inch": {
+    "name": "Glass Protector for iPad 10th, iPad 16(2025)",
+    "url": "https://hotspotelectronics.co.nz/products/glass-protector-for-ipad-10th-ipad-162025-10-9inch",
+    "price": 19.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/TB-APL-2211-IPA10.SPG_SX5AQX9UDO8D.webp?v=1787875431",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-08-28T01:56:19Z"
   }
 }

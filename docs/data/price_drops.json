@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "name": "Apple iPad 9 Generation 256GB Cellular Space grey Good Condition",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-9-generation-256gb-cellular-space-grey-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-Ipad-9-64GB-WIFI-NZ-PC-Clearance-Image-2_9f528496-9065-41ca-9c55-ff2d52606aac.jpg?v=1753150029",
+    "site": "Hotspot Electronics",
+    "old_price": 529.99,
+    "new_price": 399.99,
+    "saving": 130.0,
+    "saving_pct": 24.5,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-08-28T01:56:19Z"
+  },
+  {
+    "name": "SkullCandy Crusher Wireless Over-Ear Headphones - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/skullcandy-crusher-wireless-over-ear-headphones-black-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/SkullCandy-Crusher-Wireless-Over-Ear-Headphones-AU00526.jpg?v=1779078259",
+    "site": "TechCrazy",
+    "old_price": 199.0,
+    "new_price": 149.0,
+    "saving": 50.0,
+    "saving_pct": 25.1,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-08-28T01:56:19Z"
+  },
+  {
+    "name": "Beats Solo 4 Wireless On-Ear Headphones - Matte Gray (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/beats-solo-4-wireless-on-ear-headphones-matte-gray-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Beats-Solo-4-Wireless-On-Ear-Headphones---Matte-Gray-AU00132.jpg?v=1767777320",
+    "site": "TechCrazy",
+    "old_price": 288.0,
+    "new_price": 199.0,
+    "saving": 89.0,
+    "saving_pct": 30.9,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-08-28T01:56:19Z"
+  },
+  {
+    "name": "Hoco 40W Premium Bluetooth Portable Speaker (HT1 Max) - Black",
+    "url": "https://www.techcrazy.co.nz/products/hoco-40w-premium-bluetooth-portable-speaker-ht1-max-black",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-40W-Premium-Bluetooth-Portable-Speaker-_HT1-Max_-AU00203.jpg?v=1764136018",
+    "site": "TechCrazy",
+    "old_price": 99.0,
+    "new_price": 59.0,
+    "saving": 40.0,
+    "saving_pct": 40.4,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-08-28T01:56:19Z"
+  }
+]
