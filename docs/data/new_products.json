@@ -1,10 +1,114 @@
 [
   {
-    "name": "Samsung Galaxy A06 5G Black 128GB Brand New",
-    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-a06-5g-black-128gb-brand-new",
-    "price": 179.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/N231772_8.webp?v=1731986140",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-08-31T12:13:42Z"
+    "name": "Apple iPad Pro 2nd Gen 12.9-inch 256GB Wifi Only - Space Gray (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-pro-2nd-gen-12-9-inch-256gb-wifi-only-space-gray-good-refurbished",
+    "price": 799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-2nd-Gen-CT03384-0_24c61d67-c94d-4432-a966-fad627a90624.jpg?v=1788191088",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-31T22:12:30Z"
+  },
+  {
+    "name": "Apple iPad Pro (2016) 9.7-inch 32GB Wifi + Cellular - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-pro-2016-9-7-inch-32gb-wifi-cellular-silver-good-refurbished",
+    "price": 499.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-_2016_-9-7-inch-32GB-Wifi-_-Cellular-CT00425.jpg?v=1788190982",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-31T22:12:30Z"
+  },
+  {
+    "name": "Apple iPad 5th Gen (2017) 9.7-inch 32GB Wifi + Cellular - Gold (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-5th-gen-2017-9-7-inch-32gb-wifi-cellular-gold-good-refurbished",
+    "price": 499.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-5th-Gen-_2017_-CT00424.jpg?v=1788190786",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-31T22:12:30Z"
+  },
+  {
+    "name": "Apple iPad 4 64GB Wifi Only - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-4-64gb-wifi-only-silver-good-refurbished",
+    "price": 599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-4-64GB-Wifi-Only-CT00422_24a1d386-a221-4e71-8372-7d5147877c7c.jpg?v=1788190470",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-31T22:12:30Z"
+  },
+  {
+    "name": "Apple iPad 4 64GB Wifi + Cellular - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-4-64gb-wifi-cellular-silver-good-refurbished",
+    "price": 499.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-4-64GB-Wifi-Only-CT00422.jpg?v=1788190438",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-31T22:12:30Z"
+  },
+  {
+    "name": "Apple iPhone 14 128GB 5G Battery 100% - Midnight (Acceptable-Reconditioned)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-battery-100-midnight-acceptable-reconditioned",
+    "price": 699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-14-128GB-MP-03781_640f5262-31ed-4c85-b90a-0a7367ace01e.jpg?v=1788189790",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-31T22:12:30Z"
+  },
+  {
+    "name": "Apple iPhone 14 128GB 5G Battery 100% - Blue (Acceptable-Reconditioned)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-battery-100-blue-acceptable-reconditioned",
+    "price": 699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone14128GBMP01743_7f859fd9-1aa8-481b-8194-ece5f0a9c1d0.jpg?v=1788189626",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-31T22:12:30Z"
+  },
+  {
+    "name": "Apple Macbook Air (2022) 13.6-inch M2 Chip CPU-8 Cores/GPU 8-Cores 16GB 256GB - Space Grey (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2022-13-6-inch-m2-chip-cpu-8-cores-gpu-8-cores-16gb-256gb-space-grey-as-new-refurbished",
+    "price": 1699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Air-_2022_-13-6-inch-M2-Chip-CT00421_2633ec37-330a-4fa1-a6c7-6ea6de556e3e.jpg?v=1788189307",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-31T22:12:30Z"
+  },
+  {
+    "name": "Acer Travel Mate Spin B311RN-32 11.6-inch Intel Celeron N6000 4GB 128GB @1.10GHz Windows 11 Home Laptop 2 in 1 Touch Screen - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/acer-travel-mate-spin-b311rn-32-11-6-inch-intel-celeron-n6000-4gb-128gb-1-10ghz-windows-11-home-laptop-2-in-1-touch-screen-black-very-good-refurbished",
+    "price": 379.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-Travel-Mate-Spin-B311RN-32-CT01062-0.jpg?v=1788189159",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-31T22:12:30Z"
+  },
+  {
+    "name": "HP ProBook 4 G1i 14-inch Ultra 5 16GB 512GB @4.80GHz Windows 11 Pro - Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/hp-probook-4-g1i-14-inch-ultra-5-225u-16gb-512gb-4-80ghz-windows-11-pro-silver-very-good-refurbished",
+    "price": 1599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-ProBook-4-G1i-14-inch-Ultra-5-16GB-512GB-CT01060.jpg?v=1788188517",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-31T22:12:30Z"
+  },
+  {
+    "name": "Acer Aspire 5 15.6-inch i5 8th Gen 8GB 1TB @1.60GHz Windows 11 Home - Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/acer-aspire-5-15-6-inch-i5-8th-gen-8gb-1tb-1-60ghz-windows-11-home-black-good-refurbished",
+    "price": 549.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-Aspire-5-15-6-inch-i5-8th-Gen-8GB-1TB-CT01059.jpg?v=1788186536",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-31T22:12:30Z"
+  },
+  {
+    "name": "Hoco Bluetooth Headset 45 Hours Play/Talk Time (W73) - Silver (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-bluetooth-headset-45-hours-play-talk-time-w73-silver-brand-new",
+    "price": 49.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Bluetooth-Headset-45-Hours-AU01010-0.jpg?v=1788184913",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-31T22:12:30Z"
+  },
+  {
+    "name": "Hoco Bluetooth Headset 45 Hours Play/Talk Time (W73) - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-bluetooth-headset-45-hours-play-talk-time-w73-black-brand-new",
+    "price": 49.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Bluetooth-Headset-45-Hours-AU01011.jpg?v=1788183744",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-31T22:12:30Z"
+  },
+  {
+    "name": "HP Elitebook 840 G8 14-inch i5 11th Gen 16GB 256GB @2.40GHz Windows 11 Home Laptop - Silver (Good-Refurbished) + Laptop Bag + Wireless Keyboard + Mouse Set (GM17) (Bundle Deal)",
+    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-840-g8-14-inch-i5-11th-gen-16gb-256gb-2-40ghz-windows-11-home-laptop-silver-good-refurbished-laptop-bag-wireless-keyboard-mouse-set-gm17-bundle-deal",
+    "price": 599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/CT00319-CT00326-_-CT-00291_-CT-00328.jpg?v=1788181861",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-08-31T22:12:30Z"
   }
 ]
