@@ -210,7 +210,7 @@
   "https://hotspotelectronics.co.nz/products/oppo-reno-12-f-5g-dual-sim-smartphone-8-256gb-green-brand-new": {
     "name": "OPPO Reno 12 F 5G Dual Sim Smartphone 8/256GB Green (Brand New)",
     "url": "https://hotspotelectronics.co.nz/products/oppo-reno-12-f-5g-dual-sim-smartphone-8-256gb-green-brand-new",
-    "price": 469.99,
+    "price": 479.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/MPHOPP026370__2.jpg?v=1779497240",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -12634,7 +12634,7 @@
   "https://www.techcrazy.co.nz/products/appapple-iphone-14-128gb-5g-midnight-good-reconditioned": {
     "name": "Apple iPhone 14 128GB 5G - Midnight (Good-Reconditioned)",
     "url": "https://www.techcrazy.co.nz/products/appapple-iphone-14-128gb-5g-midnight-good-reconditioned",
-    "price": 679.0,
+    "price": 749.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-14-128GB-MP-03781_ee2004ae-1940-42ec-91ed-5f4b252c9fd8.jpg?v=1765438902",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -29938,7 +29938,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-a06-tpu-case-clear": {
     "name": "Samsung Galaxy A06 TPU Case Clear",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a06-tpu-case-clear",
-    "price": 19.0,
+    "price": 29.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A06-TPU-Case-Clear-MBA-01253_809e8379-8a55-4b74-ba5f-b005cba26fad.jpg?v=1734562728",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -37826,7 +37826,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-z-fold4-256gb-5g-very-good-pre-owned": {
     "name": "Samsung Galaxy Z Fold4 256GB 5G - Beige (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-z-fold4-256gb-5g-very-good-pre-owned",
-    "price": 1699.0,
+    "price": 799.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/products/Samsung-Galaxy-Z-Fold4-256GB-5G-Beige-MP-02882.jpg?v=1706778975",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -56426,7 +56426,7 @@
   "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-good-pre-owned-1": {
     "name": "Apple iPhone 14 128GB 5G - Blue (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-good-pre-owned-1",
-    "price": 899.0,
+    "price": 649.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone14128GBMP01743.jpg?v=1745888515",
     "site": "TechCrazy",
     "date_first_seen": "2026-08-13T07:13:57Z"
@@ -58166,5 +58166,21 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/CT00319-CT00326-_-CT-00291_-CT-00328.jpg?v=1788181861",
     "site": "TechCrazy",
     "date_first_seen": "2026-08-31T22:12:30Z"
+  },
+  "https://hotspotelectronics.co.nz/products/dell-latitude-5420-intel-core-i5-11th-gen-16gb-ram-512gb-hdd-excellent": {
+    "name": "Dell Latitude 5420 Intel Core i5 11th Gen 16GB Ram 512GB HDD Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/dell-latitude-5420-intel-core-i5-11th-gen-16gb-ram-512gb-hdd-excellent",
+    "price": 589.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/DellLatitude14-5420__1__01_700x_d965360d-c227-4fa1-97c7-a6c07f4eb76d.webp?v=1788223807",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-01T02:46:10Z"
+  },
+  "https://hotspotelectronics.co.nz/products/dell-latitude-5420-intel-core-i5-11th-gen-16gb-ram-256gb-hdd-excellent": {
+    "name": "Dell Latitude 5420 Intel Core i5 11th Gen 16GB Ram 256GB HDD Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/dell-latitude-5420-intel-core-i5-11th-gen-16gb-ram-256gb-hdd-excellent",
+    "price": 579.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/DellLatitude14-5420__1__01_700x_d965360d-c227-4fa1-97c7-a6c07f4eb76d.webp?v=1788223807",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-01T02:46:10Z"
   }
 }
