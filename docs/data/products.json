@@ -2091,7 +2091,7 @@
     "name": "Apple iPhone 14 Plus 128GB Blue Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-plus-128gb-blue-excellent-battery-100",
     "price": 749.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/image-2023-03-17T173040.583.webp?v=1723890492",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLU-image-0_049fe492-efe3-48a1-a20f-755f489e489a.webp?v=1788326259",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
@@ -50936,7 +50936,7 @@
     "date_first_seen": "2026-07-23T08:13:38Z"
   },
   "https://hotspotelectronics.co.nz/products/butterfly-apple-ipad-case-for-ipad-5-ipad-6-ipad-pro-9-7-air-1-2-rainbow-pink-9-7-inch": {
-    "name": "Butterfly Apple iPad Case for iPad 5, iPad 6, iPad Pro 9.7 , Air 1  & 2 Rainbow pink 9.7 inch",
+    "name": "Butterfly Case for Apple iPad 5/6, Pro 9.7 & Air 1/2 - Rainbow Pink",
     "url": "https://hotspotelectronics.co.nz/products/butterfly-apple-ipad-case-for-ipad-5-ipad-6-ipad-pro-9-7-air-1-2-rainbow-pink-9-7-inch",
     "price": 34.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/s-l1600_621fe557-cafc-4844-8d03-6ac8e1695cf8.webp?v=1784776966",
@@ -57938,7 +57938,7 @@
   "https://www.techcrazy.co.nz/products/apple-ipad-9th-gen-2021-10-2-inch-64gb-wi-fi-cellular-silver-good-refurbished": {
     "name": "Apple iPad 9th Gen (2021) 10.2-inch 64GB Wi-Fi + Cellular - Silver (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/apple-ipad-9th-gen-2021-10-2-inch-64gb-wi-fi-cellular-silver-good-refurbished",
-    "price": 344.0,
+    "price": 389.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-9th-Gen-_2021_-CT-00905-1_4b9a23ed-1a32-4565-aa0f-41d633c1939e.jpg?v=1787754324",
     "site": "TechCrazy",
     "date_first_seen": "2026-08-26T19:38:34Z"
@@ -58168,7 +58168,7 @@
     "date_first_seen": "2026-08-31T22:12:30Z"
   },
   "https://hotspotelectronics.co.nz/products/dell-latitude-5420-intel-core-i5-11th-gen-16gb-ram-512gb-hdd-excellent": {
-    "name": "Dell Latitude 5420 Touch Screen i5 11th Gen 16GB Ram 512GB HDD Excellent",
+    "name": "Dell Latitude 5420 i5 11th Gen 16GB Ram 512GB HDD Excellent",
     "url": "https://hotspotelectronics.co.nz/products/dell-latitude-5420-intel-core-i5-11th-gen-16gb-ram-512gb-hdd-excellent",
     "price": 589.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/DellLatitude14-5420__1__01_700x_d965360d-c227-4fa1-97c7-a6c07f4eb76d.webp?v=1788223807",
@@ -58454,5 +58454,69 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/T0420090011-500x500.webp?v=1719660747",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-09-02T02:06:17Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-macbook-air-13-m3-chip-with-8gb-ram-256gb-ssd-excellent-copy": {
+    "name": "Apple MacBook Air 13 M2 Chip with 8GB-RAM 256GB-SSD Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-macbook-air-13-m3-chip-with-8gb-ram-256gb-ssd-excellent-copy",
+    "price": 1349.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/NBKAPP351351214__1.jpg?v=1788315781",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-02T10:14:31Z"
+  },
+  "https://hotspotelectronics.co.nz/products/butterfly-case-for-ipad-7-8-9-ipad-air-3-purple": {
+    "name": "Butterfly Case for iPad 7/8/9 & iPad Air 3 - Purple",
+    "url": "https://hotspotelectronics.co.nz/products/butterfly-case-for-ipad-7-8-9-ipad-air-3-purple",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/butterfly_ppl_a85142ea-1c5f-43b7-bdd4-af9703f08d7d.webp?v=1784777799",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-02T10:14:31Z"
+  },
+  "https://hotspotelectronics.co.nz/products/butterfly-case-for-apple-ipad-5-6-pro-9-7-air-1-2-pink": {
+    "name": "Butterfly Case for Apple iPad 5/6, Pro 9.7 & Air 1/2 - Pink",
+    "url": "https://hotspotelectronics.co.nz/products/butterfly-case-for-apple-ipad-5-6-pro-9-7-air-1-2-pink",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/WhatsAppImage2025-12-02at15.01.50_c890c9b5.webp?v=1784778100",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-02T10:14:31Z"
+  },
+  "https://hotspotelectronics.co.nz/products/butterfly-case-for-apple-ipad-5-6-pro-9-7-air-1-2-purple": {
+    "name": "Butterfly Case for Apple iPad 5/6, Pro 9.7 & Air 1/2 - Purple",
+    "url": "https://hotspotelectronics.co.nz/products/butterfly-case-for-apple-ipad-5-6-pro-9-7-air-1-2-purple",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/butterfly_ppl_a85142ea-1c5f-43b7-bdd4-af9703f08d7d.webp?v=1784777799",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-02T10:14:31Z"
+  },
+  "https://hotspotelectronics.co.nz/products/leather-folio-case-for-apple-ipad-5-6-pro-9-7-air-1-2-rose-gold": {
+    "name": "Leather Folio Case for Apple iPad 5/6, Pro 9.7 & Air 1/2 - Rose Gold",
+    "url": "https://hotspotelectronics.co.nz/products/leather-folio-case-for-apple-ipad-5-6-pro-9-7-air-1-2-rose-gold",
+    "price": 29.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/bluemoon_rg.jpg?v=1784772497",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-02T10:14:31Z"
+  },
+  "https://hotspotelectronics.co.nz/products/butterfly-case-for-apple-ipad-7-8-9-ipad-air-3-pink": {
+    "name": "Butterfly Case for Apple iPad 7/8/9 & iPad Air 3 - Pink",
+    "url": "https://hotspotelectronics.co.nz/products/butterfly-case-for-apple-ipad-7-8-9-ipad-air-3-pink",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/WhatsAppImage2025-12-02at15.01.50_c890c9b5_84ea7a6c-0414-46a3-9e40-592471594593.jpg?v=1764641212",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-02T10:14:31Z"
+  },
+  "https://hotspotelectronics.co.nz/products/butterfly-case-for-ipad-7-8-9-ipad-air-3-rainbow-pink": {
+    "name": "Butterfly Case for iPad 7/8/9 & iPad Air 3 - Rainbow pink",
+    "url": "https://hotspotelectronics.co.nz/products/butterfly-case-for-ipad-7-8-9-ipad-air-3-rainbow-pink",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/20220202085214_4063c814-8149-464d-addd-ed88a3eb2bd0.webp?v=1749346233",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-02T10:14:31Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-macbook-pro-2021-16-2-inch-m1-pro-chip-10-core-cpu-16-core-gpu-32gb-512gb-space-grey-very-good-pre-owned": {
+    "name": "Apple Macbook Pro (2021) 16.2-inch M1 Pro Chip 10 Core CPU/16 Core GPU 32GB 512GB - Space Gray (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2021-16-2-inch-m1-pro-chip-10-core-cpu-16-core-gpu-32gb-512gb-space-grey-very-good-pre-owned",
+    "price": 1899.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-_2021_-16.2-inch-M1-Pro-CT00028.jpg?v=1763353750",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-02T10:14:31Z"
   }
 }
