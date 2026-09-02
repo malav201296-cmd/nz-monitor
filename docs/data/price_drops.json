@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "name": "Apple MacBook Air 2020 M1 Processor 13.3\" Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-macbook-air-2020-retina-13-3-excellent-2",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/image_5_98a0b58b-770e-4a50-8972-40503c32d752.webp?v=1688890227",
+    "site": "Hotspot Electronics",
+    "old_price": 899.99,
+    "new_price": 839.99,
+    "saving": 60.0,
+    "saving_pct": 6.7,
+    "date_first_seen": "2026-08-02T08:07:09Z",
+    "detected_at": "2026-09-02T02:06:17Z"
+  },
+  {
+    "name": "Apple iPhone 17 Pro 256GB Deep Blue Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-17-pro-256gb-deep-blue-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/iphone-17-pro-max-deep-blue-pdp-image-position-1.png?v=1764022348",
+    "site": "Hotspot Electronics",
+    "old_price": 2249.99,
+    "new_price": 2099.99,
+    "saving": 150.0,
+    "saving_pct": 6.7,
+    "date_first_seen": "2026-08-02T01:55:26Z",
+    "detected_at": "2026-09-02T02:06:17Z"
+  },
+  {
+    "name": "Apple iPhone 17 Pro Max 256GB Silver Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-17-pro-max-256gb-silver-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2025-11-22173355.png?v=1763786340",
+    "site": "Hotspot Electronics",
+    "old_price": 2399.99,
+    "new_price": 2249.99,
+    "saving": 150.0,
+    "saving_pct": 6.3,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-09-02T02:06:17Z"
+  },
+  {
+    "name": "HP EliteBook X360 1030 G3  i5 16GB 512GB Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/hp-elitebook-x360-1030-g3-i5-16gb-512gb-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/8300000000.jpg?v=1761270936",
+    "site": "Hotspot Electronics",
+    "old_price": 599.99,
+    "new_price": 549.99,
+    "saving": 50.0,
+    "saving_pct": 8.3,
+    "date_first_seen": "2026-08-02T08:07:09Z",
+    "detected_at": "2026-09-02T02:06:17Z"
+  },
+  {
+    "name": "Apple iPad 8th Gen (2020) 10.2-inch 32GB Wifi Only - Space Grey (Good-Refurbished) + Bluetooth Headset (W73) + Kids Smart Watch Y107 (Bundle Deal)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-8th-gen-2020-10-2-inch-32gb-wifi-only-space-grey-good-refurbished-bluetooth-headset-w73-kids-smart-watch-y107-bundle-deal",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Air-5-_2022_-10-9-inch-M1-Chip-8GB-64GB-BDL00006.jpg?v=1788276718",
+    "site": "TechCrazy",
+    "old_price": 527.0,
+    "new_price": 395.0,
+    "saving": 132.0,
+    "saving_pct": 25.0,
+    "date_first_seen": "2026-09-01T15:47:52Z",
+    "detected_at": "2026-09-02T02:06:17Z"
+  }
+]
