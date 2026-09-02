@@ -1,66 +1,34 @@
 [
   {
-    "name": "Apple MacBook Air 13 M2 Chip with 8GB-RAM 256GB-SSD Excellent",
-    "url": "https://hotspotelectronics.co.nz/products/apple-macbook-air-13-m3-chip-with-8gb-ram-256gb-ssd-excellent-copy",
-    "price": 1349.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/NBKAPP351351214__1.jpg?v=1788315781",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-09-02T10:14:31Z"
-  },
-  {
-    "name": "Butterfly Case for iPad 7/8/9 & iPad Air 3 - Purple",
-    "url": "https://hotspotelectronics.co.nz/products/butterfly-case-for-ipad-7-8-9-ipad-air-3-purple",
-    "price": 34.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/butterfly_ppl_a85142ea-1c5f-43b7-bdd4-af9703f08d7d.webp?v=1784777799",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-09-02T10:14:31Z"
-  },
-  {
-    "name": "Butterfly Case for Apple iPad 5/6, Pro 9.7 & Air 1/2 - Pink",
-    "url": "https://hotspotelectronics.co.nz/products/butterfly-case-for-apple-ipad-5-6-pro-9-7-air-1-2-pink",
-    "price": 34.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/WhatsAppImage2025-12-02at15.01.50_c890c9b5.webp?v=1784778100",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-09-02T10:14:31Z"
-  },
-  {
-    "name": "Butterfly Case for Apple iPad 5/6, Pro 9.7 & Air 1/2 - Purple",
-    "url": "https://hotspotelectronics.co.nz/products/butterfly-case-for-apple-ipad-5-6-pro-9-7-air-1-2-purple",
-    "price": 34.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/butterfly_ppl_a85142ea-1c5f-43b7-bdd4-af9703f08d7d.webp?v=1784777799",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-09-02T10:14:31Z"
-  },
-  {
-    "name": "Leather Folio Case for Apple iPad 5/6, Pro 9.7 & Air 1/2 - Rose Gold",
-    "url": "https://hotspotelectronics.co.nz/products/leather-folio-case-for-apple-ipad-5-6-pro-9-7-air-1-2-rose-gold",
-    "price": 29.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/bluemoon_rg.jpg?v=1784772497",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-09-02T10:14:31Z"
-  },
-  {
-    "name": "Butterfly Case for Apple iPad 7/8/9 & iPad Air 3 - Pink",
-    "url": "https://hotspotelectronics.co.nz/products/butterfly-case-for-apple-ipad-7-8-9-ipad-air-3-pink",
-    "price": 34.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/WhatsAppImage2025-12-02at15.01.50_c890c9b5_84ea7a6c-0414-46a3-9e40-592471594593.jpg?v=1764641212",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-09-02T10:14:31Z"
-  },
-  {
-    "name": "Butterfly Case for iPad 7/8/9 & iPad Air 3 - Rainbow pink",
-    "url": "https://hotspotelectronics.co.nz/products/butterfly-case-for-ipad-7-8-9-ipad-air-3-rainbow-pink",
-    "price": 34.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/20220202085214_4063c814-8149-464d-addd-ed88a3eb2bd0.webp?v=1749346233",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-09-02T10:14:31Z"
-  },
-  {
-    "name": "Apple Macbook Pro (2021) 16.2-inch M1 Pro Chip 10 Core CPU/16 Core GPU 32GB 512GB - Space Gray (Very Good-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2021-16-2-inch-m1-pro-chip-10-core-cpu-16-core-gpu-32gb-512gb-space-grey-very-good-pre-owned",
-    "price": 1899.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-_2021_-16.2-inch-M1-Pro-CT00028.jpg?v=1763353750",
+    "name": "Apple iPad 7th Gen (2019) 10.2-inch 128GB Wifi + Cellular 4G - Space Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-7th-gen-2019-10-2-inch-128gb-wifi-cellular-4g-space-gray-acceptable-refurbished",
+    "price": 275.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-7-_2019_-32GB-WiFi-_-Cellular-4G-CT-00554_6521f963-4ed2-492b-9fda-56bafe384a3c.jpg?v=1788362971",
     "site": "TechCrazy",
-    "date_first_seen": "2026-09-02T10:14:31Z"
+    "date_first_seen": "2026-09-02T15:40:28Z"
+  },
+  {
+    "name": "Apple iPad 6th Gen (2018) 9.7-inch 32GB Wifi Only - Gold (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-6th-gen-2018-9-7-inch-32gb-wifi-only-gold-good-refurbished",
+    "price": 299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-6th-Gen-_2018_-9-7-inch-32GB-CT01065_e2aec416-637b-47a2-877a-b2a708816c9c.jpg?v=1788362783",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-02T15:40:28Z"
+  },
+  {
+    "name": "Apple iPad 6th Gen (2018) 9.7-inch 32GB Wifi Only - Gold (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-6th-gen-2018-9-7-inch-32gb-wifi-only-gold-very-good-refurbished",
+    "price": 249.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-6th-Gen-_2018_-9-7-inch-32GB-CT01065.jpg?v=1788362639",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-02T15:40:28Z"
+  },
+  {
+    "name": "Apple iPad 6th Gen (2018) 9.7-inch 128GB Wifi + Cellular 4G - Space Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-6th-gen-2018-9-7-inch-128gb-wifi-cellular-4g-space-gray-acceptable-refurbished",
+    "price": 199.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/CT-03284_e2762eab-5d99-4ad4-8b0f-533119fffdbf.jpg?v=1788361356",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-02T15:40:28Z"
   }
 ]
