@@ -154,7 +154,7 @@
   "https://hotspotelectronics.co.nz/products/ipad-air-10-9-inch-nbsp-gen-10-256gb-wi-fi-cellular-blue-excellent": {
     "name": "Apple iPad 10th Gen 10.9 inch 256GB Wi-Fi  Cellular Blue Excellent",
     "url": "https://hotspotelectronics.co.nz/products/ipad-air-10-9-inch-nbsp-gen-10-256gb-wi-fi-cellular-blue-excellent",
-    "price": 699.99,
+    "price": 719.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/SKY-image-0.webp?v=1749623511",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -29939,7 +29939,7 @@
     "name": "Samsung Galaxy A06  5G Hard TPU Case Clear",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a06-tpu-case-clear",
     "price": 29.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A06-TPU-Case-Clear-MBA-01253_809e8379-8a55-4b74-ba5f-b005cba26fad.jpg?v=1734562728",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A06--5G-Hard-TPU-Case-Clear-MBA-01253.jpg?v=1788397126",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
   },
@@ -58550,5 +58550,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/CT-03284_e2762eab-5d99-4ad4-8b0f-533119fffdbf.jpg?v=1788361356",
     "site": "TechCrazy",
     "date_first_seen": "2026-09-02T15:40:28Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-galaxy-s23-plus-256gb-graphite-excellent": {
+    "name": "Samsung Galaxy S23 Plus 256GB Graphite Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s23-plus-256gb-graphite-excellent",
+    "price": 749.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLA-image-0_685b34a7-645d-4394-8727-3b0d45589e68.webp?v=1744343329",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-03T02:12:28Z"
   }
 }
