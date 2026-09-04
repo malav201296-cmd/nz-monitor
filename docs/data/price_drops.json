@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Apple iPhone 14 128GB 5G Battery 100% - Midnight (Acceptable-Reconditioned)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-battery-100-midnight-acceptable-reconditioned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-14-128GB-MP-03781_640f5262-31ed-4c85-b90a-0a7367ace01e.jpg?v=1788189790",
+    "site": "TechCrazy",
+    "old_price": 699.0,
+    "new_price": 615.0,
+    "saving": 84.0,
+    "saving_pct": 12.0,
+    "date_first_seen": "2026-08-31T22:12:30Z",
+    "detected_at": "2026-09-04T20:04:10Z"
+  },
+  {
+    "name": "Apple iPhone 14 128GB 5G Battery 100% - Blue (Acceptable-Reconditioned)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-battery-100-blue-acceptable-reconditioned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone14128GBMP01743_7f859fd9-1aa8-481b-8194-ece5f0a9c1d0.jpg?v=1788189626",
+    "site": "TechCrazy",
+    "old_price": 699.0,
+    "new_price": 615.0,
+    "saving": 84.0,
+    "saving_pct": 12.0,
+    "date_first_seen": "2026-08-31T22:12:30Z",
+    "detected_at": "2026-09-04T20:04:10Z"
+  }
+]
