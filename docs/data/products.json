@@ -23482,7 +23482,7 @@
   "https://www.techcrazy.co.nz/products/hp-elitebook-830-g8-13-3-inch-i7-11th-gen-16gb-256gb-2-80ghz-windows-11-pro-laptop-good-pre-owned": {
     "name": "HP EliteBook 830 G8 13.3-inch i7 11th Gen 16GB 256GB @2.80GHz Windows 11 Pro Laptop - Silver (Good Pre-Owned)",
     "url": "https://www.techcrazy.co.nz/products/hp-elitebook-830-g8-13-3-inch-i7-11th-gen-16gb-256gb-2-80ghz-windows-11-pro-laptop-good-pre-owned",
-    "price": 699.0,
+    "price": 799.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-EliteBook-830-G8-CT-02086.jpg?v=1744265953",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -27962,7 +27962,7 @@
   "https://www.techcrazy.co.nz/products/lenovo-chromebook-100e-gen-2-11-6-inch-n4020-4gb-32gb-acceptable-pre-owned": {
     "name": "Lenovo Chromebook 100E Gen 2 11.6-inch Intel Celeron N4020 4GB 32GB @1.10GHz - Black (Acceptable-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/lenovo-chromebook-100e-gen-2-11-6-inch-n4020-4gb-32gb-acceptable-pre-owned",
-    "price": 159.0,
+    "price": 169.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-Chromebook-100E-Gen-2-CT-00806-0_46b5c30b-a539-4ecc-b5b5-1f74faed0eb4.jpg?v=1733882189",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -57264,7 +57264,7 @@
     "date_first_seen": "2026-08-24T06:37:56Z"
   },
   "https://hotspotelectronics.co.nz/products/jbl-wave-buds-1-true-wireless-earbuds-brand-new": {
-    "name": "JBL Wave Buds 1 True Wireless Earbuds Brand New",
+    "name": "JBL Wave Buds  True Wireless Earbuds Brand New",
     "url": "https://hotspotelectronics.co.nz/products/jbl-wave-buds-1-true-wireless-earbuds-brand-new",
     "price": 69.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/N233434_0.webp?v=1784766238",
@@ -58582,5 +58582,69 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/BDL00007-CT02598-_-CT-00291_CT-00328.jpg?v=1788454067",
     "site": "TechCrazy",
     "date_first_seen": "2026-09-03T20:18:57Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-ipad-11-inch-with-a16-chip-128gb-wifi-yellow-excellent": {
+    "name": "Apple iPad 11-inch with A16 Chip 128GB WiFi - Yellow Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-11-inch-with-a16-chip-128gb-wifi-yellow-excellent",
+    "price": 719.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/TABAPP1812813__1.jpg?v=1788484002",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-04T02:08:28Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-ipad-pro-2021-12-9-inch-5th-gen-m1-chip-128gb-wifi-only-space-gray-good-refurbished": {
+    "name": "Apple iPad Pro (2021) 12.9-inch 5th Gen M1 Chip 128GB Wifi Only - Space Gray (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-pro-2021-12-9-inch-5th-gen-m1-chip-128gb-wifi-only-space-gray-good-refurbished",
+    "price": 1299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-5th-Gen-_2021_-CT-02992_374dc29c-fe07-487b-a5d0-4bc0a0f41241.jpg?v=1788487360",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-04T02:08:28Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-ipad-9th-gen-2021-10-2-inch-64gb-wi-fi-cellular-4g-space-gray-good-refurbished": {
+    "name": "Apple iPad 9th Gen (2021) 10.2-inch 64GB Wi-Fi + Cellular 4G - Space Gray (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-9th-gen-2021-10-2-inch-64gb-wi-fi-cellular-4g-space-gray-good-refurbished",
+    "price": 395.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-9th-Gen-_2021_-CT-03163_5d5490f9-1ad3-445b-9479-0034bf2e1bd7.jpg?v=1788487226",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-04T02:08:28Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-ipad-8th-gen-2020-10-2-inch-128gb-wifi-only-gold-good-refurbished": {
+    "name": "Apple iPad 8th Gen (2020) 10.2-inch 128GB Wifi Only - Gold (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-8th-gen-2020-10-2-inch-128gb-wifi-only-gold-good-refurbished",
+    "price": 329.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-8th-Gen-_2020_-CT00917-1_c49ebb3c-ab5d-4912-9724-23a363dfeab9.jpg?v=1788487111",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-04T02:08:28Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-ipad-8th-gen-2020-10-2-inch-128gb-wifi-only-gold-very-good-refurbished": {
+    "name": "Apple iPad 8th Gen (2020) 10.2-inch 128GB Wifi Only - Gold (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-8th-gen-2020-10-2-inch-128gb-wifi-only-gold-very-good-refurbished",
+    "price": 345.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-8th-Gen-_2020_-CT00917-1_c70a13da-5de5-4be1-867f-31e2d79bdc72.jpg?v=1788487032",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-04T02:08:28Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-ipad-7th-gen-2019-10-2-inch-128gb-wifi-only-silver-good-refurbished": {
+    "name": "Apple iPad 7th Gen (2019) 10.2-inch 128GB Wifi Only - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-7th-gen-2019-10-2-inch-128gb-wifi-only-silver-good-refurbished",
+    "price": 249.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Asus-Vivobook-M3401Q-14-inch-AMD-Ryzen-9-CT01061_dcd35110-8562-4978-be36-c50d1bc8bf96.jpg?v=1788486918",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-04T02:08:28Z"
+  },
+  "https://www.techcrazy.co.nz/products/asus-vivobook-m3401q-14-inch-amd-ryzen-9-16gb-512gb-geforce-nvidia-rtx-3050-4gb-windows-11-pro-laptop-quiet-blue-as-new-refurbished": {
+    "name": "Asus Vivobook M3401Q 14-inch AMD Ryzen 9 16GB 512GB GeForce Nvidia RTX 3050 4GB Windows 11 Pro Laptop - Quiet Blue (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/asus-vivobook-m3401q-14-inch-amd-ryzen-9-16gb-512gb-geforce-nvidia-rtx-3050-4gb-windows-11-pro-laptop-quiet-blue-as-new-refurbished",
+    "price": 1399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Asus-Vivobook-M3401Q-14-inch-AMD-Ryzen-9-CT01061.jpg?v=1788486707",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-04T02:08:28Z"
+  },
+  "https://www.techcrazy.co.nz/products/microsoft-surface-pro-4-12-inch-i5-6th-gen-4gb-128gb-2-40ghz-windows-11-pro-with-keyboard-platinum-good-refurbished": {
+    "name": "Microsoft Surface Pro 4 12-inch i5 6th Gen 4GB 128GB @2.40GHz Windows 11 Pro With Keyboard - Platinum (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/microsoft-surface-pro-4-12-inch-i5-6th-gen-4gb-128gb-2-40ghz-windows-11-pro-with-keyboard-platinum-good-refurbished",
+    "price": 175.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Microsoft-Surface-Pro-4-12-inch-i5-6th-Gen-8GB-256GB-CT-00840_3c181cb6-4492-4c37-a845-6d071bad9ca4.jpg?v=1788481129",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-04T02:08:28Z"
   }
 }
