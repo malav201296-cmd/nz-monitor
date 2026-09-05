@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Repair",
+    "url": "https://hotspotelectronics.co.nz/products/screen-repair",
+    "image": "",
+    "site": "Hotspot Electronics",
+    "old_price": 600.0,
+    "new_price": 90.0,
+    "saving": 510.0,
+    "saving_pct": 85.0,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-09-05T09:41:32Z"
+  }
+]
