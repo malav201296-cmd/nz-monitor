@@ -39538,7 +39538,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s22-ultra-12gb-512gb-5g-very-good-condition": {
     "name": "Samsung Galaxy S22 Ultra 12GB 512GB 5G - Green  (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s22-ultra-12gb-512gb-5g-very-good-condition",
-    "price": 1999.0,
+    "price": 799.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/products/Samsung-Galaxy-S22-Ultra-128GB-5G-Green-MP-03647.jpg?v=1703132829",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -58210,7 +58210,7 @@
   "https://www.techcrazy.co.nz/products/apple-watch-series-6-aluminum-44mm-gps-battery-100-space-gray-acceptable-refurbished": {
     "name": "Apple Watch Series 6 Aluminum 44MM GPS Battery 100% - Space Gray (Acceptable-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/apple-watch-series-6-aluminum-44mm-gps-battery-100-space-gray-acceptable-refurbished",
-    "price": 0.0,
+    "price": 299.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Watch-Series-6-Aluminum-44MM-GPS-_-Cellular---Space-Grey-WE00334-0_6a7ef574-4b71-40a1-9b6e-2372558bf397.jpg?v=1788239579",
     "site": "TechCrazy",
     "date_first_seen": "2026-09-01T10:49:37Z"
@@ -58998,5 +58998,61 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/iphone11progreen1.webp?v=1785971951",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-09-07T11:06:49Z"
+  },
+  "https://hotspotelectronics.co.nz/products/black-smartfold-case-for-apple-ipad-5-6-pro-9-7-air-1-2": {
+    "name": "Black SmartFold Case for Apple iPad 5/6, Pro 9.7 & Air 1/2",
+    "url": "https://hotspotelectronics.co.nz/products/black-smartfold-case-for-apple-ipad-5-6-pro-9-7-air-1-2",
+    "price": 29.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/smartcaseblack.jpg?v=1788832088",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-08T02:13:20Z"
+  },
+  "https://hotspotelectronics.co.nz/products/skyblue-fold-case-for-apple-ipad-5-6-pro-9-7-air-1-2": {
+    "name": "Skyblue Fold Case for Apple iPad 5/6, Pro 9.7 & Air 1/2",
+    "url": "https://hotspotelectronics.co.nz/products/skyblue-fold-case-for-apple-ipad-5-6-pro-9-7-air-1-2",
+    "price": 29.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Smart-Jelly-penslot-05_sky_blue.webp?v=1785991679",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-08T02:13:20Z"
+  },
+  "https://hotspotelectronics.co.nz/products/skyblue-fold-case-for-apple-ipad-a16-10th-11th-generation": {
+    "name": "Skyblue Fold case for Apple iPad A16 & 10th/11th Generation",
+    "url": "https://hotspotelectronics.co.nz/products/skyblue-fold-case-for-apple-ipad-a16-10th-11th-generation",
+    "price": 29.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Smart-Jelly-penslot-05_sky_blue.webp?v=1785991679",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-08T02:13:20Z"
+  },
+  "https://hotspotelectronics.co.nz/products/drop-shield-pro-case-for-apple-ipad-5-6-pro-9-7-air-1-2-blue": {
+    "name": "Drop Shield Pro Case for Apple iPad 5/6, Pro 9.7 & Air 1/2 - Blue",
+    "url": "https://hotspotelectronics.co.nz/products/drop-shield-pro-case-for-apple-ipad-5-6-pro-9-7-air-1-2-blue",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/drop_shield_pro_blue.webp?v=1788831087",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-08T02:13:20Z"
+  },
+  "https://hotspotelectronics.co.nz/products/leather-folio-case-for-apple-ipad-5-6-pro-9-7-air-1-2-black": {
+    "name": "Leather Folio Case for Apple iPad 5/6, Pro 9.7 & Air 1/2 - Black",
+    "url": "https://hotspotelectronics.co.nz/products/leather-folio-case-for-apple-ipad-5-6-pro-9-7-air-1-2-black",
+    "price": 29.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/bluemoon_black.webp?v=1784771527",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-08T02:13:20Z"
+  },
+  "https://hotspotelectronics.co.nz/products/shock-proof-hard-case-for-ipad-5-6-pro-9-7-air-1-2-black": {
+    "name": "Shock Proof Hard Case for iPad 5/6, Pro 9.7 & Air 1/2 - Black",
+    "url": "https://hotspotelectronics.co.nz/products/shock-proof-hard-case-for-ipad-5-6-pro-9-7-air-1-2-black",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/T0420090011-500x500.webp?v=1719660747",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-08T02:13:20Z"
+  },
+  "https://www.techcrazy.co.nz/products/acer-chromebook-311-11-6-inch-mediatek-mt8183-4gb-32gb-1-10ghz-puresilver-brand-new-open-box": {
+    "name": "Acer Chromebook 311 11.6-inch Mediatek MT8183 4GB 32GB @1.10GHz - PureSilver (Brand New-Open Box)",
+    "url": "https://www.techcrazy.co.nz/products/acer-chromebook-311-11-6-inch-mediatek-mt8183-4gb-32gb-1-10ghz-puresilver-brand-new-open-box",
+    "price": 349.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-Chromebook-311-11-6-inch-Mediatek-MT8183-CT00662.jpg?v=1788831754",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-08T02:13:20Z"
   }
 }
