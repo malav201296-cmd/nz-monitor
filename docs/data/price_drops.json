@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Apple OEM 61W USB-C Power Adapter (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/apple-oem-61w-usb-c-power-adapter-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-OEM-61W-USB-C-Power-Adapter-CT-00536.jpg?v=1788847584",
+    "site": "TechCrazy",
+    "old_price": 99.0,
+    "new_price": 79.0,
+    "saving": 20.0,
+    "saving_pct": 20.2,
+    "date_first_seen": "2026-09-08T10:19:20Z",
+    "detected_at": "2026-09-09T10:27:03Z"
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max 128GB 5G Battery 100% - Silver (Very Good-Reconditioned)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-13-pro-max-128gb-5g-battery-100-silver-very-good-reconditioned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone13ProMax128GB5G-SilverMP03642_d36b6ce6-d2e1-4cc5-ab52-b8625822087c.png?v=1777007227",
+    "site": "TechCrazy",
+    "old_price": 949.0,
+    "new_price": 899.0,
+    "saving": 50.0,
+    "saving_pct": 5.3,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-09-09T10:27:03Z"
+  },
+  {
+    "name": "Acer Chromebook 311 11.6-inch N4500 4GB 64GB eMMC Education Chromebook (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/acer-chromebook-311-11-6-inch-n4500-4gb-64gb-emmc-education-chromebook-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-Chromebook-311-CT-001015-0.jpg?v=1737348028",
+    "site": "TechCrazy",
+    "old_price": 399.0,
+    "new_price": 349.0,
+    "saving": 50.0,
+    "saving_pct": 12.5,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-09-09T10:27:03Z"
+  }
+]
