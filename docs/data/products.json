@@ -53688,9 +53688,9 @@
     "date_first_seen": "2026-08-02T01:55:26Z"
   },
   "https://hotspotelectronics.co.nz/products/apple-iphone-x-64gb-black-good-condition": {
-    "name": "Apple iPhone X 64GB Black Good Condition",
+    "name": "Apple iPhone X 64GB Black Good Condition  (Refurbished )",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-x-64gb-black-good-condition",
-    "price": 330.0,
+    "price": 309.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/iphone-x-space-gray.jpg?v=1683878410",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-02T01:55:26Z"
@@ -56226,7 +56226,7 @@
   "https://hotspotelectronics.co.nz/products/soundtech-st-amk2ga-2-gauge-amp-wiring-kit": {
     "name": "Soundtech ST-AMK2GA 2 Gauge Amp Wiring Kit",
     "url": "https://hotspotelectronics.co.nz/products/soundtech-st-amk2ga-2-gauge-amp-wiring-kit",
-    "price": 69.99,
+    "price": 74.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/st-amk2ga_1.jpg?v=1642757111",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-11T06:50:41Z"
@@ -59262,5 +59262,37 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/IRO-image-0.webp?v=1783571049",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-09-09T10:27:03Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-11-pro-max-64gb-gold-excellent-hoco-smart-watch": {
+    "name": "Apple iPhone 11 Pro Max 64GB Gold Excellent  + Hoco Smart Watch",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-pro-max-64gb-gold-excellent-hoco-smart-watch",
+    "price": 549.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Untitled_design_35.webp?v=1778244529",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-10T02:15:34Z"
+  },
+  "https://hotspotelectronics.co.nz/products/brand-new-hp-laptop-14-dq3000dx-with-free-microsoft-365": {
+    "name": "Brand New HP Laptop 14-DQ3000dx with Free Microsoft 365",
+    "url": "https://hotspotelectronics.co.nz/products/brand-new-hp-laptop-14-dq3000dx-with-free-microsoft-365",
+    "price": 449.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/456264-Product-1-I-638917037874872657.webp?v=1761105769",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-10T02:15:34Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hp-probook-x360-g6-ee-11-6-i3-10th-gen-4gb-128gb-excellent": {
+    "name": "HP Probook x360 G6 EE 11.6\" i3 10th Gen 4GB 128GB - Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/hp-probook-x360-g6-ee-11-6-i3-10th-gen-4gb-128gb-excellent",
+    "price": 389.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/L0040010093_1_-500x500.jpg?v=1781837485",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-10T02:15:34Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hp-elitebook-x360-1030-g3-touch-screen-i5-8th-gen-8gb-256gb-good-condition": {
+    "name": "HP Elitebook X360 1030 G3 Touch Screen i5 8th Gen 8GB 256GB - Good Condition",
+    "url": "https://hotspotelectronics.co.nz/products/hp-elitebook-x360-1030-g3-touch-screen-i5-8th-gen-8gb-256gb-good-condition",
+    "price": 479.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/NBKHNB141117S__1.jpg?v=1730517035",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-10T02:15:34Z"
   }
 }
