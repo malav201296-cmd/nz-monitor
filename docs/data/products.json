@@ -59710,5 +59710,29 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-16-Plus-128GB-5G---Ultramarine-MP00417_8147eb2f-8391-4e49-9282-a223f653199c.jpg?v=1789309225",
     "site": "TechCrazy",
     "date_first_seen": "2026-09-13T15:20:40Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a9-2023-11-inch-4gb-64gb-wifi-only-navy-very-good-refurbished": {
+    "name": "Samsung Galaxy Tab A9+ (2023) 11-inch 4GB 64GB Wifi Only  - Navy (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a9-2023-11-inch-4gb-64gb-wifi-only-navy-very-good-refurbished",
+    "price": 349.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-A9_-_2023_-CT01159.jpg?v=1789313547",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-13T20:01:48Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-z-flip-7-12gb-256gb-5g-red-coral-good-refurbished": {
+    "name": "Samsung Galaxy Z Flip 7 12GB 256GB 5G - Red Coral (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-z-flip-7-12gb-256gb-5g-red-coral-good-refurbished",
+    "price": 1199.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Z-Flip-7-12GB-256GB-MP01179.jpg?v=1789313149",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-13T20:01:48Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-z-flip-7-12gb-512gb-5g-black-very-good-refurbished": {
+    "name": "Samsung Galaxy Z Flip 7 12GB 512GB 5G - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-z-flip-7-12gb-512gb-5g-black-very-good-refurbished",
+    "price": 1399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Z-Flip-7-12GB-512GB-MP01180.jpg?v=1789312795",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-13T20:01:48Z"
   }
 }
