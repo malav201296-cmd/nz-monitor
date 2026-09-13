@@ -59502,5 +59502,61 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/L0680530001-500x500.jpg?v=1717399133",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-09-12T09:49:58Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-12-pro-256gb-5g-pacific-blue-good-refurbished": {
+    "name": "Apple iPhone 12 Pro 256GB 5G - Pacific Blue (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-12-pro-256gb-5g-pacific-blue-good-refurbished",
+    "price": 599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-12-Pro-256GB-5G-MP-02679_130c1381-ddfc-4d2b-8f7a-f23948813f94.jpg?v=1789274915",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-13T10:49:55Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-13-mini-256gb-5g-midnight-acceptable-refurbished": {
+    "name": "Apple iPhone 13 Mini 256GB 5G - Midnight (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-13-mini-256gb-5g-midnight-acceptable-refurbished",
+    "price": 699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-13-Mini-128GB-5G-MP-00950_fe893c03-e064-4d97-a816-be54efabb7fd.jpg?v=1789274757",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-13T10:49:55Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-12-pro-128gb-5g-graphite-acceptable-refurbished": {
+    "name": "Apple iPhone 12 Pro 128GB 5G - Graphite (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-12-pro-128gb-5g-graphite-acceptable-refurbished",
+    "price": 549.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple_iPhone_12_Pro_128GB_5G_-_Graphite.jpg?v=1789274387",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-13T10:49:55Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-13-pro-max-1tb-5g-gold-good-refurbished": {
+    "name": "Apple iPhone 13 Pro Max 1TB 5G - Gold (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-13-pro-max-1tb-5g-gold-good-refurbished",
+    "price": 1199.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-13-Pro-Max-128GB-Gold-MP-03602_69a9df12-2705-40f7-be0e-a2b0f21d5e20.jpg?v=1789274144",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-13T10:49:55Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-16-pro-128gb-5g-black-titanium-good-refurbished": {
+    "name": "Apple iPhone 16 Pro 128GB 5G - Black Titanium (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-16-pro-128gb-5g-black-titanium-good-refurbished",
+    "price": 1599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-16-Pro-Max-256GB-MP-00216_0eb6fed5-a0d8-41e2-8229-3fb0b566323a.jpg?v=1789274018",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-13T10:49:55Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-16-pro-128gb-5g-black-titanium-acceptable-refurbished": {
+    "name": "Apple iPhone 16 Pro 128GB 5G - Black Titanium (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-16-pro-128gb-5g-black-titanium-acceptable-refurbished",
+    "price": 1449.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-16-Pro-Max-256GB-MP-00216_01a3c1cf-23ff-451d-8b75-788226e84013.jpg?v=1789273806",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-13T10:49:55Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-16-pro-128gb-5g-battery-above-90-natural-titanium-very-good-refurbished": {
+    "name": "Apple iPhone 16 Pro 128GB 5G Battery Above 90% - Natural Titanium (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-16-pro-128gb-5g-battery-above-90-natural-titanium-very-good-refurbished",
+    "price": 1649.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-16-Pro-256GB-5G-MP02597_6b0193e3-5608-4bda-849a-d16b0cce801f.jpg?v=1789273681",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-13T10:49:55Z"
   }
 }
