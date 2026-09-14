@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "JBL PARTYBOX ENCORE ESSENTIAL 2 (Brand New)",
+    "url": "https://hotspotelectronics.co.nz/products/jbl-partybox-encore-essential-2-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/SPKJBL5468778__4_646f4768-16e8-42cb-b3a0-6dad979829d8.jpg?v=1764644712",
+    "site": "Hotspot Electronics",
+    "old_price": 319.99,
+    "new_price": 299.99,
+    "saving": 20.0,
+    "saving_pct": 6.3,
+    "date_first_seen": "2026-08-21T06:30:41Z",
+    "detected_at": "2026-09-14T11:18:06Z"
+  },
+  {
+    "name": "Samsung Galaxy  S24FE 128GB Graphite Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s24fe-128gb-graphite-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/s24fegraphite3.webp?v=1754451941",
+    "site": "Hotspot Electronics",
+    "old_price": 899.99,
+    "new_price": 849.99,
+    "saving": 50.0,
+    "saving_pct": 5.6,
+    "date_first_seen": "2026-08-02T01:55:26Z",
+    "detected_at": "2026-09-14T11:18:06Z"
+  },
+  {
+    "name": "Zeroflex Team 8.0 8-inch Dual 4Ohm 1000RMS Subwoofer - Black (Brand New) + Subwoofer Box (Bundle Deal)",
+    "url": "https://www.techcrazy.co.nz/products/zeroflex-team-8-0-8-inch-dual-4ohm-1000rms-subwoofer-black-brand-new-subwoofer-box-bundle-deal",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Zeroflex-Team-8-0-8-inch-Dual-4Ohm-1000RMS-Subwoofer--_-Subwoofer-Box-BDL00010.jpg?v=1789102038",
+    "site": "TechCrazy",
+    "old_price": 898.0,
+    "new_price": 798.0,
+    "saving": 100.0,
+    "saving_pct": 11.1,
+    "date_first_seen": "2026-09-11T10:16:56Z",
+    "detected_at": "2026-09-14T11:18:06Z"
+  }
+]
