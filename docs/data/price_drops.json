@@ -1,50 +1,14 @@
 [
   {
-    "name": "Apple iPhone 17 Pro Max 256GB Cosmic Orange Excellent",
-    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-17-pro-max-256gb-cosmic-orange-excellent",
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2025-11-22174054_388d49fb-80e4-44bf-ae8b-091ee3bee8fc.png?v=1780625926",
-    "site": "Hotspot Electronics",
-    "old_price": 2349.99,
-    "new_price": 2249.99,
-    "saving": 100.0,
-    "saving_pct": 4.3,
-    "date_first_seen": "2026-06-06T05:24:57Z",
-    "detected_at": "2026-09-15T02:36:33Z"
-  },
-  {
-    "name": "Apple iPhone 14 128GB 5G Battery Above 90%- Midnight (Good-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/appapple-iphone-14-128gb-5g-midnight-good-reconditioned",
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-14-128GB-MP-03781_ee2004ae-1940-42ec-91ed-5f4b252c9fd8.jpg?v=1765438902",
+    "name": "Apple iPhone 12 Pro Max 128GB 5G - Gold (Very Good-Refurbishedd)",
+    "url": "https://www.techcrazy.co.nz/products/iphone-12-pro-max-128gb-very-good-condition",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone12ProMax128GBMP03459.jpg?v=1778543824",
     "site": "TechCrazy",
-    "old_price": 749.0,
-    "new_price": 648.0,
-    "saving": 101.0,
-    "saving_pct": 13.5,
-    "date_first_seen": "2026-06-06T05:24:57Z",
-    "detected_at": "2026-09-15T02:36:33Z"
-  },
-  {
-    "name": "Apple iPhone SE 2nd Gen (2020) 64GB 4G - Midnight Black (Good-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/apple-iphone-se-2022-3rd-gen-64gb-good-pre-owned",
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-SE-2022-_3rd-Gen_-64GB-MP-00094_ff69b3b4-f312-4242-9c3d-d12a9f874b65.jpg?v=1732688361",
-    "site": "TechCrazy",
-    "old_price": 229.0,
-    "new_price": 189.0,
-    "saving": 40.0,
-    "saving_pct": 17.5,
+    "old_price": 799.0,
+    "new_price": 599.0,
+    "saving": 200.0,
+    "saving_pct": 25.0,
     "date_first_seen": "2026-06-06T05:35:30Z",
-    "detected_at": "2026-09-15T02:36:33Z"
-  },
-  {
-    "name": "Apple iPhone 14 128GB 5G - Midnight (Acceptable-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-acceptable-pre-owned",
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple_20iPhone_2014_20128GB_205G_20MP_2007078.jpg?v=1727061143",
-    "site": "TechCrazy",
-    "old_price": 599.0,
-    "new_price": 584.0,
-    "saving": 15.0,
-    "saving_pct": 2.5,
-    "date_first_seen": "2026-06-06T05:35:30Z",
-    "detected_at": "2026-09-15T02:36:33Z"
+    "detected_at": "2026-09-15T10:43:34Z"
   }
 ]

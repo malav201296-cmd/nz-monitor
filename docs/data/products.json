@@ -44328,9 +44328,9 @@
     "date_first_seen": "2026-06-06T05:35:30Z"
   },
   "https://www.techcrazy.co.nz/products/iphone-12-pro-max-128gb-very-good-condition": {
-    "name": "Apple iPhone 12 Pro Max 128GB 5G - Gold (Very Good-Refurbishedd)",
+    "name": "Apple iPhone 12 Pro Max 128GB 5G - Gold (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/iphone-12-pro-max-128gb-very-good-condition",
-    "price": 799.0,
+    "price": 599.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone12ProMax128GBMP03459.jpg?v=1778543824",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -59766,5 +59766,61 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLA-image-0_3_8da875bc-63c4-475c-b1d0-e8c57cacee13.webp?v=1743209757",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-09-15T02:36:33Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hp-elitebook-x360-830-g7-i5-8th-gen-8gb-256gb-touch-screen-excellent": {
+    "name": "HP EliteBook X360 830 G7 i5 8th Gen 8GB 256GB  touch screen - Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/hp-elitebook-x360-830-g7-i5-8th-gen-8gb-256gb-touch-screen-excellent",
+    "price": 599.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/8300000000.jpg?v=1761270936",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-15T10:43:34Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-galaxy-s23-ultra-black-256gb-excellent": {
+    "name": "Samsung Galaxy S23 ULTRA Black  256GB Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s23-ultra-black-256gb-excellent",
+    "price": 899.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLA-image-0_3_8da875bc-63c4-475c-b1d0-e8c57cacee13.webp?v=1743209757",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-15T10:43:34Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-galaxy-s23-ultra-green-256gb-excellent": {
+    "name": "Samsung Galaxy S23 ULTRA  Green 256GB  Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s23-ultra-green-256gb-excellent",
+    "price": 899.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/GRE-image-0.webp?v=1712824569",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-15T10:43:34Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-battery-above-90-midnight-acceptable-refurbished": {
+    "name": "Apple iPhone 14 128GB 5G Battery Above 90% - Midnight (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-battery-above-90-midnight-acceptable-refurbished",
+    "price": 599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone14128GB5GBatteryAbove90-MidnightBlack1.jpg?v=1789453713",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-15T10:43:34Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-battery-100-midnight-black-very-good-refurbishedd": {
+    "name": "Apple iPhone 14 128GB 5G Battery 100% - Midnight Black (Very Good-Refurbishedd)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-battery-100-midnight-black-very-good-refurbishedd",
+    "price": 699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone14128GB5GBatteryAbove90_-MidnightBlack1.jpg?v=1789453539",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-15T10:43:34Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-battery-above-90-midnight-black-very-good-refurbishedd": {
+    "name": "Apple iPhone 14 128GB 5G Battery Above 90% - Midnight Black (Very Good-Refurbishedd)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-128gb-5g-battery-above-90-midnight-black-very-good-refurbishedd",
+    "price": 679.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple_20iPhone_2014_20128GB_205G_20MP_2007078_ad6ee811-8fb7-4d89-bf0a-e1d2c69261a6.jpg?v=1789453344",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-15T10:43:34Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-ipad-9th-gen-2021-10-2-inch-64gb-wifi-only-space-gray-very-good-refurbished-bluetooth-headset-w73-case-tempered-glass-bundle-deal": {
+    "name": "Apple iPad 9th Gen (2021) 10.2-inch 64GB Wifi Only - Space Gray (Very Good-Refurbished) + Bluetooth Headset (W73) + Case + Tempered Glass (Bundle Deal)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-9th-gen-2021-10-2-inch-64gb-wifi-only-space-gray-very-good-refurbished-bluetooth-headset-w73-case-tempered-glass-bundle-deal",
+    "price": 449.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-9th-Gen-_2021_-10-2-inch-64GB-Wifi-Only-BDL00011.jpg?v=1789444946",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-15T10:43:34Z"
   }
 }
