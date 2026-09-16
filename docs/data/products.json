@@ -6250,7 +6250,7 @@
   "https://www.techcrazy.co.nz/products/hoco-100w-4-port-ultra-fast-desktop-laptop-charging-adaptor-au9-black": {
     "name": "Hoco 100W 4-Port Ultra Fast Desktop/Laptop Charging Adaptor (AU9) - Black",
     "url": "https://www.techcrazy.co.nz/products/hoco-100w-4-port-ultra-fast-desktop-laptop-charging-adaptor-au9-black",
-    "price": 49.0,
+    "price": 59.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-100W-4-Port-Ultra-Fast-Desktop-laptop-Charging-Adaptor--Black-_AU9_-CTA02358.jpg?v=1776673873",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -55810,7 +55810,7 @@
   "https://www.techcrazy.co.nz/products/google-pixel-10a-8gb-128gb-5g-obsidian-brand-new": {
     "name": "Google Pixel 10A 8GB 128GB 5G - Obsidian (Brand New)",
     "url": "https://www.techcrazy.co.nz/products/google-pixel-10a-8gb-128gb-5g-obsidian-brand-new",
-    "price": 779.0,
+    "price": 849.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Google-Pixel-10A-8GB-128GB-5G---Obsidian-MP01005.jpg?v=1785817622",
     "site": "TechCrazy",
     "date_first_seen": "2026-08-04T08:22:52Z"
@@ -59830,5 +59830,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-15-Pro-128GB-Blue-Titanium_ace44154-becc-4268-b0de-e03c51a4a517.webp?v=1738999391",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-09-16T02:30:58Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hp-elitebook-x360-1030-g8-i5-11th-gen-16gb-256gb-touchscreen-laptop-excellent": {
+    "name": "HP Elitebook X360 1030 G8 i5 11th Gen 16GB 256GB TouchScreen Laptop Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/hp-elitebook-x360-1030-g8-i5-11th-gen-16gb-256gb-touchscreen-laptop-excellent",
+    "price": 629.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/NBKHNB141117S__1.jpg?v=1730517035",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-16T10:31:22Z"
   }
 }
