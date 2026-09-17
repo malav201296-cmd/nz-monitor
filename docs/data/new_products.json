@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "name": "Hoco Laptop Bag 14-inch With Handle - Grey",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-laptop-bag-14-inch-with-handle-grey",
+    "price": 69.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/laptopbag1.webp?v=1789624331",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-17T10:41:29Z"
+  },
+  {
+    "name": "Hoco Smart Watch With Calling Feature (Y30) - Gold",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-smart-watch-with-calling-feature-y30-gold",
+    "price": 69.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/y30gold1.webp?v=1789623917",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-17T10:41:29Z"
+  }
+]
