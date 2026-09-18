@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "HP EliteBook X360 830 G7 i5 8th Gen 16GB 256GB touch screen - Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/hp-elitebook-x360-830-g7-i5-8th-gen-16gb-256gb-touch-screen-excellent",
+    "price": 599.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/8300000000.jpg?v=1761270936",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-18T02:20:53Z"
+  },
+  {
+    "name": "HP Elitebook X360 1030 G8 i5 11th Gen 8GB 256GB TouchScreen Laptop Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/hp-elitebook-x360-1030-g8-i5-11th-gen-8gb-256gb-touchscreen-laptop-excellent",
+    "price": 599.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/NBKHNB141117S__1.jpg?v=1730517035",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-18T02:20:53Z"
+  },
+  {
+    "name": "Apple iPad 7 32GB Wi-Fi & Cellular Silver Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-7-32gb-wi-fi-cellular-silver-excellent-1",
+    "price": 249.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPad-7-128GB-Wifi-Cellular-Silver-Premium-Pre-owned_8e98b6a5-fc68-43ac-b859-8715faf8ebbf.webp?v=1758064985",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-18T02:20:53Z"
+  }
+]
