@@ -1,62 +1,26 @@
 [
   {
-    "name": "Samsung Note 20 256GB Mystic Grey Excellent",
-    "url": "https://hotspotelectronics.co.nz/products/samsung-note-20-256gb-mystic-grey-excellent",
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/samsung-galaxy-note20-5g-smartphone-display-672-256gb-ram-8gb-mystic-grey_e893116a-1174-4525-a27d-217d9d048ba8.jpg?v=1747107015",
-    "site": "Hotspot Electronics",
-    "old_price": 529.99,
-    "new_price": 519.99,
-    "saving": 10.0,
-    "saving_pct": 1.9,
-    "date_first_seen": "2026-08-02T01:55:26Z",
-    "detected_at": "2026-09-21T02:30:07Z"
-  },
-  {
-    "name": "Apple iPhone 15 Pro 128GB Blue Titanium  Excellent",
-    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-15-pro-128gb-blue-titanium-excellent",
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-15-Pro-128GB-Blue-Titanium_ace44154-becc-4268-b0de-e03c51a4a517.webp?v=1738999391",
-    "site": "Hotspot Electronics",
-    "old_price": 1179.99,
-    "new_price": 1119.99,
-    "saving": 60.0,
-    "saving_pct": 5.1,
-    "date_first_seen": "2026-09-07T11:06:49Z",
-    "detected_at": "2026-09-21T02:30:07Z"
-  },
-  {
-    "name": "Apple iPhone 15 Pro 128GB Natural  Titanium  Excellent",
-    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-15-pro-128gb-natural-titanium-excellent",
+    "name": "Apple iPhone 15 Pro 256GB Natural  Titanium  Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-15-pro-256gb-natural-titanium-excellent",
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/NAT-image-1.webp?v=1762397115",
     "site": "Hotspot Electronics",
-    "old_price": 1179.99,
-    "new_price": 1119.99,
-    "saving": 60.0,
-    "saving_pct": 5.1,
-    "date_first_seen": "2026-08-20T06:29:05Z",
-    "detected_at": "2026-09-21T02:30:07Z"
+    "old_price": 1349.99,
+    "new_price": 1169.99,
+    "saving": 180.0,
+    "saving_pct": 13.3,
+    "date_first_seen": "2026-08-02T01:55:26Z",
+    "detected_at": "2026-09-21T11:31:28Z"
   },
   {
-    "name": "Apple iPhone 15 128GB Pink  Excellent",
-    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-15-128gb-pink-excellent",
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-15-128GB-Pink-Excellent_c8a51bdf-94a7-4582-bc8a-dda601ebb456.webp?v=1739000269",
+    "name": "Apple MacBook Air 13 M2 Chip with 8GB-RAM 256GB-SSD Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-macbook-air-13-m3-chip-with-8gb-ram-256gb-ssd-excellent-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/NBKAPP351351214__1.jpg?v=1788315781",
     "site": "Hotspot Electronics",
-    "old_price": 989.99,
-    "new_price": 949.99,
-    "saving": 40.0,
-    "saving_pct": 4.0,
-    "date_first_seen": "2026-08-03T09:25:09Z",
-    "detected_at": "2026-09-21T02:30:07Z"
-  },
-  {
-    "name": "Apple iPhone 15 128GB Black Excellent",
-    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-15-128gb-black-excellent",
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLA-image-0_3.webp?v=1710994130",
-    "site": "Hotspot Electronics",
-    "old_price": 989.99,
-    "new_price": 949.99,
-    "saving": 40.0,
-    "saving_pct": 4.0,
-    "date_first_seen": "2026-06-06T05:24:57Z",
-    "detected_at": "2026-09-21T02:30:07Z"
+    "old_price": 1349.99,
+    "new_price": 1299.99,
+    "saving": 50.0,
+    "saving_pct": 3.7,
+    "date_first_seen": "2026-09-02T10:14:31Z",
+    "detected_at": "2026-09-21T11:31:28Z"
   }
 ]
