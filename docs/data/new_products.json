@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "name": "Apple iPad Air 2 Wi-Fi  Space Grey Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-air-2-wi-fi-space-grey-excellent",
+    "price": 149.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-Ipad-Air-2-128GB-NZ-PC-Clearance-Image-2_jpg_a9c3af17-f239-40e9-b37f-d610c2f91ce1.webp?v=1687480420",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-21T02:30:07Z"
+  },
+  {
+    "name": "Apple iPhone 12 Pro 128GB Silver Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-12-pro-128gb-silver-excellent",
+    "price": 589.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iphone-12-Pro-128GB-White-Excellent.webp?v=1737017445",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-21T02:30:07Z"
+  },
+  {
+    "name": "Apple iPhone 12 Pro 128GB Blue Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-12-pro-128gb-blue-excellent",
+    "price": 589.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/PAC-image-0.webp?v=1746445427",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-21T02:30:07Z"
+  },
+  {
+    "name": "Apple iPhone 17 Pro Max 512GB Silver Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-17-pro-max-512gb-silver-brand-new",
+    "price": 2550.0,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2025-11-22173355.png?v=1763786340",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-21T02:30:07Z"
+  }
+]
