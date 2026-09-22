@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Apple iPhone 18 Pro Glacier 256GB Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-18-pro-glacier-256gb-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/N256128_0.webp?v=1789966941",
+    "site": "Hotspot Electronics",
+    "old_price": 2799.99,
+    "new_price": 2749.99,
+    "saving": 50.0,
+    "saving_pct": 1.8,
+    "date_first_seen": "2026-09-21T11:31:28Z",
+    "detected_at": "2026-09-22T10:38:10Z"
+  },
+  {
+    "name": "Apple iPhone 18 Pro Burgundy 256GB Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-18-pro-burgundy-256gb-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/N256134_0.webp?v=1789966630",
+    "site": "Hotspot Electronics",
+    "old_price": 2799.99,
+    "new_price": 2749.99,
+    "saving": 50.0,
+    "saving_pct": 1.8,
+    "date_first_seen": "2026-09-21T11:31:28Z",
+    "detected_at": "2026-09-22T10:38:10Z"
+  }
+]
