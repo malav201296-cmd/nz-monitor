@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "name": "Apple iPhone 14 Pro Max 128GB Gold Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-pro-max-128gb-gold-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/imgpsh_fullsize_anim_14_85ff7c8f-c70f-433c-89ea-c4741a2e5238.jpg?v=1739012594",
+    "site": "Hotspot Electronics",
+    "old_price": 1079.99,
+    "new_price": 1049.99,
+    "saving": 30.0,
+    "saving_pct": 2.8,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-09-23T10:30:25Z"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 128GB Space Grey Good Condition",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-pro-max-128gb-space-grey-good-condition",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/imgpsh_fullsize_anim_15.jpg?v=1739013399",
+    "site": "Hotspot Electronics",
+    "old_price": 1030.0,
+    "new_price": 999.99,
+    "saving": 30.01,
+    "saving_pct": 2.9,
+    "date_first_seen": "2026-09-07T02:01:39Z",
+    "detected_at": "2026-09-23T10:30:25Z"
+  },
+  {
+    "name": "HP Elitebook 840 G9 14-inch i5 12th Gen 16GB 256GB @1.30GHz Windows 11 Home Laptop - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-840-g9-14-inch-i5-12th-gen-16gb-256gb-1-60ghz-windows-11-pro-laptop-silver-good-pre-owned-1",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-840-G8-14-inch-i5-11th-Gen-CT-00764_204833eb-98ab-41ff-8af0-282a8f6028e1.jpg?v=1771888108",
+    "site": "TechCrazy",
+    "old_price": 799.0,
+    "new_price": 769.0,
+    "saving": 30.0,
+    "saving_pct": 3.8,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-09-23T10:30:25Z"
+  },
+  {
+    "name": "HP Elitebook 840 G9 14-inch i5 12th Gen 16GB 256GB @1.60GHz Windows 11 Pro Laptop - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-840-g9-14-inch-i5-12th-gen-16gb-256gb-1-60ghz-windows-11-pro-laptop-silver-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-840-G9-14-inch-i5-CT00254.jpg?v=1771888085",
+    "site": "TechCrazy",
+    "old_price": 799.0,
+    "new_price": 769.0,
+    "saving": 30.0,
+    "saving_pct": 3.8,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-09-23T10:30:25Z"
+  },
+  {
+    "name": "Samsung Galaxy S24 Plus 12GB 256GB 5G - Onyx Black (Very Good Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s24-plus-12gb-256gb-5g-onyx-black-very-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S24-Plus-12GB-256GB-MP00913_be25a6d4-68e6-4aa1-a7e5-f691fe7b351b.jpg?v=1760339478",
+    "site": "TechCrazy",
+    "old_price": 1029.0,
+    "new_price": 899.0,
+    "saving": 130.0,
+    "saving_pct": 12.6,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-09-23T10:30:25Z"
+  }
+]
