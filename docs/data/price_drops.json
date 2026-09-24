@@ -1,26 +1,38 @@
 [
   {
-    "name": "Special payment manukau",
-    "url": "https://www.techcrazy.co.nz/products/special-paymeby",
-    "image": "",
-    "site": "TechCrazy",
-    "old_price": 600.0,
-    "new_price": 160.0,
-    "saving": 440.0,
-    "saving_pct": 73.3,
-    "date_first_seen": "2026-06-06T05:24:57Z",
-    "detected_at": "2026-09-24T02:22:28Z"
+    "name": "Apple iPhone 14 Pro Space Grey  256GB  Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-pro-space-grey-256gb-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/SBK-image-0.webp?v=1706850001",
+    "site": "Hotspot Electronics",
+    "old_price": 1499.99,
+    "new_price": 999.99,
+    "saving": 500.0,
+    "saving_pct": 33.3,
+    "date_first_seen": "2026-08-02T01:55:26Z",
+    "detected_at": "2026-09-24T10:47:35Z"
   },
   {
-    "name": "Microsoft Surface Pro 7+ 12.3-inch i5 11th Gen 8GB 256GB @2.40GHz Windows 11 Pro Touch Screen - Platinum (Good-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/microsoft-surface-pro-7-12-inch-i5-11th-gen-8gb-256gb-2-40ghz-w10p-with-keyboard-good-pre-owned",
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Microsoft-Surface-Pro-7_-12-inch-i7-CT-00180_223ae9bd-6c99-4cb2-8d94-76e7f7b77a96.jpg?v=1716339842",
-    "site": "TechCrazy",
-    "old_price": 699.0,
-    "new_price": 599.0,
-    "saving": 100.0,
-    "saving_pct": 14.3,
-    "date_first_seen": "2026-06-06T05:35:30Z",
-    "detected_at": "2026-09-24T02:22:28Z"
+    "name": "Apple iPhone 14 Pro Purple 128GB Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-pro-purple-128gb-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/DPR-image-0.webp?v=1761266613",
+    "site": "Hotspot Electronics",
+    "old_price": 999.99,
+    "new_price": 979.99,
+    "saving": 20.0,
+    "saving_pct": 2.0,
+    "date_first_seen": "2026-09-23T02:33:01Z",
+    "detected_at": "2026-09-24T10:47:35Z"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Purple 256GB Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-pro-purple-256gb-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/DPR-image-0.webp?v=1761266613",
+    "site": "Hotspot Electronics",
+    "old_price": 1019.99,
+    "new_price": 999.99,
+    "saving": 20.0,
+    "saving_pct": 2.0,
+    "date_first_seen": "2026-09-07T02:01:39Z",
+    "detected_at": "2026-09-24T10:47:35Z"
   }
 ]
