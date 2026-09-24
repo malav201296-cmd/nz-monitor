@@ -8522,7 +8522,7 @@
   "https://www.techcrazy.co.nz/products/special-paymeby": {
     "name": "Special payment manukau",
     "url": "https://www.techcrazy.co.nz/products/special-paymeby",
-    "price": 600.0,
+    "price": 160.0,
     "image": "",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -15392,7 +15392,7 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s24-plus-12gb-256gb-5g-onyx-black-very-good-pre-owned": {
-    "name": "Samsung Galaxy S24 Plus 12GB 256GB 5G - Onyx Black (Very Good Pre-Owned)",
+    "name": "Samsung Galaxy S24 Plus 12GB 256GB 5G - Onyx Black (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s24-plus-12gb-256gb-5g-onyx-black-very-good-pre-owned",
     "price": 899.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S24-Plus-12GB-256GB-MP00913_be25a6d4-68e6-4aa1-a7e5-f691fe7b351b.jpg?v=1760339478",
@@ -16016,7 +16016,7 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s21-ultra-12gb-256gb-5g-phantom-silver-good-pre-owned": {
-    "name": "Samsung Galaxy S21 Ultra 12GB 256GB 5G - Phantom Silver (Good Pre-Owned)",
+    "name": "Samsung Galaxy S21 Ultra 12GB 256GB 5G - Phantom Silver (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s21-ultra-12gb-256gb-5g-phantom-silver-good-pre-owned",
     "price": 574.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/SamsungGalaxyS21Ultra128GB5GMP-03428_8dba4376-c2fb-4594-8301-51931f5e8c94.jpg?v=1759193559",
@@ -34738,7 +34738,7 @@
   "https://www.techcrazy.co.nz/products/microsoft-surface-pro-7-12-inch-i5-11th-gen-8gb-256gb-2-40ghz-w10p-with-keyboard-good-pre-owned": {
     "name": "Microsoft Surface Pro 7+ 12.3-inch i5 11th Gen 8GB 256GB @2.40GHz Windows 11 Pro Touch Screen - Platinum (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/microsoft-surface-pro-7-12-inch-i5-11th-gen-8gb-256gb-2-40ghz-w10p-with-keyboard-good-pre-owned",
-    "price": 699.0,
+    "price": 599.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Microsoft-Surface-Pro-7_-12-inch-i7-CT-00180_223ae9bd-6c99-4cb2-8d94-76e7f7b77a96.jpg?v=1716339842",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -39850,7 +39850,7 @@
   "https://www.techcrazy.co.nz/products/zeroflex-trex-211-21-inch-monster-5000-rms-dual-1-ohm-car-subwoofer": {
     "name": "Zeroflex TREX-211 21-inch MONSTER 5000 RMS Dual 1 Ohm Car Subwoofer",
     "url": "https://www.techcrazy.co.nz/products/zeroflex-trex-211-21-inch-monster-5000-rms-dual-1-ohm-car-subwoofer",
-    "price": 1399.0,
+    "price": 1599.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Zeroflex-TREX-211-21-Inch-MONSTER-5000-RMS-CA00694.jpg?v=1701994643",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -60134,5 +60134,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-AirPods-5-with-Wireless-Charging-Case-AU00210.jpg?v=1790166812",
     "site": "TechCrazy",
     "date_first_seen": "2026-09-23T15:49:22Z"
+  },
+  "https://www.techcrazy.co.nz/products/mobile-phone-amount-only-for-payment-1": {
+    "name": "Mobile Phone Amount (Only for Payment)",
+    "url": "https://www.techcrazy.co.nz/products/mobile-phone-amount-only-for-payment-1",
+    "price": 258.89,
+    "image": "",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-24T02:22:28Z"
   }
 }
