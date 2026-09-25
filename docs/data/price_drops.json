@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Hoco Laptop Bag 14-inch With Handle - Grey",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-laptop-bag-14-inch-with-handle-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/laptopbag1.webp?v=1789624331",
+    "site": "Hotspot Electronics",
+    "old_price": 69.99,
+    "new_price": 39.99,
+    "saving": 30.0,
+    "saving_pct": 42.9,
+    "date_first_seen": "2026-09-17T10:41:29Z",
+    "detected_at": "2026-09-25T02:38:42Z"
+  },
+  {
+    "name": "Apple iPhone 12 Pro 128GB 5G - Blue (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-12-pro-128gb-5g-very-good-pre-owned-1",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-12-Pro-128GB-5G-MP03657.jpg?v=1746112495",
+    "site": "TechCrazy",
+    "old_price": 699.0,
+    "new_price": 599.0,
+    "saving": 100.0,
+    "saving_pct": 14.3,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-09-25T02:38:42Z"
+  }
+]
