@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "name": "Samsung Galaxy S26 FE Blueberry 256GB - Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s26-fe-blueberry-256gb-brand-new",
+    "price": 1049.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/s26FEblue.jpg?v=1790397301",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-26T10:32:28Z"
+  },
+  {
+    "name": "Samsung Galaxy S26 FE Pistachio 256GB - Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s26-fe-pistachio-256gb-brand-new",
+    "price": 1949.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/s26fepista2_b6756e29-1561-43e7-aa4e-0b115018d8d8.webp?v=1790396117",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-26T10:32:28Z"
+  },
+  {
+    "name": "Zeroflex EFX-12A 12-inch Car Subwoofer 250RMS - Active Basspack",
+    "url": "https://hotspotelectronics.co.nz/products/zeroflex-efx-12a-12-inch-car-subwoofer-250rms-active-basspack",
+    "price": 449.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/zeroflex_c825addc-50e7-4c43-9ac6-599d4bda4222.webp?v=1790390138",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-26T10:32:28Z"
+  },
+  {
+    "name": "HP EliteBook 850 G6 i7 8th gen 8GB 512GB Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/hp-elitebook-850-g6-i7-8gb-256gb-excellent",
+    "price": 549.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/8300000000.jpg?v=1761270936",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-09-26T10:32:28Z"
+  }
+]
