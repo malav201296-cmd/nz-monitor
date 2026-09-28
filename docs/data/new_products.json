@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "name": "Apple Macbook Pro (2016) 13.3-inch i5 8GB 512GB 2.90@GHz - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2016-13-3-inch-i5-8gb-512gb-2-90-ghz-silver-good-refurbished",
+    "price": 599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-_2016_-CT-02078-0_2ba1a9d1-d6e9-4ffd-a06a-a2105574246d.jpg?v=1790610691",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-28T22:47:10Z"
+  },
+  {
+    "name": "Motorola Edge 50 Pro 12GB 256GB 5G - Black Beauty (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/motorola-edge-50-pro-12gb-256gb-5g-black-beauty-very-good-refurbished",
+    "price": 499.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Motorola-Edge-50-Pro-12GB-256GB-5G-MP00956.jpg?v=1790610555",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-28T22:47:10Z"
+  },
+  {
+    "name": "Apple Macbook Pro (2017) 13-inch i5 16GB 512GB @3.10GHz - Space Gray (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2017-13-inch-i5-16gb-512gb-3-10ghz-space-gray-good-refurbished",
+    "price": 699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-_2017_-13-inch-i5-7th-Gen-CT-03022_efaa492e-ce94-4bc4-ad2e-77f2b8a134ba.jpg?v=1790610112",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-28T22:47:10Z"
+  },
+  {
+    "name": "Motorola Moto G56 8GB 256GB 5G - Black Oyster (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/motorola-moto-g56-8gb-256gb-5g-black-oyster-very-good-refurbished",
+    "price": 365.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Motorola-Moto-G56-8GB-256GB-5G-MP00957_66262d2c-38e7-42b8-be8e-076b2981fad2.jpg?v=1790609926",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-28T22:47:10Z"
+  },
+  {
+    "name": "Motorola Moto G56 8GB 256GB 5G - Black Oyster (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/motorola-moto-g56-8gb-256gb-5g-black-oyster-as-new-refurbished",
+    "price": 399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Motorola-Moto-G56-8GB-256GB-5G-MP00957.jpg?v=1790609786",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-28T22:47:10Z"
+  },
+  {
+    "name": "Apple iPhone 16E 128GB 5G Battery 100% - White (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-16e-128gb-5g-battery-100-white-very-good-refurbished",
+    "price": 999.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-16e-128GB-5G---White-MP03799_929958c9-fabb-469f-9b4d-42d919d6239f.jpg?v=1790609214",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-09-28T22:47:10Z"
+  }
+]
