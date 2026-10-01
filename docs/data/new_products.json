@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Apple iPad 11-inch A16 128GB Blue Wifi - Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-11-inch-a16-128gb-blue-wifi-brand-new",
+    "price": 789.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLU-image-0.webp?v=1723890579",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-01T03:15:57Z"
+  },
+  {
+    "name": "Hoco EQ32 TWS Earbuds – ANC + ENC Noise Cancellation",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-eq32-tws-earbuds-anc-enc-noise-cancellation",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2026-09-30171659.png?v=1790745285",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-01T03:15:57Z"
+  },
+  {
+    "name": "Hoco EA7 OWS Wireless headset - Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/hoco-ea7-ows-wireless-headset-brand-new",
+    "price": 49.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/hoco-ew201-graceful-tws-bt-headset-earbuds.jpg?v=1757208208",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-01T03:15:57Z"
+  }
+]
