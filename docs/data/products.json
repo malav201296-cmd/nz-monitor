@@ -2434,7 +2434,7 @@
   "https://hotspotelectronics.co.nz/products/screen-repair": {
     "name": "Repair",
     "url": "https://hotspotelectronics.co.nz/products/screen-repair",
-    "price": 636.0,
+    "price": 90.0,
     "image": "",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -60726,5 +60726,29 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/hoco-ew201-graceful-tws-bt-headset-earbuds.jpg?v=1757208208",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-10-01T03:15:57Z"
+  },
+  "https://www.techcrazy.co.nz/products/hp-elitebook-x360-1040-g8-14-inch-i5-11th-gen-16gb-256gb-touch-screen-laptop-silver-very-good-refurbished": {
+    "name": "HP Elitebook X360 1040 G8 14-inch i5 11th Gen 16GB 256GB Touch Screen Laptop - Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-x360-1040-g8-14-inch-i5-11th-gen-16gb-256gb-touch-screen-laptop-silver-very-good-refurbished",
+    "price": 699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-X360-1040-G8-13-3-inch-i7-CT-001007-2_ed6daf98-fb15-413c-9d0c-7f5605268699.jpg?v=1790846249",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-01T12:06:38Z"
+  },
+  "https://www.techcrazy.co.nz/products/hp-elitebook-x360-1030-g8-13-3-inch-i7-11th-gen-16gb-512gb-touch-screen-laptop-silver-very-good-refurbished": {
+    "name": "HP Elitebook X360 1030 G8 13.3-inch i7 11th Gen 16GB 512GB Touch Screen Laptop - Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-x360-1030-g8-13-3-inch-i7-11th-gen-16gb-512gb-touch-screen-laptop-silver-very-good-refurbished",
+    "price": 849.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-X360-1030-G8-CT02137_f00b493b-9213-48a5-9344-c1abf9402590.jpg?v=1790845621",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-01T12:06:38Z"
+  },
+  "https://www.techcrazy.co.nz/products/hp-elitebook-x360-1030-g8-13-3-inch-i7-11th-gen-16gb-512gb-touch-screen-laptop-silver-good-refurbished": {
+    "name": "HP Elitebook X360 1030 G8 13.3-inch i7 11th Gen 16GB 512GB Touch Screen Laptop - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-x360-1030-g8-13-3-inch-i7-11th-gen-16gb-512gb-touch-screen-laptop-silver-good-refurbished",
+    "price": 799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-X360-1030-G8-CT02137_665070b9-9192-4a44-b97e-bcccb896dcdb.jpg?v=1790845127",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-01T12:06:38Z"
   }
 }
