@@ -60750,5 +60750,29 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-X360-1030-G8-CT02137_665070b9-9192-4a44-b97e-bcccb896dcdb.jpg?v=1790845127",
     "site": "TechCrazy",
     "date_first_seen": "2026-10-01T12:06:38Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-18-pro-max-black-256gb-brand-new": {
+    "name": "Apple iPhone 18 Pro Max Black 256GB Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-18-pro-max-black-256gb-brand-new",
+    "price": 2999.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/iPhone_18_Pro_Black.01.avif?v=1790889970",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-01T22:09:23Z"
+  },
+  "https://www.techcrazy.co.nz/products/hp-elitebook-830-g8-13-3-inch-i7-11th-gen-16gb-512gb-laptop-silver-good-refurbished": {
+    "name": "HP EliteBook 830 G8 13.3-inch i7 11th Gen 16GB 512GB Laptop - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-830-g8-13-3-inch-i7-11th-gen-16gb-512gb-laptop-silver-good-refurbished",
+    "price": 725.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-EliteBook-830-G8-CT-02086_6444de64-0fbd-4655-893f-92cba986fe10.jpg?v=1790872715",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-01T22:09:23Z"
+  },
+  "https://www.techcrazy.co.nz/products/hp-elitebook-x360-830-g9-13-3-inch-i7-12th-gen-16gb-512gb-touch-screen-laptop-silver-good-refurbished": {
+    "name": "HP Elitebook X360 830 G9 13.3-inch i7 12th Gen 16GB 512GB Touch Screen Laptop - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-x360-830-g9-13-3-inch-i7-12th-gen-16gb-512gb-touch-screen-laptop-silver-good-refurbished",
+    "price": 999.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-X360-830-G9-13-3-inch-i7-12th-Gen-CT01192.jpg?v=1790872711",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-01T22:09:23Z"
   }
 }
