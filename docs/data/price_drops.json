@@ -1,14 +1,50 @@
 [
   {
-    "name": "Samsung Galaxy S23 Ultra 8GB 256GB 5G - Lavender (Good Pre-Owned)",
-    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-8gb-256gb-5g-lavender-good-pre-owned",
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S23-Ultra-256GB-5G-Lavender-MP-03768_2d4497c9-9c0b-453e-b1e7-2a225a610f0f.jpg?v=1756225050",
+    "name": "Dell Latitude 5400 14-inch i7 8th Gen 16GB 256GB @1.90GHz Windows 11 Pro Touch Screen - Black (Acceptable Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/dell-latitude-5400-14-inch-i7-8th-gen-16gb-256gb-1-90ghz-windows-11-pro-touch-screen-black-acceptable-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Dell-Latitude-5400-14-inch-i7-8th-Gen-CT00882.jpg?v=1766716185",
     "site": "TechCrazy",
-    "old_price": 949.0,
-    "new_price": 899.0,
-    "saving": 50.0,
-    "saving_pct": 5.3,
+    "old_price": 1299.0,
+    "new_price": 599.0,
+    "saving": 700.0,
+    "saving_pct": 53.9,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-10-05T13:06:11Z"
+  },
+  {
+    "name": "Apple iPhone 14 Pro 128GB 5G Battery 100% - Space Black (Good-Reconditioned)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-14-pro-128gb-5g-battery-100-space-black-good-reconditioned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-14-Pro-128GB-Black-MP-01460_031fc9e4-037c-48f3-858a-d1d9ddf2f21a.jpg?v=1765385409",
+    "site": "TechCrazy",
+    "old_price": 1099.0,
+    "new_price": 999.0,
+    "saving": 100.0,
+    "saving_pct": 9.1,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-10-05T13:06:11Z"
+  },
+  {
+    "name": "HP Elitebook 840 G5 14-inch i5 8th Gen 8GB 256GB @1.70GHz Windows 11 Pro Touch Screen Laptop (Good Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-840-g5-14-inch-i5-8th-gen-8gb-256gb-1-70ghz-windows-11-pro-touch-screen-laptop-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hp-Elitebook-840-G5-14-inch-i5-8th-Gen-CT-00015_a3a16c42-d2f7-4701-8302-964891241a79.jpg?v=1741820803",
+    "site": "TechCrazy",
+    "old_price": 699.0,
+    "new_price": 499.0,
+    "saving": 200.0,
+    "saving_pct": 28.6,
     "date_first_seen": "2026-06-06T05:35:30Z",
-    "detected_at": "2026-10-05T03:11:17Z"
+    "detected_at": "2026-10-05T13:06:11Z"
+  },
+  {
+    "name": "Samsung Galaxy Note 10 Plus 12GB 256GB 5G - Aura Black  (Very Good- Reconditioned By Techcrazy)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-note-10-plus-12gb-256gb-5g-very-good-reconditioned-by-techcrazy",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Note-10-Plus-12GB-256GB-MP-02293.jpg?v=1727399482",
+    "site": "TechCrazy",
+    "old_price": 799.0,
+    "new_price": 399.0,
+    "saving": 400.0,
+    "saving_pct": 50.1,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-10-05T13:06:11Z"
   }
 ]
