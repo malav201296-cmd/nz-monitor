@@ -435,7 +435,7 @@
     "name": "Samsung Galaxy S20FE  5G 128GB Cloud Navy Excellent",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s20fe-128gb-cloud-navy-excellent",
     "price": 339.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/image_6.webp?v=1685338158",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/galaxy-s20-fe-5g-official_1.jpg?v=1685338377",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
@@ -5456,9 +5456,9 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s25-ultra-12gb-256gb-5g-dual-sim-smartphone-titanium-blue-very-good-refurbished": {
-    "name": "Samsung Galaxy S25 Ultra 12GB 256GB 5G Dual Sim Smartphone - Titanium Blue (Very Good-Refurbished)",
+    "name": "Samsung Galaxy S25 Ultra 12GB 256GB 5G Dual Sim Smartphone - Titanium Silver Blue (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s25-ultra-12gb-256gb-5g-dual-sim-smartphone-titanium-blue-very-good-refurbished",
-    "price": 1449.0,
+    "price": 1499.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S25-Ultra-12GB-256GB-MP00488.jpg?v=1777827567",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -15986,7 +15986,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-12gb-512gb-5g-phantom-black-good-pre-owned": {
     "name": "Samsung Galaxy S23 Ultra 12GB 512GB 5G - Phantom Black (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-12gb-512gb-5g-phantom-black-good-pre-owned",
-    "price": 964.0,
+    "price": 999.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/SamsungGalaxyS23Ultra8GBRam256GB5GMP-03763_8671962d-808a-44dc-99b1-dce708d2d3fd.jpg?v=1759194550",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -17570,7 +17570,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-8gb-256gb-5g-lavender-good-pre-owned": {
     "name": "Samsung Galaxy S23 Ultra 8GB 256GB 5G - Lavender (Good Pre-Owned)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-8gb-256gb-5g-lavender-good-pre-owned",
-    "price": 949.0,
+    "price": 899.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S23-Ultra-256GB-5G-Lavender-MP-03768_2d4497c9-9c0b-453e-b1e7-2a225a610f0f.jpg?v=1756225050",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -60306,7 +60306,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-a23-4gb-128gb-4g-black-good-refurbished": {
     "name": "Samsung Galaxy A23 4GB 128GB 4G - Black (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a23-4gb-128gb-4g-black-good-refurbished",
-    "price": 275.0,
+    "price": 299.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A23-4GB-128GB-MP00970.jpg?v=1790266580",
     "site": "TechCrazy",
     "date_first_seen": "2026-09-24T20:57:26Z"
@@ -60846,5 +60846,53 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-2A-Ultra-Thin-Power-Bank--_10000mAh_-_J153_-MBA02663.jpg?v=1791123725",
     "site": "TechCrazy",
     "date_first_seen": "2026-10-04T16:11:55Z"
+  },
+  "https://www.techcrazy.co.nz/products/hoco-handheld-game-console-with-500-classic-games-included-ga41-white-brand-new": {
+    "name": "Hoco Handheld Game Console with 500 Classic Games Included (GA41) - White (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-handheld-game-console-with-500-classic-games-included-ga41-white-brand-new",
+    "price": 49.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Handheld-Game-Console-_GA41_-HE00345-1.jpg?v=1791163760",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-05T03:11:17Z"
+  },
+  "https://www.techcrazy.co.nz/products/hoco-tws-bluetooth-earbuds-2-in-1-design-eq32-black-brand-new": {
+    "name": "Hoco TWS Bluetooth Earbuds 2-in-1 Design (EQ32) - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-tws-bluetooth-earbuds-2-in-1-design-eq32-black-brand-new",
+    "price": 39.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-TWS-Bluetooth-Earbuds-2-in-1-Design-_EQ32_-MBA00370.jpg?v=1791163328",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-05T03:11:17Z"
+  },
+  "https://www.techcrazy.co.nz/products/hoco-kids-quartz-watch-built-in-tracker-for-apple-devices-e112-black-brand-new": {
+    "name": "Hoco Kids Quartz Watch Built In Tracker For Apple Devices (E112) - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-kids-quartz-watch-built-in-tracker-for-apple-devices-e112-black-brand-new",
+    "price": 49.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Kids-Quartz-Watch-Built-In-Tracker--_E112_-WE00296.jpg?v=1791162991",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-05T03:11:17Z"
+  },
+  "https://www.techcrazy.co.nz/products/hoco-smart-wireless-tracker-card-compatible-to-android-apple-e102-black-brand-new": {
+    "name": "Hoco Smart Wireless Tracker Card Compatible To Android & Apple (E102) - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-smart-wireless-tracker-card-compatible-to-android-apple-e102-black-brand-new",
+    "price": 39.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Smart-Wireless-Tracker-Card-_E102_-EL00099-4.jpg?v=1791162386",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-05T03:11:17Z"
+  },
+  "https://www.techcrazy.co.nz/products/hoco-kids-quartz-watch-built-in-tracker-for-apple-devices-e112-white-brand-new": {
+    "name": "Hoco Kids Quartz Watch Built In Tracker For Apple Devices (E112) - White (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-kids-quartz-watch-built-in-tracker-for-apple-devices-e112-white-brand-new",
+    "price": 49.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Kids-Quartz-Watch-Built-In-Tracker-For-Apple-Devices-_E112_-WE00295.jpg?v=1791161451",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-05T03:11:17Z"
+  },
+  "https://www.techcrazy.co.nz/products/hoco-premium-gaming-mouse-led-display-wired-wireless-modes-gm651-black-brand-new": {
+    "name": "Hoco Premium Gaming Mouse LED Display, Wired & Wireless Modes (GM651) - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-premium-gaming-mouse-led-display-wired-wireless-modes-gm651-black-brand-new",
+    "price": 39.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Premium-Gaming-Mouse-LED-Display-_GM651_-HE00356-2.jpg?v=1791159701",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-05T03:11:17Z"
   }
 }
