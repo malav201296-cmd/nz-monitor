@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Apple iPhone 17 Pro Max 256GB Silver Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-17-pro-max-256gb-silver-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2025-11-22173355.png?v=1763786340",
+    "site": "Hotspot Electronics",
+    "old_price": 2249.99,
+    "new_price": 2099.99,
+    "saving": 150.0,
+    "saving_pct": 6.7,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-10-07T03:27:28Z"
+  },
+  {
+    "name": "Apple iPhone 17 Pro Max 256GB Cosmic Orange Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-17-pro-max-256gb-cosmic-orange-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2025-11-22174054_388d49fb-80e4-44bf-ae8b-091ee3bee8fc.png?v=1780625926",
+    "site": "Hotspot Electronics",
+    "old_price": 2249.99,
+    "new_price": 2099.99,
+    "saving": 150.0,
+    "saving_pct": 6.7,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-10-07T03:27:28Z"
+  }
+]

@@ -18,7 +18,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-17-pro-max-256gb-cosmic-orange-excellent": {
     "name": "Apple iPhone 17 Pro Max 256GB Cosmic Orange Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-17-pro-max-256gb-cosmic-orange-excellent",
-    "price": 2249.99,
+    "price": 2099.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2025-11-22174054_388d49fb-80e4-44bf-ae8b-091ee3bee8fc.png?v=1780625926",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -338,7 +338,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-17-pro-max-256gb-silver-excellent": {
     "name": "Apple iPhone 17 Pro Max 256GB Silver Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-17-pro-max-256gb-silver-excellent",
-    "price": 2249.99,
+    "price": 2099.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2025-11-22173355.png?v=1763786340",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -8680,7 +8680,7 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s25-ultra-12gb-256gb-5g-dual-sim-smartphone-titanium-black-good-pre-owned-1": {
-    "name": "Samsung Galaxy S25 Ultra 12GB 256GB 5G Dual SIM Smartphone - Titanium Black (Very Good Pre-Owned)",
+    "name": "Samsung Galaxy S25 Ultra 12GB 256GB 5G Dual SIM Smartphone - Titanium Black (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s25-ultra-12gb-256gb-5g-dual-sim-smartphone-titanium-black-good-pre-owned-1",
     "price": 1499.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S25-Ultra-12GB-256GB-5G-MP-02912_5940893f-22ed-4ce5-934b-e1fb1008e5e1.jpg?v=1771171407",
@@ -15728,7 +15728,7 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://www.techcrazy.co.nz/products/samsung-galaxy-a32-6gb-128gb-4g-awesome-black-good-pre-owned": {
-    "name": "Samsung Galaxy A32 6GB 128GB 4G - Awesome Black (Good-Refurbished)",
+    "name": "Samsung Galaxy A32 6GB 128GB 4G - Black (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a32-6gb-128gb-4g-awesome-black-good-pre-owned",
     "price": 229.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A32-6GB-128GB-4G---Awesome-Black-MP01911.jpg?v=1759455938",
@@ -17568,7 +17568,7 @@
     "date_first_seen": "2026-06-06T05:35:30Z"
   },
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-8gb-256gb-5g-lavender-good-pre-owned": {
-    "name": "Samsung Galaxy S23 Ultra 8GB 256GB 5G - Lavender (Good Pre-Owned)",
+    "name": "Samsung Galaxy S23 Ultra 8GB 256GB 5G - Lavender (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-8gb-256gb-5g-lavender-good-pre-owned",
     "price": 899.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S23-Ultra-256GB-5G-Lavender-MP-03768_2d4497c9-9c0b-453e-b1e7-2a225a610f0f.jpg?v=1756225050",
@@ -22056,7 +22056,7 @@
     "date_first_seen": "2026-06-06T05:35:30Z"
   },
   "https://www.techcrazy.co.nz/products/samsung-galaxy-a13-2022-4gb-128gb-5g-good-pre-owned": {
-    "name": "Samsung Galaxy A13 (2022) 4GB 128GB 5G - Black (Good Pre-Owned)",
+    "name": "Samsung Galaxy A13 (2022) 4GB 128GB 5G - Black (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a13-2022-4gb-128gb-5g-good-pre-owned",
     "price": 199.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A13-_2022_-4GB-MP03711.jpg?v=1746724628",
@@ -60304,7 +60304,7 @@
     "date_first_seen": "2026-09-24T20:57:26Z"
   },
   "https://www.techcrazy.co.nz/products/samsung-galaxy-a23-4gb-128gb-4g-black-good-refurbished": {
-    "name": "Samsung Galaxy A23 4GB 128GB 4G - Black (Good-Refurbished)",
+    "name": "Samsung Galaxy A23 6GB 128GB 4G - Black (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a23-4gb-128gb-4g-black-good-refurbished",
     "price": 299.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A23-4GB-128GB-MP00970.jpg?v=1790266580",
@@ -60942,5 +60942,53 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/SPKJBL6324664__3.jpg?v=1791322479",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-10-06T22:02:54Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-17-pro-256gb-cosmic-orange-excellent-copy": {
+    "name": "Apple iPhone 17 Pro 256GB Cosmic Orange  Good Condition",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-17-pro-256gb-cosmic-orange-excellent-copy",
+    "price": 1699.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2025-11-22174054.png?v=1763786502",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-07T03:27:28Z"
+  },
+  "https://hotspotelectronics.co.nz/products/shockproof-case-for-apple-ipad-7-8-9-ipad-air-3-rainbow": {
+    "name": "Shockproof Case for Apple iPad 7/8/9 & iPad Air 3 - Rainbow",
+    "url": "https://hotspotelectronics.co.nz/products/shockproof-case-for-apple-ipad-7-8-9-ipad-air-3-rainbow",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/IronGuard-Series-06.webp?v=1791339379",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-07T03:27:28Z"
+  },
+  "https://hotspotelectronics.co.nz/products/shockproof-case-for-apple-ipad-7-8-9-ipad-air-3-pink": {
+    "name": "Shockproof Case for Apple iPad 7/8/9 & iPad Air 3 - Pink",
+    "url": "https://hotspotelectronics.co.nz/products/shockproof-case-for-apple-ipad-7-8-9-ipad-air-3-pink",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/IronGuard-Series-05.webp?v=1791338143",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-07T03:27:28Z"
+  },
+  "https://hotspotelectronics.co.nz/products/zeroflex-tko-15-sub-15-1000rms-car-subwoofer-1": {
+    "name": "Zeroflex TKO-15 Sub 15\" 1000RMS Car Subwoofer",
+    "url": "https://hotspotelectronics.co.nz/products/zeroflex-tko-15-sub-15-1000rms-car-subwoofer-1",
+    "price": 449.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/CA00582-1.webp?v=1694828193",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-07T03:27:28Z"
+  },
+  "https://hotspotelectronics.co.nz/products/zeroflex-zfx124-sub-12-inch-350rms-car-subwoofer": {
+    "name": "Zeroflex ZFX124 Sub 12 Inch 350RMS Car Subwoofer",
+    "url": "https://hotspotelectronics.co.nz/products/zeroflex-zfx124-sub-12-inch-350rms-car-subwoofer",
+    "price": 289.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/e945a37b05_iaahqqrp.m1r.jpg?v=1791324680",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-07T03:27:28Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-8gb-256gb-5g-good-pre-owned": {
+    "name": "Samsung Galaxy S23 Ultra 8GB 256GB 5G - Green (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-8gb-256gb-5g-good-pre-owned",
+    "price": 899.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/SamsungGalaxyS23Ultra8GBRam256GB5GMP-03762_77161299-8896-4ad8-8a53-eee8cd577fa9.jpg?v=1744635119",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T03:27:28Z"
   }
 }
