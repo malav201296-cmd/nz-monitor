@@ -33410,7 +33410,7 @@
   "https://www.techcrazy.co.nz/products/jbl-tune-760nc-wireless-over-ear-noise-cancelling-headphones-brand-new": {
     "name": "JBL Tune 760NC Wireless Over-Ear Noise Cancelling Headphones (Brand New)",
     "url": "https://www.techcrazy.co.nz/products/jbl-tune-760nc-wireless-over-ear-noise-cancelling-headphones-brand-new",
-    "price": 124.0,
+    "price": 149.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/jbl_20760nc.jpg?v=1721081864",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -60990,5 +60990,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/SamsungGalaxyS23Ultra8GBRam256GB5GMP-03762_77161299-8896-4ad8-8a53-eee8cd577fa9.jpg?v=1744635119",
     "site": "TechCrazy",
     "date_first_seen": "2026-10-07T03:27:28Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-macbook-pro-2020-touchbar-13-silver-excellent": {
+    "name": "Apple MacBook Pro 2020 TouchBar 13\" Silver Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-macbook-pro-2020-touchbar-13-silver-excellent",
+    "price": 899.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/22483999b6215783c81896ab6227c4d-600x601.jpg?v=1774065101",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-07T12:21:34Z"
   }
 }
