@@ -1,10 +1,170 @@
 [
   {
-    "name": "Apple MacBook Pro 2020 TouchBar 13\" Silver Excellent",
-    "url": "https://hotspotelectronics.co.nz/products/apple-macbook-pro-2020-touchbar-13-silver-excellent",
-    "price": 899.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/22483999b6215783c81896ab6227c4d-600x601.jpg?v=1774065101",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-10-07T12:21:34Z"
+    "name": "Samsung Galaxy S25 Ultra 12GB 256GB 5G - Titanium Silver Blue (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s25-ultra-12gb-256gb-5g-titanium-silver-blue-as-new-refurbished",
+    "price": 1599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S25-Ultra-12GB-256GB-MP00488_f61e3879-a5dc-4d1c-8d97-a73ecc9d854f.jpg?v=1791388069",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Oppo A5 4GB 128GB 4G Smartphone - Midnight Purple (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/oppo-a5-4gb-128gb-4g-smartphone-midnight-purple-very-good-refurbished",
+    "price": 229.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Oppo-A5-4GB-128GB-4G-Smartphone-MP00962.jpg?v=1791387964",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Oppo A60 (2024) 4GB 128GB 5G Smartphone - Nebula Red (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/oppo-a60-2024-4gb-128gb-5g-smartphone-nebula-red-as-new-refurbished",
+    "price": 299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Oppo-A60-_2024_-4GB-128GB-5G-Smartphone-MP00341.jpg?v=1791387502",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Oppo A60 (2024) 8GB 256GB 4G Smartphone - Midnight Purple (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/oppo-a60-2024-8gb-256gb-4g-smartphone-midnight-purple-as-new-refurbished",
+    "price": 399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Oppo-A60-_2024_-8GB-128GB-4G-Dual-Sim-MP-03286_f315d10b-b27e-4c1f-91a4-376a70d8bfc1.jpg?v=1791386746",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Samsung Galaxy A06 (2024) 4GB 64GB 4G - Blue (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a06-2024-4gb-64gb-4g-blue-very-good-refurbished",
+    "price": 189.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A06-_2024_-4GB-64GB-MP-00691_b977e61c-be52-4af3-870a-300877d59a98.jpg?v=1791386611",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Samsung Galaxy A33 (2022) 6GB 128GB 5G - Blue (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a33-2022-6gb-128gb-5g-blue-good-refurbished",
+    "price": 379.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A33-128GB-MP-01776_9953c38b-23b3-452a-83f4-b29725728681.jpg?v=1791386288",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Samsung Galaxy A13 (2022) 4GB 64GB 4G - Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a13-2022-4gb-64gb-4g-black-good-refurbished",
+    "price": 179.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A13-_2022_-4GB-MP03711_bc6eedb8-55a7-4110-b6b9-13db608e7c0a.jpg?v=1791386123",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Oppo AX5s 64GB 4G Smartphone - Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/oppo-ax5s-64gb-4g-smartphone-black-good-refurbished",
+    "price": 799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Oppo-AX5s-64GB-4G-Smartphone-MP00968.jpg?v=1791386019",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Samsung Galaxy S26 12GB 256GB 5G - Black (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s26-12gb-256gb-5g-black-as-new-refurbished",
+    "price": 1399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S26-12GB-256GB-5G-MP00344_4761b1c5-91ce-4747-8ff1-ee92bc2a96ac.jpg?v=1791385605",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra 8GB 256GB 5G - Graphite (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-8gb-256gb-5g-graphite-good-refurbished",
+    "price": 899.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S23-Ultra-12GB-512GB-MP08610_d7608f69-a4f6-4cee-b9f9-03005de1f6d6.jpg?v=1791385453",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Samsung Galaxy S25 12GB 256GB 5G - Navy (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s25-12gb-256gb-5g-navy-good-refurbished",
+    "price": 1099.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S25-12GB-256GB-5G-MP00972.jpg?v=1791385307",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Samsung Galaxy S26 12GB 256GB 5G - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s26-12gb-256gb-5g-black-very-good-refurbished",
+    "price": 1349.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S26-12GB-256GB-5G-MP00344.jpg?v=1791383962",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Samsung Galaxy A23 6GB 128GB 4G - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a23-6gb-128gb-4g-black-very-good-refurbished",
+    "price": 349.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A23-4GB-128GB-MP00970_66d56cab-7c67-4aa4-b5a8-ee557e040ffb.jpg?v=1791383449",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Samsung Galaxy A23 6GB 128GB 4G - Black (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a23-6gb-128gb-4g-black-acceptable-refurbished",
+    "price": 278.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A23-4GB-128GB-MP00970_5ca62683-a4db-4a81-a9eb-ff4cb03bd938.jpg?v=1791383374",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Oppo A60 (2024) 8GB 256GB 4G Smartphone - Ripple Blue (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/oppo-a60-2024-8gb-256gb-4g-smartphone-ripple-blue-acceptable-refurbished",
+    "price": 329.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Oppo_A60_2024_8GB_256GB_4G_Smartphone.jpg?v=1791383278",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Oppo A60 (2024) 8GB 256GB 4G Smartphone - Ripple Blue (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/oppo-a60-2024-8gb-256gb-4g-smartphone-ripple-blue-very-good-refurbished",
+    "price": 379.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Oppo-A60-_2024_-8GB-128GB-4G-Dual-Sim-MP-00251_8f6b4944-c3a3-4255-a592-d35656d32d6d.jpg?v=1791383208",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Oppo A60 (2024) 8GB 256GB 4G Smartphone - Ripple Blue (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/oppo-a60-2024-8gb-256gb-4g-smartphone-ripple-blue-good-refurbished",
+    "price": 349.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Oppo_A60_2024_8GB_256GB_4G_Smartphone_-_Ripple_Blue_1.jpg?v=1791383122",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Oppo A60 (2024) 8GB 256GB 4G Smartphone - Ripple Blue (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/oppo-a60-2024-8gb-256gb-4g-smartphone-ripple-blue-as-new-refurbished",
+    "price": 399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Oppo_A60_2024_8GB_256GB_4G_Smartphone_-_Ripple_Blue.jpg?v=1791382236",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Oppo A98 (2023) 8GB 256GB 5G Smartphone - Dreamy Blue (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/oppo-a98-2023-8gb-256gb-5g-smartphone-dreamy-blue-very-good-refurbished",
+    "price": 434.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Oppo-A98-_2023_-8GB-256GB-5G-MP00967_5e5e4d58-3e4c-4e8d-be1d-f6c5355e51aa.jpg?v=1791381742",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "Oppo A98 (2023) 8GB 256GB 5G Smartphone - Dreamy Blue (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/oppo-a98-2023-8gb-256gb-5g-smartphone-dreamy-blue-as-new-refurbished",
+    "price": 449.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Oppo-A98-_2023_-8GB-256GB-5G-MP00967.jpg?v=1791381609",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  {
+    "name": "JBL Party Box 110 Portable Speaker - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/jbl-party-box-110-portable-speaker-black-brand-new",
+    "price": 399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/JBL-Party-Box-110-Portable-Speaker---Black-AU01050.jpg?v=1791380359",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-07T22:27:31Z"
   }
 ]
