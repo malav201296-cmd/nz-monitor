@@ -82,15 +82,15 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-12-pro-max-128gb-gold-excellent": {
     "name": "Apple iPhone 12 Pro Max 128GB Gold Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-12-pro-max-128gb-gold-excellent",
-    "price": 749.99,
+    "price": 699.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-12-Pro-Max-128GB-Gold-Excellent.jpg?v=1739010723",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://hotspotelectronics.co.nz/products/apple-iphone-12-pro-max-128gb-pacific-blue-excellent": {
-    "name": "Apple iPhone 12 Pro Max 128GB Pacific Blue Excellent (BATTERY 100%)",
+    "name": "Apple iPhone 12 Pro Max 128GB Pacific Blue Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-12-pro-max-128gb-pacific-blue-excellent",
-    "price": 789.99,
+    "price": 699.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple_iPhone_12_Pro_Max_128GB_Pacific_Blue_Excellent.jpg?v=1739011045",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -730,7 +730,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-13-pro-max-128gb-alpine-green-excellent": {
     "name": "Apple iPhone 13 Pro Max 128GB Alpine Green Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-pro-max-128gb-alpine-green-excellent",
-    "price": 919.99,
+    "price": 899.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/13pro-Alpine-green.jpg?v=1748579067",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -786,7 +786,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-11-64gb-green-excellent": {
     "name": "Apple iPhone 11 64GB Green Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-64gb-green-excellent",
-    "price": 399.99,
+    "price": 379.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/iphone-11-green.jpg?v=1723890685",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -968,9 +968,9 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://hotspotelectronics.co.nz/products/apple-iphone-14-128gb-red-excellent": {
-    "name": "Apple iPhone 14 128GB Red Excellent (BATTERY 100%)",
+    "name": "Apple iPhone 14 128GB Red Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-128gb-red-excellent",
-    "price": 749.99,
+    "price": 679.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-14-128GB-Red-Excellent_748ba6cd-3166-442e-8b90-79a0ac9dbd53.webp?v=1738999853",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -2008,7 +2008,7 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-a07-green-64gb-new-brand-new": {
-    "name": "Samsung Galaxy A07 Green 64GB New (BRAND NEW)",
+    "name": "Samsung Galaxy A07 Green 64GB (BRAND NEW)",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-a07-green-64gb-new-brand-new",
     "price": 219.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/1895_1_1_2.png?v=1764131620",
@@ -2602,7 +2602,7 @@
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-5g-256gb-phantom-white-excellent": {
     "name": "Samsung Galaxy  S22 5G 256GB Phantom White Excellent",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-5g-256gb-phantom-white-excellent",
-    "price": 529.99,
+    "price": 499.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/WHI-image-0_549563b8-1ac1-492d-87ca-ff30125744ca.jpg?v=1700278974",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -15970,7 +15970,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-12gb-512gb-5g-graphite-very-good-pre-owned": {
     "name": "Samsung Galaxy S23 Ultra 12GB 512GB 5G - Graphite (Very Good Pre-Owned)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-12gb-512gb-5g-graphite-very-good-pre-owned",
-    "price": 1049.0,
+    "price": 1099.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S23-Ultra-12GB-512GB-MP08610.jpg?v=1759196362",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -17570,7 +17570,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-8gb-256gb-5g-lavender-good-pre-owned": {
     "name": "Samsung Galaxy S23 Ultra 8GB 256GB 5G - Lavender (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-8gb-256gb-5g-lavender-good-pre-owned",
-    "price": 899.0,
+    "price": 884.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S23-Ultra-256GB-5G-Lavender-MP-03768_2d4497c9-9c0b-453e-b1e7-2a225a610f0f.jpg?v=1756225050",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -29674,7 +29674,7 @@
   "https://www.techcrazy.co.nz/products/hp-11-g8ee-2020-11-6-inch-n4020-4gb-32gb-education-chromebook-good-pre-owned": {
     "name": "HP 11 G8EE (2020) 11.6-inch N4020 4GB 32GB Education Chromebook (Good-Pre-Owned)",
     "url": "https://www.techcrazy.co.nz/products/hp-11-g8ee-2020-11-6-inch-n4020-4gb-32gb-education-chromebook-good-pre-owned",
-    "price": 299.0,
+    "price": 199.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP11G8EE_2020_CT02927_f1e9b5bd-e874-4717-a64c-6ffefcae847e.jpg?v=1730301587",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -34202,7 +34202,7 @@
   "https://www.techcrazy.co.nz/products/hp-11-g8ee-2020-11-6-inch-n4000-4gb-32gb-education-chromebook-acceptable-pre-owned": {
     "name": "HP 11 G8EE (2020) 11.6-inch N4000 4GB 32GB Education Chromebook (Acceptable-Pre-Owned)",
     "url": "https://www.techcrazy.co.nz/products/hp-11-g8ee-2020-11-6-inch-n4000-4gb-32gb-education-chromebook-acceptable-pre-owned",
-    "price": 299.0,
+    "price": 185.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-11-G8EE-_2020_-CT-00190_23bdffd0-7b1f-4b09-868d-04f3e8f19a8d.jpg?v=1718327587",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -34410,7 +34410,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-5g-8gb-256gb-very-good-pre-owned-2": {
     "name": "Samsung Galaxy S23 Ultra 8GB 256GB 5G - Phantom Black (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-5g-8gb-256gb-very-good-pre-owned-2",
-    "price": 874.0,
+    "price": 884.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung_20Galaxy_20S23_20Ultra_208GB_20Ram_20256GB_205G_20MP-03763.jpg?v=1717734121",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -40722,7 +40722,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-5g-8gb-256gb-good-condition": {
     "name": "Samsung Galaxy S23 Ultra 8GB 256GB 5G - Cream (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-5g-8gb-256gb-good-condition",
-    "price": 899.0,
+    "price": 884.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/products/Samsung_20Galaxy_20S23_20Ultra_208GB_20Ram_20256GB_205G_20MP-03761_ea99fd76-00c8-4adf-8367-050ecb00d310.jpg?v=1700091151",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -40971,7 +40971,7 @@
     "name": "Apple iPhone 11 64GB 4G - White (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/iphone-11-64gb-refurb-good",
     "price": 369.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone1164GBRedMP-03404.jpg?v=1778540663",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-11-64G-White-MP-03389_adcb6dbe-8076-4689-a0dd-0f142c520362.jpg?v=1791422358",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
   },
@@ -48802,7 +48802,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-8gb-256gb-5g-phantom-black-acceptable-refurbished-1": {
     "name": "Samsung Galaxy S23 Ultra 8GB 256GB 5G - Phantom Black (Acceptable-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-8gb-256gb-5g-phantom-black-acceptable-refurbished-1",
-    "price": 899.0,
+    "price": 832.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S23-Ultra-256GB-5G-Green-MP-037664_bc4cb78b-04d7-44e7-bb43-210976628ff4.jpg?v=1781826473",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-19T16:19:01Z"
@@ -49098,7 +49098,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-11-64gb-excellent-red": {
     "name": "Apple iPhone 11 64GB Red Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-64gb-excellent-red",
-    "price": 399.99,
+    "price": 379.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-11-64GB-Red-Excellent_a72bc8bb-be7c-4738-a94c-3fb436be266e.webp?v=1739014606",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-25T10:29:09Z"
@@ -50210,7 +50210,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-14-128gb-midnight-black-excellent": {
     "name": "Apple iPhone 14 128GB Midnight Black Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-128gb-midnight-black-excellent",
-    "price": 699.99,
+    "price": 679.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-14-128GB-Midnight-Black-Excellent.webp?v=1738931104",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-07-16T01:49:18Z"
@@ -51930,7 +51930,7 @@
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-5g-128gb-black-excellent-1": {
     "name": "Samsung Galaxy  S22 5G 128GB Black Excellent",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-5g-128gb-black-excellent-1",
-    "price": 499.99,
+    "price": 489.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/image_1_16a0ea10-5a64-4ef6-9edd-09cb8010801d.webp?v=1691112645",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-02T01:55:26Z"
@@ -52458,7 +52458,7 @@
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-5g-256gb-black-excellent": {
     "name": "Samsung Galaxy  S22 5G 256GB Black Excellent",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-5g-256gb-black-excellent",
-    "price": 529.99,
+    "price": 499.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/image_1_16a0ea10-5a64-4ef6-9edd-09cb8010801d.webp?v=1691112645",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-02T01:55:26Z"
@@ -52930,7 +52930,7 @@
   "https://hotspotelectronics.co.nz/products/copy-of-samsung-galaxy-s22-5g-256gb-phantom-white-excellent": {
     "name": "Samsung Galaxy  S22 5G 128GB Phantom White Excellent",
     "url": "https://hotspotelectronics.co.nz/products/copy-of-samsung-galaxy-s22-5g-256gb-phantom-white-excellent",
-    "price": 499.99,
+    "price": 489.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/WHI-image-0_9a2dc05e-b255-4d50-8813-3275f7beb47f.jpg?v=1701038838",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-02T01:55:26Z"
@@ -54458,7 +54458,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-12-pro-max-128gb-space-grey-excellent": {
     "name": "Apple iPhone 12 Pro Max 128GB Space Grey Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-12-pro-max-128gb-space-grey-excellent",
-    "price": 849.99,
+    "price": 699.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-12-Pro-Max-128GB-Space-Grey-Excellent.jpg?v=1739011686",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-02T01:55:26Z"
@@ -55994,7 +55994,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-11-64gb-purple-excellent-battery-100": {
     "name": "Apple iPhone 11 64GB Purple Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-64gb-purple-excellent-battery-100",
-    "price": 399.99,
+    "price": 379.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-11-64GB-Purple-Excellent_fdfcee4c-f646-4cce-9416-6fde6638b74f.webp?v=1737019672",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-06T01:46:39Z"
@@ -56002,7 +56002,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-11-64gb-white-excellent-battery-100": {
     "name": "Apple iPhone 11 64GB White Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-64gb-white-excellent-battery-100",
-    "price": 399.99,
+    "price": 379.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-11-64GB-White-Excellent_e9a63ecb-006a-4c01-af65-172de9e29bc9.webp?v=1739014531",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-06T01:46:39Z"
@@ -56098,7 +56098,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-plus-8gb-256gb-5g-phantom-black-very-good-refurbished": {
     "name": "Samsung Galaxy S23 Plus 8GB 256GB 5G - Phantom Black (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-plus-8gb-256gb-5g-phantom-black-very-good-refurbished",
-    "price": 649.0,
+    "price": 698.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S23-Plus-8GB-256GB-5G-MP01017_9a8f404e-ca82-4b10-839d-000308c32b4d.jpg?v=1786158317",
     "site": "TechCrazy",
     "date_first_seen": "2026-08-08T06:36:09Z"
@@ -58898,7 +58898,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-14-128gb-blue-excellent-1": {
     "name": "Apple iPhone 14 128GB Blue Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-128gb-blue-excellent-1",
-    "price": 699.99,
+    "price": 679.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iphone-14-128GB-Blue-Excellent_332880e8-3c5e-49ac-b6ea-82d865735af4.webp?v=1738999719",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-09-07T02:01:39Z"
@@ -58906,7 +58906,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-13-pro-max-128gb-sierra-blue-excellent": {
     "name": "Apple iPhone 13 Pro Max 128GB Sierra Blue  Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-pro-max-128gb-sierra-blue-excellent",
-    "price": 919.99,
+    "price": 899.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-13-Pro-Max-128GB-Sierra-Blue-Excellent_61536f0d-4079-4a1e-9d4c-d1a5487338bf.webp?v=1739016545",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-09-07T02:01:39Z"
@@ -58914,7 +58914,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-13-pro-max-128gb-white-excellent": {
     "name": "Apple iPhone 13 Pro Max 128GB White Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-pro-max-128gb-white-excellent",
-    "price": 919.99,
+    "price": 899.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-13-Pro-Max-128GB-Silver-Excellent.jpg?v=1739006926",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-09-07T02:01:39Z"
@@ -58930,7 +58930,7 @@
   "https://hotspotelectronics.co.nz/products/iphone-14-128gb-starlight-excellent": {
     "name": "iPhone 14 128GB  Starlight  Excellent",
     "url": "https://hotspotelectronics.co.nz/products/iphone-14-128gb-starlight-excellent",
-    "price": 699.99,
+    "price": 679.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/image-2023-04-01T211654.001.webp?v=1680337170",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-09-07T02:01:39Z"
@@ -58938,7 +58938,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-12-pro-max-128gb-silver-excellent": {
     "name": "Apple iPhone 12 Pro Max 128GB Silver Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-12-pro-max-128gb-silver-excellent",
-    "price": 749.99,
+    "price": 699.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-12-Pro-Max-128GB-Silver-Excellent.webp?v=1737016804",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-09-07T02:01:39Z"
@@ -59314,7 +59314,7 @@
   "https://hotspotelectronics.co.nz/products/hp-elitebook-830-g8-i5-11th-generation-16gb-ram-256gb-ssd-excellent": {
     "name": "HP Elitebook 830 G8 i5 11th Generation 16GB Ram 256GB SSD - Excellent",
     "url": "https://hotspotelectronics.co.nz/products/hp-elitebook-830-g8-i5-11th-generation-16gb-ram-256gb-ssd-excellent",
-    "price": 579.99,
+    "price": 499.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot_2026-02-04_123554.png?v=1770162023",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-09-10T10:17:47Z"
@@ -59683,7 +59683,7 @@
     "name": "Apple iPhone 16 128GB 5G Battery 100% - Black (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/apple-iphone-16-128gb-5g-battery-100-black-good-refurbished",
     "price": 1299.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-16-Plus-128GB-5G-MP01158_6c8ce987-c7ac-457b-abd2-2c2ed362f34d.jpg?v=1789309833",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple_20iPhone_2016_20128GB_205G_20-_20Black_20MP01358.png?v=1791418850",
     "site": "TechCrazy",
     "date_first_seen": "2026-09-13T15:20:40Z"
   },
@@ -60986,7 +60986,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-8gb-256gb-5g-good-pre-owned": {
     "name": "Samsung Galaxy S23 Ultra 8GB 256GB 5G - Green (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s23-ultra-8gb-256gb-5g-good-pre-owned",
-    "price": 899.0,
+    "price": 884.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/SamsungGalaxyS23Ultra8GBRam256GB5GMP-03762_77161299-8896-4ad8-8a53-eee8cd577fa9.jpg?v=1744635119",
     "site": "TechCrazy",
     "date_first_seen": "2026-10-07T03:27:28Z"
@@ -61166,5 +61166,45 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/JBL-Party-Box-110-Portable-Speaker---Black-AU01050.jpg?v=1791380359",
     "site": "TechCrazy",
     "date_first_seen": "2026-10-07T22:27:31Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-14-128gb-purple-excellent": {
+    "name": "Apple iPhone 14 128GB Purple Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-128gb-purple-excellent",
+    "price": 679.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/ChatGPT_Image_Nov_6_2025_03_51_19_PM.png?v=1762397512",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-08T03:42:07Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-18-pro-max-glacier-256gb-brand-new": {
+    "name": "Apple iPhone 18 Pro Max Glacier 256GB Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-18-pro-max-glacier-256gb-brand-new",
+    "price": 2999.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/N256128_0.webp?v=1789966941",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-08T03:42:07Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-5g-256gb-pink-gold-brand-new": {
+    "name": "Samsung Galaxy  S22 5G 256GB Pink Gold - Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-5g-256gb-pink-gold-brand-new",
+    "price": 529.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/PIN-image-0.webp?v=1707984444",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-08T03:42:07Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-16-128gb-ultramarine-good": {
+    "name": "Apple iPhone 16 128GB Ultramarine - Good",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-16-128gb-ultramarine-good",
+    "price": 999.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-16-128GB-Ultramarine-Brand-New_921b4263-dc93-42c3-ad2c-c85c0d6a35e5.webp?v=1738928186",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-08T03:42:07Z"
+  },
+  "https://www.techcrazy.co.nz/products/sound-magus-pk600-1-600w-rms-mono-block-full-range-class-d-amplifier": {
+    "name": "Sound Magus PK600.1 | 600W RMS Mono Block Full Range Class D Amplifier",
+    "url": "https://www.techcrazy.co.nz/products/sound-magus-pk600-1-600w-rms-mono-block-full-range-class-d-amplifier",
+    "price": 169.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Sound-Magus-PK600-1-600W-RMS-Mono-Block-CA00354.jpg?v=1791355248",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-08T03:42:07Z"
   }
 }
