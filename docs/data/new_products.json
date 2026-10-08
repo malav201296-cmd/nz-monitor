@@ -1,26 +1,18 @@
 [
   {
-    "name": "Apple MacBook Pro 2020 i5 Processor 16GB 512HDD 13 inch Excellent Silver",
-    "url": "https://hotspotelectronics.co.nz/products/apple-macbook-pro-2020-i5-processor-16gb-512hdd-13-inch-excellent-silver",
-    "price": 879.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/1-a8b20ff375-mbp19-13-i51408128slvgd.webp?v=1758414832",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-10-08T12:30:49Z"
-  },
-  {
-    "name": "HP Elitebook X360 1030 G4 i5 8th Gen 8GB 256GB TouchScreen Laptop Excellent",
-    "url": "https://hotspotelectronics.co.nz/products/hp-elitebook-x360-1030-g4-i5-8th-gen-8gb-256gb-touchscreen-laptop-excellent",
-    "price": 589.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/NBKHNB141117S__1.jpg?v=1730517035",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-10-08T12:30:49Z"
-  },
-  {
-    "name": "Samsung Galaxy Tab A11 4GB 64GB Wifi Only - Silver (Brand New)",
-    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a11-4gb-64gb-wifi-only-silver-brand-new",
-    "price": 298.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-A11-_2025_-Silver-CT00316_5f3fad6d-4e19-4d4a-b78e-b19c676a9a98.jpg?v=1791437238",
+    "name": "Beats Solo3 Wireless Headphones - Matte Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/beats-solo3-wireless-headphones-matte-black-very-good-refurbished",
+    "price": 179.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Beats_20Solo_203_20Wireless_20Headphones_20AU_2000394.jpg?v=1791472047",
     "site": "TechCrazy",
-    "date_first_seen": "2026-10-08T12:30:49Z"
+    "date_first_seen": "2026-10-08T22:41:09Z"
+  },
+  {
+    "name": "JBL Tune 760NC Wireless Over-Ear Noise Cancelling Headphones - Black (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/jbl-tune-760nc-wireless-over-ear-noise-cancelling-headphones-black-as-new-refurbished",
+    "price": 99.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/JBL-Tune-760NC-Wireless-Over-Ear-Noise-Cancelling-Headphones-AU00352.jpg?v=1791471588",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-08T22:41:09Z"
   }
 ]
