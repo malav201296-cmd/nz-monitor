@@ -5778,7 +5778,7 @@
   "https://www.techcrazy.co.nz/products/zeroflex-evo6-5xl-500rms-dual-4ohm-high-excursion-subwoofer": {
     "name": "Zeroflex EVO6.5XL 500RMS Dual 4ohm High Excursion Subwoofer",
     "url": "https://www.techcrazy.co.nz/products/zeroflex-evo6-5xl-500rms-dual-4ohm-high-excursion-subwoofer",
-    "price": 399.0,
+    "price": 349.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Zeroflex-EVO6-5XL-500RMS-CA00451_f6883a7b-a957-470c-88cf-8687e26c8f98.jpg?v=1777537327",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -27720,7 +27720,7 @@
     "date_first_seen": "2026-06-06T05:35:30Z"
   },
   "https://www.techcrazy.co.nz/products/apple-iphone-12-128gb-5g-very-good-pre-owned-case-protector-smart-watch-and-bluetooth-headsets-bundle-deal-2": {
-    "name": "Apple iPhone 12 128GB 5G (Very Good-Refurbished)+Case & Protector + Smart Watch and Bluetooth Headsets (Bundle Deal)",
+    "name": "Apple iPhone 12 128GB 5G (Very Good-Refurbished) + Case & Protector + Smart Watch and Bluetooth Headsets (Bundle Deal)",
     "url": "https://www.techcrazy.co.nz/products/apple-iphone-12-128gb-5g-very-good-pre-owned-case-protector-smart-watch-and-bluetooth-headsets-bundle-deal-2",
     "price": 997.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-12-128GB-5G-_Case-_-Protector-_-Smart-Watch-and-Bluetooth-Headsets-MP-00624.jpg?v=1734450894",
@@ -40986,7 +40986,7 @@
   "https://www.techcrazy.co.nz/products/zeroflex-zfx124-12-350rms-2ohm-slim-car-subwoofer": {
     "name": "Zeroflex ZFX124 12\" 350RMS 2ohm Slim Car Subwoofer",
     "url": "https://www.techcrazy.co.nz/products/zeroflex-zfx124-12-350rms-2ohm-slim-car-subwoofer",
-    "price": 349.0,
+    "price": 299.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Zeroflex-ZFX124-12-350RMS-2ohm-Slim-Car-Subwoofer-CA00693.jpg?v=1698899013",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -41914,7 +41914,7 @@
   "https://www.techcrazy.co.nz/products/beats-solo-3-wireless-headphones": {
     "name": "Beats Solo3 Wireless Headphones Matte Black",
     "url": "https://www.techcrazy.co.nz/products/beats-solo-3-wireless-headphones",
-    "price": 219.0,
+    "price": 349.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/BeatsSolo3WirelessHeadphonesAU00394.jpg?v=1696999263",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -61226,7 +61226,7 @@
   "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a11-4gb-64gb-wifi-only-silver-brand-new": {
     "name": "Samsung Galaxy Tab A11 4GB 64GB Wifi Only - Silver (Brand New)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a11-4gb-64gb-wifi-only-silver-brand-new",
-    "price": 298.0,
+    "price": 278.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-A11-_2025_-Silver-CT00316_5f3fad6d-4e19-4d4a-b78e-b19c676a9a98.jpg?v=1791437238",
     "site": "TechCrazy",
     "date_first_seen": "2026-10-08T12:30:49Z"
@@ -61246,5 +61246,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/JBL-Tune-760NC-Wireless-Over-Ear-Noise-Cancelling-Headphones-AU00352.jpg?v=1791471588",
     "site": "TechCrazy",
     "date_first_seen": "2026-10-08T22:41:09Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-17-128gb-white-excellent": {
+    "name": "Apple iPhone 17 256GB White Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-17-128gb-white-excellent",
+    "price": 1549.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/N245652_01.webp?v=1791510162",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-09T03:47:36Z"
   }
 }
