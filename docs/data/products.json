@@ -27290,7 +27290,7 @@
   "https://www.techcrazy.co.nz/products/apple-iphone-15-pro-max-256gb-5g-good-pre-owned": {
     "name": "Apple iPhone 15 Pro Max 256GB 5G - Blue Titanium (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-pro-max-256gb-5g-good-pre-owned",
-    "price": 1369.0,
+    "price": 1399.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone15ProMax256GB5G-BlueTitaniumMP01326_ba335911-a09c-4e65-8082-fc0c14ca85c3.png?v=1776928496",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -28770,7 +28770,7 @@
   "https://www.techcrazy.co.nz/products/zeroflex-evo-12-12-1500w-rms-subwoofer-sound-magus-dk2000-class-d-amplifier-2000w-rms-bundle-deal": {
     "name": "Zeroflex EVO-12 12\" 1500W RMS Car Subwoofer + Sound Magus DK2000 Class D Amplifier 2000W RMS (Bundle Deal)",
     "url": "https://www.techcrazy.co.nz/products/zeroflex-evo-12-12-1500w-rms-subwoofer-sound-magus-dk2000-class-d-amplifier-2000w-rms-bundle-deal",
-    "price": 699.0,
+    "price": 749.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Zeroflex-EVO-12-12-1500W-RMS-Car-Subwoofer-CA00625_70ba3dda-a202-4552-b9cf-f7dc28207403.jpg?v=1732512982",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -61362,9 +61362,57 @@
   "https://www.techcrazy.co.nz/products/sony-ps4-slim-console-500gb-without-controller-black-very-good-refurbished": {
     "name": "Sony PS4 Slim Console 500GB Without Controller - Black (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/sony-ps4-slim-console-500gb-without-controller-black-very-good-refurbished",
-    "price": 449.0,
+    "price": 399.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Sony-PS4-Slim-Console-500GB-Without-Controller-HE00098.jpg?v=1791798263",
     "site": "TechCrazy",
     "date_first_seen": "2026-10-12T13:57:40Z"
+  },
+  "https://www.techcrazy.co.nz/products/case-artistry-tough-armor-magnetic-fusion-case-for-samsung-galaxy-s21": {
+    "name": "Case Artistry Tough Armor Magnetic Fusion Case For Samsung Galaxy S21",
+    "url": "https://www.techcrazy.co.nz/products/case-artistry-tough-armor-magnetic-fusion-case-for-samsung-galaxy-s21",
+    "price": 29.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Case-Artistry-Tough-Armor-Magnetic-Fusion-Case-For-Samsung-Galaxy-S21-MBA01695.jpg?v=1791820398",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-12T23:58:32Z"
+  },
+  "https://www.techcrazy.co.nz/products/caisles-explosion-proof-screen-protector-for-samsung-galaxy-s21": {
+    "name": "Caisles Explosion Proof Screen Protector For Samsung Galaxy S21",
+    "url": "https://www.techcrazy.co.nz/products/caisles-explosion-proof-screen-protector-for-samsung-galaxy-s21",
+    "price": 29.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Caisles-Explosion-Proof-Screen-Protector-For-Samsung-Galaxy-S21-MBA01694.jpg?v=1791820059",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-12T23:58:32Z"
+  },
+  "https://www.techcrazy.co.nz/products/tempered-glass-for-samsung-galaxy-note-10-clear": {
+    "name": "Tempered Glass for Samsung Galaxy Note 10+ - Clear",
+    "url": "https://www.techcrazy.co.nz/products/tempered-glass-for-samsung-galaxy-note-10-clear",
+    "price": 29.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Tempered-Glass-for-Samsung-Galaxy-Note-10_-MBA00657.jpg?v=1791819173",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-12T23:58:32Z"
+  },
+  "https://www.techcrazy.co.nz/products/case-artistry-tough-armor-magnetic-fusion-case-for-samsung-galaxy-a16-4g-5g-black": {
+    "name": "Case Artistry Tough Armor Magnetic Fusion Case For Samsung Galaxy A16 4G / 5G - Black",
+    "url": "https://www.techcrazy.co.nz/products/case-artistry-tough-armor-magnetic-fusion-case-for-samsung-galaxy-a16-4g-5g-black",
+    "price": 39.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Case-Artistry-Tough-Armor-Magnetic-Fusion-Case-For-Samsung-Galaxy-A16-4G-MBA02736.jpg?v=1791818294",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-12T23:58:32Z"
+  },
+  "https://www.techcrazy.co.nz/products/case-artistry-tough-armor-magnetic-fusion-case-for-samsung-galaxy-a12-m12-black": {
+    "name": "Case Artistry Tough Armor Magnetic Fusion Case For Samsung Galaxy A12 / M12 - Black",
+    "url": "https://www.techcrazy.co.nz/products/case-artistry-tough-armor-magnetic-fusion-case-for-samsung-galaxy-a12-m12-black",
+    "price": 39.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Case-Artistry-Tough-Armor-Magnetic-Fusion-Case-For-Samsung-Galaxy-A12-MBA02737.jpg?v=1791817204",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-12T23:58:32Z"
+  },
+  "https://www.techcrazy.co.nz/products/anti-spy-privacy-matte-tempered-glass-for-iphone-18-pro-max-17-pro-max": {
+    "name": "Anti Spy Privacy Matte Tempered Glass for iPhone 18 Pro Max / 17 Pro Max",
+    "url": "https://www.techcrazy.co.nz/products/anti-spy-privacy-matte-tempered-glass-for-iphone-18-pro-max-17-pro-max",
+    "price": 29.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Anti-Spy-Privacy-Matte-Tempered-Glass-for-iPhone-18-Pro-Max-MBA01696.jpg?v=1791816333",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-12T23:58:32Z"
   }
 }
