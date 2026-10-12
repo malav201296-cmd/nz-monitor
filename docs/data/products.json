@@ -2112,9 +2112,9 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-blue-excellent": {
-    "name": "Apple iPhone 13 128GB Blue Excellent  (BATTERY 100%)",
+    "name": "Apple iPhone 13 128GB Blue Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-blue-excellent",
-    "price": 619.99,
+    "price": 599.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/image_72.webp?v=1723890958",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -61334,5 +61334,37 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S23-Ultra-8GB-256GB-5G-MP00724_afe3f365-afdd-4e8a-afd0-6b585dcea259.jpg?v=1791736770",
     "site": "TechCrazy",
     "date_first_seen": "2026-10-11T17:04:54Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-ipad-air-3-10-5-inch-64gb-wi-fi-cellular-silver-excellent": {
+    "name": "Apple iPad Air 3 10.5 inch 64GB Wi-Fi + Cellular Silver Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-air-3-10-5-inch-64gb-wi-fi-cellular-silver-excellent",
+    "price": 549.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/SIL-image-0_7dfd4dcf-3841-427b-a5d4-e9663f3cb7fe.jpg?v=1723890638",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-12T13:57:40Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-green-excellent": {
+    "name": "Apple iPhone 13 128GB Green Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-green-excellent",
+    "price": 599.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/211796-L-HI_1.jpg?v=1723890974",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-12T13:57:40Z"
+  },
+  "https://www.techcrazy.co.nz/products/hoco-wired-lightning-earphone-w-plug-and-play-no-need-bluetooth-m111-max-white": {
+    "name": "Hoco Wired Lightning Earphone w/ Plug-And-Play (No Need Bluetooth) (M111 MAX) - White",
+    "url": "https://www.techcrazy.co.nz/products/hoco-wired-lightning-earphone-w-plug-and-play-no-need-bluetooth-m111-max-white",
+    "price": 19.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Wired-Lightning-Earphone-_M111-MAX_-AU05697-0.jpg?v=1791798856",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-12T13:57:40Z"
+  },
+  "https://www.techcrazy.co.nz/products/sony-ps4-slim-console-500gb-without-controller-black-very-good-refurbished": {
+    "name": "Sony PS4 Slim Console 500GB Without Controller - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/sony-ps4-slim-console-500gb-without-controller-black-very-good-refurbished",
+    "price": 449.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Sony-PS4-Slim-Console-500GB-Without-Controller-HE00098.jpg?v=1791798263",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-12T13:57:40Z"
   }
 }
