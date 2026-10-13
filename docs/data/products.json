@@ -2434,7 +2434,7 @@
   "https://hotspotelectronics.co.nz/products/screen-repair": {
     "name": "Repair",
     "url": "https://hotspotelectronics.co.nz/products/screen-repair",
-    "price": 1.0,
+    "price": 400.0,
     "image": "",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -61454,5 +61454,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/24429b590443407ca9f7f283bdb76577.webp?v=1791865130",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-10-13T05:47:03Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-16-pro-256gb-5g-desert-titanium-very-good-refurbished": {
+    "name": "Apple iPhone 16 Pro 256GB 5G - Desert Titanium (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-16-pro-256gb-5g-desert-titanium-very-good-refurbished",
+    "price": 1699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-16-Pro-256GB-5G-MP-00205_096ebb36-c5d1-404e-bb67-9d27dde8f49d.jpg?v=1791906588",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-13T22:06:34Z"
   }
 }
