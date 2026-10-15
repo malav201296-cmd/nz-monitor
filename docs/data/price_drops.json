@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "name": "Samsung  Galaxy S21 128GB Phantom  White Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s21-5g-128gb-phantom-white-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/PHW-image-0.jpg?v=1695031877",
+    "site": "Hotspot Electronics",
+    "old_price": 409.99,
+    "new_price": 389.99,
+    "saving": 20.0,
+    "saving_pct": 4.9,
+    "date_first_seen": "2026-08-02T01:55:26Z",
+    "detected_at": "2026-10-15T02:29:10Z"
+  },
+  {
+    "name": "Samsung Galaxy S21 Plus  256GB 5G Black Good Condition",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s21-plus-256gb-5g-black-excellent-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/TE2027-Samsung-Galaxy-S21_-5G-256GB-Black-dual_1000x_61f6800c-0e8f-4d27-9f84-69ce148bbddb.webp?v=1670475486",
+    "site": "Hotspot Electronics",
+    "old_price": 489.99,
+    "new_price": 449.99,
+    "saving": 40.0,
+    "saving_pct": 8.2,
+    "date_first_seen": "2026-09-24T10:47:35Z",
+    "detected_at": "2026-10-15T02:29:10Z"
+  },
+  {
+    "name": "Samsung Galaxy S23 ULTRA Black  256GB Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s23-ultra-black-256gb-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLA-image-0_3_8da875bc-63c4-475c-b1d0-e8c57cacee13.webp?v=1743209757",
+    "site": "Hotspot Electronics",
+    "old_price": 899.99,
+    "new_price": 889.99,
+    "saving": 10.0,
+    "saving_pct": 1.1,
+    "date_first_seen": "2026-09-15T10:43:34Z",
+    "detected_at": "2026-10-15T02:29:10Z"
+  },
+  {
+    "name": "Samsung Galaxy S23 ULTRA  Green 256GB  Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s23-ultra-green-256gb-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/GRE-image-0.webp?v=1712824569",
+    "site": "Hotspot Electronics",
+    "old_price": 899.99,
+    "new_price": 889.99,
+    "saving": 10.0,
+    "saving_pct": 1.1,
+    "date_first_seen": "2026-09-15T10:43:34Z",
+    "detected_at": "2026-10-15T02:29:10Z"
+  },
+  {
+    "name": "Samsung  Galaxy S21 5G 256GB  Phantom Silver Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s21-5g-256gb-phantom-white-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/PHW-image-0.jpg?v=1695031877",
+    "site": "Hotspot Electronics",
+    "old_price": 419.99,
+    "new_price": 399.99,
+    "saving": 20.0,
+    "saving_pct": 4.8,
+    "date_first_seen": "2026-08-02T01:55:26Z",
+    "detected_at": "2026-10-15T02:29:10Z"
+  }
+]
