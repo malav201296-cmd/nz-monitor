@@ -53626,7 +53626,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-17-pro-max-256gb-silver-brand-new": {
     "name": "Apple iPhone 17 Pro Max 256GB Silver Brand New",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-17-pro-max-256gb-silver-brand-new",
-    "price": 2450.0,
+    "price": 2199.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Screenshot2025-11-22173355.png?v=1763786340",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-02T01:55:26Z"
@@ -61614,5 +61614,37 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Premium-Mouse-Pad-Regular-Size-_20cm-x-24cm_-_GM22_-CTA03261.jpg?v=1782440795",
     "site": "TechCrazy",
     "date_first_seen": "2026-10-16T02:23:45Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-midnight-black-excellent-refurbished": {
+    "name": "Apple iPhone 13 128GB Midnight Black Excellent Refurbished",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-midnight-black-excellent-refurbished",
+    "price": 549.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-13-128GB-Midnight-Black-Excellent..webp?v=1738942987",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-16T10:22:35Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-13-256gb-white-excellent-refurbished": {
+    "name": "Apple iPhone 13 256GB White Excellent Refurbished",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-256gb-white-excellent-refurbished",
+    "price": 549.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-13-128GB-White-Excellent..webp?v=1739002833",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-16T10:22:35Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-14-256gb-blue-excellent-refurbished": {
+    "name": "Apple iPhone 14 256GB Blue Excellent  Refurbished",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-256gb-blue-excellent-refurbished",
+    "price": 649.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iphone-14-128GB-Blue-Excellent_332880e8-3c5e-49ac-b6ea-82d865735af4.webp?v=1738999719",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-16T10:22:35Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-blue-excellent-refurbished": {
+    "name": "Apple iPhone 13 128GB Blue Excellent Refurbished",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-blue-excellent-refurbished",
+    "price": 549.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/products/image_72.webp?v=1723890958",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-16T10:22:35Z"
   }
 }
