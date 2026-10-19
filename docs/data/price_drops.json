@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "name": "Acer TravelMate P414-51 14-inch i5 11th Gen 8GB 256GB Windows 11 Home Touch Screen Laptop - Slate Blue (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/acer-travelmate-spin-p414rn-51-14-inch-i5-11th-gen-8gb-256gb-2-40ghz-windows-11-home-2in1-touch-screen-laptop-slate-blue-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-TravelMate-Spin-P414RN-51-CT00250-4.jpg?v=1771888068",
+    "site": "TechCrazy",
+    "old_price": 699.0,
+    "new_price": 599.0,
+    "saving": 100.0,
+    "saving_pct": 14.3,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-10-19T22:09:13Z"
+  },
+  {
+    "name": "Acer TravelMate P414-51 14-inch i5 11th Gen 8GB 256GB @2.40GHz Windows 11 Home Touch Screen Laptop - Slate Blue (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/acer-travelmate-p414-51-14-inch-i5-11th-gen-8gb-256gb-2-40ghz-windows-11-home-touch-screen-laptop-slate-blue-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-Travel-Mate-P414-14-inch-i5-CT00552_046f586e-aa24-437e-8fc3-a803f76d653f.jpg?v=1762995297",
+    "site": "TechCrazy",
+    "old_price": 699.0,
+    "new_price": 549.0,
+    "saving": 150.0,
+    "saving_pct": 21.5,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-10-19T22:09:13Z"
+  },
+  {
+    "name": "Lenovo Chromebook 100E Gen 2 11.6-inch Intel Celeron N4000 4GB 32GB @1.10GHz - Black (Very Good Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/lenovo-chromebook-100e-gen-2-11-6-inch-intel-celeron-n4000-4gb-32gb-1-10ghz-very-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-Chromebook-100E-Gen-2-CT-03248.jpg?v=1749141210",
+    "site": "TechCrazy",
+    "old_price": 299.0,
+    "new_price": 199.0,
+    "saving": 100.0,
+    "saving_pct": 33.4,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-10-19T22:09:13Z"
+  },
+  {
+    "name": "Acer TravelMate P414 14-inch i5 11th Gen 8GB 256GB @2.40GHz Windows 11 Home 2 in 1 Touch Screen Laptop (Acceptable Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/acer-travel-mate-p414-14-inch-i5-11th-gen-8gb-256gb-2-40ghz-windows-11-home-2-in-1-touch-screen-laptop-acceptable-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-Travel-Mate-P414-14-inch-i5-CT00552_0647c32c-2a6b-487f-96b0-5f15390d52db.jpg?v=1748504076",
+    "site": "TechCrazy",
+    "old_price": 599.0,
+    "new_price": 499.0,
+    "saving": 100.0,
+    "saving_pct": 16.7,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-10-19T22:09:13Z"
+  }
+]
