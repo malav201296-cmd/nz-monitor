@@ -19960,10 +19960,10 @@
     "date_first_seen": "2026-06-06T05:35:30Z"
   },
   "https://www.techcrazy.co.nz/products/hp-elitebook-x360-1040-g8-14-inch-i7-11th-gen-16gb-512gb-3-00ghz-windows-11-pro-2-in-1-touch-screen-laptop-very-good-pre-owned-laptop-bag-bluetooth-headset-w46-bundle-deal": {
-    "name": "HP Elitebook X360 1040 G8 14-inch i7 11th Gen 16GB 512GB @3.00GHz Windows 11 Pro 2 in 1 Touch Screen Laptop (Very Good-Refurbished) + Laptop Bag + Bluetooth Headset W46 (Bundle Deal)",
+    "name": "HP Elitebook X360 1040 G8 14-inch i7 11th Gen 16GB 512GB Windows 11 Pro Laptop (Very Good-Refurbished) + Laptop Bag, Bluetooth Headset W68, Keyboard Mouse (GM17) - Bundle",
     "url": "https://www.techcrazy.co.nz/products/hp-elitebook-x360-1040-g8-14-inch-i7-11th-gen-16gb-512gb-3-00ghz-windows-11-pro-2-in-1-touch-screen-laptop-very-good-pre-owned-laptop-bag-bluetooth-headset-w46-bundle-deal",
-    "price": 1287.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-X360-1040-G8-14-inch-CT02215.jpg?v=1751896119",
+    "price": 1166.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-X360-1040-G8-14-inch-i7-11th-Gen-16GB-512GB-CT02215.jpg?v=1792468713",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
   },
@@ -61694,5 +61694,29 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/445292-Product-0-I-638917029982909860.webp?v=1792456422",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-10-20T02:44:21Z"
+  },
+  "https://www.techcrazy.co.nz/products/hp-elitebook-x360-1040-g8-14-inch-i7-11th-gen-16gb-512gb-windows-11-pro-laptop-good-refurbished-bluetooth-headset-w68-laptop-bag-keyboard-mouse-gm17-bundle": {
+    "name": "HP Elitebook X360 1040 G8 14-inch i7 11th Gen 16GB 512GB Windows 11 Pro Laptop (Good-Refurbished) + Bluetooth Headset W68, Laptop Bag, Keyboard Mouse (GM17) - Bundle",
+    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-x360-1040-g8-14-inch-i7-11th-gen-16gb-512gb-windows-11-pro-laptop-good-refurbished-bluetooth-headset-w68-laptop-bag-keyboard-mouse-gm17-bundle",
+    "price": 899.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-X360-1040-G8-14-inch-i7-11th-Gen-16GB-512GB-BDL00035.jpg?v=1792469271",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-20T10:41:37Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-fold-8-12gb-512gb-5g-pistachio-brand-new": {
+    "name": "Samsung Galaxy Fold 8 12GB 512GB 5G - Pistachio (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-fold-8-12gb-512gb-5g-pistachio-brand-new",
+    "price": 2799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Fold-8-12GB-512GB-5G-MP00482.jpg?v=1792465767",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-20T10:41:37Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-a34-6gb-128gb-5g-graphite-acceptable-refurbished": {
+    "name": "Samsung Galaxy A34 6GB 128GB 5G - Graphite (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a34-6gb-128gb-5g-graphite-acceptable-refurbished",
+    "price": 284.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A34-8GB-128GB-5G-Dual-Sim-Black-MP-00045_87e61892-2e22-4e35-999e-475b29e4056c.jpg?v=1792464444",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-20T10:41:37Z"
   }
 }
