@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Apple iPad Air 11-inch (M3) 128GB Wi-FI/Cellular Space Grey Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-air-11-inch-m3-128gb-wi-fi-cellular-space-grey-excellent",
+    "price": 1149.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/SPA-image-2_d663da7e-47e0-4e88-b072-d04b60105d17.webp?v=1789093665",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-20T02:44:21Z"
+  },
+  {
+    "name": "Apple iPad 7 32GB Wi-Fi  Silver Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-ipad-7-32gb-wi-fi-silver-excellent",
+    "price": 234.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPad-7-128GB-Wifi-Cellular-Silver-Premium-Pre-owned_8e98b6a5-fc68-43ac-b859-8715faf8ebbf.webp?v=1758064985",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-20T02:44:21Z"
+  },
+  {
+    "name": "Apple iPhone 16 Plus 128GB  Black  Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-16-plus-128gb-black-excellent",
+    "price": 1299.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/445292-Product-0-I-638917029982909860.webp?v=1792456422",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-20T02:44:21Z"
+  }
+]
