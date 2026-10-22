@@ -2434,7 +2434,7 @@
   "https://hotspotelectronics.co.nz/products/screen-repair": {
     "name": "Repair",
     "url": "https://hotspotelectronics.co.nz/products/screen-repair",
-    "price": 350.0,
+    "price": 3165.0,
     "image": "",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -61704,9 +61704,9 @@
     "date_first_seen": "2026-10-20T10:41:37Z"
   },
   "https://www.techcrazy.co.nz/products/samsung-galaxy-fold-8-12gb-512gb-5g-pistachio-brand-new": {
-    "name": "Samsung Galaxy Fold 8 12GB 512GB 5G - Pistachio (Brand New)",
+    "name": "Samsung Galaxy Z Fold8 12GB 512GB 5G Dual Sim Smartphone - Pistachio (Brand New)",
     "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-fold-8-12gb-512gb-5g-pistachio-brand-new",
-    "price": 2799.0,
+    "price": 2699.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Fold-8-12GB-512GB-5G-MP00482.jpg?v=1792465767",
     "site": "TechCrazy",
     "date_first_seen": "2026-10-20T10:41:37Z"
@@ -61718,5 +61718,45 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A34-8GB-128GB-5G-Dual-Sim-Black-MP-00045_87e61892-2e22-4e35-999e-475b29e4056c.jpg?v=1792464444",
     "site": "TechCrazy",
     "date_first_seen": "2026-10-20T10:41:37Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-iphone-18-pro-max-burgundy-256gb-brand-new": {
+    "name": "Apple iPhone 18 Pro Max Burgundy 256GB Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-18-pro-max-burgundy-256gb-brand-new",
+    "price": 2999.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/N256134_0.webp?v=1789966630",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-22T02:35:49Z"
+  },
+  "https://hotspotelectronics.co.nz/products/sound-magus-cs650-1-champion-series-mono-amplifier": {
+    "name": "Sound Magus CS650.1 Champion Series Mono Amplifier",
+    "url": "https://hotspotelectronics.co.nz/products/sound-magus-cs650-1-champion-series-mono-amplifier",
+    "price": 189.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/CS650.1.jpg?v=1792620730",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-22T02:35:49Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-macbook-neo-13-inch-with-a18-pro-chip-8gb-256gb-brand-new": {
+    "name": "Apple MacBook Neo 13-inch with A18 Pro Chip 8GB/256GB Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/apple-macbook-neo-13-inch-with-a18-pro-chip-8gb-256gb-brand-new",
+    "price": 1189.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/N249671_0.webp?v=1788299040",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-22T02:35:49Z"
+  },
+  "https://www.techcrazy.co.nz/products/hp-g9ee-11-6-inch-n4500-4gb-32gb-chromebook-black-very-good-refurbished-bag-headset-kids-watch-bundle": {
+    "name": "HP G9EE 11.6-inch N4500 4GB 32GB Chromebook - Black (Very Good-Refurbished)+Bag+Headset+Kids Watch (Bundle)",
+    "url": "https://www.techcrazy.co.nz/products/hp-g9ee-11-6-inch-n4500-4gb-32gb-chromebook-black-very-good-refurbished-bag-headset-kids-watch-bundle",
+    "price": 299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-G9EE-11-6-inch-N4500-4GB-32GB-Chromebook-BDL00039.jpg?v=1792622743",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-22T02:35:49Z"
+  },
+  "https://www.techcrazy.co.nz/products/lenovo-14e-g3-14-inch-n200-8gb-128gb-education-chromebook-storm-grey-very-good-refurbished": {
+    "name": "Lenovo 14E G3 14-inch N200 8GB 128GB Education Chromebook - Storm Grey (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/lenovo-14e-g3-14-inch-n200-8gb-128gb-education-chromebook-storm-grey-very-good-refurbished",
+    "price": 499.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-14E-G3-14-inch-N200-8GB-128GB-CT00477.jpg?v=1792624994",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-22T02:35:49Z"
   }
 }
