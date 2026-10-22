@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "Samsung Galaxy S26 Ultra 12GB 512GB 5G Dual Sim - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s26-ultra-12gb-512gb-5g-dual-sim-black-brand-new",
+    "price": 2599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S26-FE-8GB-128GB-5G-MP00489_50bcb70f-4b6f-43c5-b913-c9a763276a45.jpg?v=1792683956",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-22T16:20:04Z"
+  },
+  {
+    "name": "Samsung Galaxy S26 FE 8GB 128GB 5G - Pistachio (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s26-fe-8gb-128gb-5g-pistachio-brand-new",
+    "price": 1199.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S26-FE-8GB-128GB-5G-MP00489.jpg?v=1792683789",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-22T16:20:04Z"
+  },
+  {
+    "name": "Apple iPhone 17 Pro 256GB 5G - Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-17-pro-256gb-5g-silver-very-good-refurbished",
+    "price": 1874.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-17-Pro-256GB-5G---Silver-MP00347.jpg?v=1792682432",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-22T16:20:04Z"
+  },
+  {
+    "name": "Asus ROG G15 Zephyrus 15.6-inch AMD Ryzen 7 24GB 1TB Windows 11 Home Laptop - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/asus-rog-g15-zephyrus-15-6-inch-amd-ryzen-7-24gb-1tb-windows-11-home-laptop-black-very-good-refurbished",
+    "price": 1499.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Asus-ROG-G15-Zephyrus-15-6-inch-AMD-Ryzen-7-CT01231.jpg?v=1792681753",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-22T16:20:04Z"
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 256GB 5G - Natural Titanium (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-16-pro-max-256gb-5g-natural-titanium-as-new-refurbished",
+    "price": 1799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-16-Pro-Max-Natural-Titanium-MP-00396_580ef2a0-42f7-4b28-979b-b69cdf085aa8.jpg?v=1792678137",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-22T16:20:04Z"
+  },
+  {
+    "name": "Apple iPhone 15 Pro 256GB 5G - Natural Titanium (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-pro-256gb-5g-natural-titanium-acceptable-refurbished",
+    "price": 1199.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-Pro-256GB-Black-Titanium-MP-00032_0b121cd4-a477-425f-823e-716010634714.jpg?v=1792677969",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-22T16:20:04Z"
+  },
+  {
+    "name": "Lenovo Thinkpad C13 Yoga Gen 1 13.3-inch AMD Ryzen 5 8GB 128GB Touch Chromebook - Abyss Blue (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/lenovo-thinkpad-c13-yoga-gen-1-13-3-inch-amd-ryzen-5-8gb-128gb-touch-chromebook-abyss-blue-good-refurbished",
+    "price": 438.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-Thinkpad-C13-Yoga-Gen-1-CT00499-1.jpg?v=1792677523",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-22T16:20:04Z"
+  },
+  {
+    "name": "Samsung Galaxy S24 8GB 256GB 5G - Onyx Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s24-8gb-256gb-5g-onyx-black-good-refurbished",
+    "price": 794.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S24-8GB-256GB-MP03748_39d92d15-1cd3-42ea-883d-f04fc3204251.jpg?v=1792676479",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-22T16:20:04Z"
+  },
+  {
+    "name": "Samsung Galaxy A54 (2023) 8GB 128GB 5G - Graphite (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a54-2023-8gb-128gb-5g-graphite-very-good-refurbished",
+    "price": 399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A54-5G-Dual-SIM-8GB_128GB-Awesome-Graphite-MP-02501_d6be0550-6297-4e1f-b694-c10d27ab4143.jpg?v=1792676279",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-22T16:20:04Z"
+  },
+  {
+    "name": "Samsung Galaxy A52 (2021) 6GB 128GB 5G - Awesome Blue (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a52-2021-6gb-128gb-5g-awesome-blue-good-refurbished",
+    "price": 316.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A52-_2021_-6GB-128GB-5G---Awesome-Blue-MP00003.jpg?v=1792676080",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-22T16:20:04Z"
+  }
+]
