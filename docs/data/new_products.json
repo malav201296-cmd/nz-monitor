@@ -1,10 +1,58 @@
 [
   {
-    "name": "Samsung Galaxy Z Fold8 12GB 512GB 5G Dual Sim Smartphone - Black (Brand New)",
-    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-z-fold8-12gb-512gb-5g-dual-sim-smartphone-black-brand-new",
-    "price": 3299.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Z-Fold8-12GB-512GB-MP00486.jpg?v=1792686216",
+    "name": "Apple iPhone 13 Pro Max  128GB Gold Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-pro-max-128gb-gold-excellent",
+    "price": 899.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-13-Pro-Max-128GB-Gold-Excellent.jpg?v=1739005545",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-23T02:40:15Z"
+  },
+  {
+    "name": "Apple iPhone 13 Pro 256GB Grey Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-pro-256gb-grey-excellent",
+    "price": 799.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple_iPhone_13_Pro_128GB_Space_Grey_Excellent_36193d63-fc2b-4982-a1e0-dc068d984b8d.webp?v=1739016648",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-23T02:40:15Z"
+  },
+  {
+    "name": "Apple iPhone 11 256GB White Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-11-256gb-white-excellent",
+    "price": 449.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-11-64GB-White-Excellent_e9a63ecb-006a-4c01-af65-172de9e29bc9.webp?v=1739014531",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-23T02:40:15Z"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold 5 256GB Icy Blue - Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-z-fold-5-256gb-icy-blue-excellent",
+    "price": 999.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLU-image-0_b424af22-11f3-4b79-9ae1-604927afa424.webp?v=1765853830",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-23T02:40:15Z"
+  },
+  {
+    "name": "Apple iPhone 14 256GB Blue Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-256gb-blue-excellent",
+    "price": 699.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iphone-14-128GB-Blue-Excellent_332880e8-3c5e-49ac-b6ea-82d865735af4.webp?v=1738999719",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-23T02:40:15Z"
+  },
+  {
+    "name": "Apple iPhone 13 256GB White Good Condition",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-256gb-white-good-condition",
+    "price": 569.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-13-128GB-White-Excellent..webp?v=1739002833",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-23T02:40:15Z"
+  },
+  {
+    "name": "Zeroflex 12-inch Dual Basspack FLX-124 Monster Subwoofers 1600RMS - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/zeroflex-12-inch-dual-basspack-flx-124-monster-subwoofers-1600rms-black-brand-new",
+    "price": 908.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Zeroflex-12-inch-Dual-Basspack-FLX-124-Monster-Subwoofers-1600RMS-CA00096-0.jpg?v=1792715490",
     "site": "TechCrazy",
-    "date_first_seen": "2026-10-22T20:59:51Z"
+    "date_first_seen": "2026-10-23T02:40:15Z"
   }
 ]

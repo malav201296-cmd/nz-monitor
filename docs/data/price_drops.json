@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Samsung Galaxy  S23  128GB Graphite Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s23-128gb-graphite-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLA-image-0_d41ecb40-2aa3-4e07-93d2-c500f6275f3d.webp?v=1706846954",
+    "site": "Hotspot Electronics",
+    "old_price": 669.99,
+    "new_price": 649.99,
+    "saving": 20.0,
+    "saving_pct": 3.0,
+    "date_first_seen": "2026-08-02T01:55:26Z",
+    "detected_at": "2026-10-23T02:40:15Z"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold8 12GB 512GB 5G Dual Sim Smartphone - Black (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-z-fold8-12gb-512gb-5g-dual-sim-smartphone-black-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Z-Fold8-12GB-512GB-MP00486.jpg?v=1792686216",
+    "site": "TechCrazy",
+    "old_price": 3299.0,
+    "new_price": 2699.0,
+    "saving": 600.0,
+    "saving_pct": 18.2,
+    "date_first_seen": "2026-10-22T20:59:51Z",
+    "detected_at": "2026-10-23T02:40:15Z"
+  }
+]
