@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "name": "Repair",
+    "url": "https://hotspotelectronics.co.nz/products/screen-repair",
+    "image": "",
+    "site": "Hotspot Electronics",
+    "old_price": 300.0,
+    "new_price": 270.0,
+    "saving": 30.0,
+    "saving_pct": 10.0,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-10-27T03:01:09Z"
+  },
+  {
+    "name": "Apple iPhone 7 256GB - Matte Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-7-256gb-matte-black-good-refurbished",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple_iPhone_7_256GB_-_Matte_Black.jpg?v=1792995667",
+    "site": "TechCrazy",
+    "old_price": 999.0,
+    "new_price": 199.0,
+    "saving": 800.0,
+    "saving_pct": 80.1,
+    "date_first_seen": "2026-10-26T11:55:36Z",
+    "detected_at": "2026-10-27T03:01:09Z"
+  },
+  {
+    "name": "HP G9EE 11.6-inch N4500 4GB 32GB Chromebook - Black (Very Good-Refurbished)+Bag+Headset+Kids Watch (Bundle)",
+    "url": "https://www.techcrazy.co.nz/products/hp-g9ee-11-6-inch-n4500-4gb-32gb-chromebook-black-very-good-refurbished-bag-headset-kids-watch-bundle",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-G9EE-11-6-inch-N4500-4GB-32GB-Chromebook-BDL00039.jpg?v=1792622743",
+    "site": "TechCrazy",
+    "old_price": 299.0,
+    "new_price": 274.0,
+    "saving": 25.0,
+    "saving_pct": 8.4,
+    "date_first_seen": "2026-10-22T02:35:49Z",
+    "detected_at": "2026-10-27T03:01:09Z"
+  },
+  {
+    "name": "Apple iPhone 7 32GB - Rose Gold (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-7-32gb-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/products/Apple-iPhone-7-32GB-Rose-Gold-MP-02753-2_6e81ed6d-3e4e-4b81-945e-cb63edd1d8cf.jpg?v=1703045143",
+    "site": "TechCrazy",
+    "old_price": 279.0,
+    "new_price": 129.0,
+    "saving": 150.0,
+    "saving_pct": 53.8,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-10-27T03:01:09Z"
+  },
+  {
+    "name": "Apple iPhone 7 32GB - Matte Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-7-32gb-good-condition",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone732GBMP0099705.jpg?v=1778542911",
+    "site": "TechCrazy",
+    "old_price": 199.0,
+    "new_price": 99.0,
+    "saving": 100.0,
+    "saving_pct": 50.3,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-10-27T03:01:09Z"
+  }
+]
