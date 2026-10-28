@@ -32392,7 +32392,7 @@
     "date_first_seen": "2026-06-06T05:35:30Z"
   },
   "https://www.techcrazy.co.nz/products/apple-iphone-12-pro-128gb-5g-good-reconditioned-by-techcrazy": {
-    "name": "Apple iPhone 12 Pro 128GB 5G Battery 100% - Graphite (Good -Reconditioned)",
+    "name": "Apple iPhone 12 Pro 128GB 5G Battery 100% - Graphite (Good -Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/apple-iphone-12-pro-128gb-5g-good-reconditioned-by-techcrazy",
     "price": 629.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-12-Pro-Max-MP-00936_2c36f5e9-4840-4237-a89c-59b163886a05.jpg?v=1724722351",
@@ -62374,5 +62374,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Macbook-Air-M3-_2024_-13-inch-8-Core-CPU-CT00756.jpg?v=1793165015",
     "site": "TechCrazy",
     "date_first_seen": "2026-10-28T11:51:58Z"
+  },
+  "https://www.techcrazy.co.nz/products/lenovo-laptop-14-inch-i5-12th-gen-8gb-512gb-1-30ghz-windows-11-pro-black-good-refurbished": {
+    "name": "Lenovo Laptop 14-inch i5 12th Gen 8GB 512GB @1.30GHz Windows 11 Pro - Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/lenovo-laptop-14-inch-i5-12th-gen-8gb-512gb-1-30ghz-windows-11-pro-black-good-refurbished",
+    "price": 999.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-Laptop-14-inch-i5-12th-Gen-8GB-512GB-CT01451.jpg?v=1793207316",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-10-28T17:41:09Z"
   }
 }
