@@ -14946,7 +14946,7 @@
   "https://www.techcrazy.co.nz/products/apple-macbook-pro-2023-14-inch-m3-chip-8-core-cpu-10core-gpu-8gb-512gb-space-grey-good-pre-owned": {
     "name": "Apple Macbook Pro (2023) 14-inch M3 Chip 8 Core CPU/ 10Core GPU 8GB 512GB - Space Grey (Good Pre-Owned)",
     "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2023-14-inch-m3-chip-8-core-cpu-10core-gpu-8gb-512gb-space-grey-good-pre-owned",
-    "price": 1799.0,
+    "price": 2099.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-_2023_-14-inch-M3-CT08687_7542aff4-aa50-4b43-8203-b91b72fecb28.jpg?v=1761058539",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -23754,7 +23754,7 @@
   "https://www.techcrazy.co.nz/products/apple-ipad-9th-gen-2021-10-2-inch-64gb-wifi-only-very-good-pre-owned": {
     "name": "Apple iPad 9th Gen (2021) 10.2-inch 64GB Wifi Only - Space Gray (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/apple-ipad-9th-gen-2021-10-2-inch-64gb-wifi-only-very-good-pre-owned",
-    "price": 360.0,
+    "price": 378.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-9th-Gen-_2021_-CT-03163-1_d1d3e249-bde6-47af-8ce8-d8fb81aec5c8.jpg?v=1743962251",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -62342,5 +62342,29 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/CA00019_d9b38993-4448-40ef-8a6a-455421b3453e.jpg?v=1793124070",
     "site": "TechCrazy",
     "date_first_seen": "2026-10-27T21:37:08Z"
+  },
+  "https://hotspotelectronics.co.nz/products/apple-macbook-pro-14-2021-laptop-a2442-m1-pro-chip-16gb-ram-512gb-ssd-excellent": {
+    "name": "Apple MacBook Pro 14\" (2021) Laptop A2442 M1 Pro Chip 16GB RAM 512GB SSD Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-macbook-pro-14-2021-laptop-a2442-m1-pro-chip-16gb-ram-512gb-ssd-excellent",
+    "price": 1559.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/SPA-image-0_380f5f04-ee21-4b70-ab37-284cf2a24802.webp?v=1788304693",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-28T03:12:07Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hp-elitebook-845-g8-laptop-ryzen-5-pro-5650u-16gb-ram-256gb-ssd-13-3-inch-win-11-pro": {
+    "name": "HP EliteBook 845 G8 Laptop Ryzen 5 Pro 5650U 16GB RAM 256GB SSD 13.3 inch  Win 11 Pro",
+    "url": "https://hotspotelectronics.co.nz/products/hp-elitebook-845-g8-laptop-ryzen-5-pro-5650u-16gb-ram-256gb-ssd-13-3-inch-win-11-pro",
+    "price": 549.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/8300000000.jpg?v=1761270936",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-28T03:12:07Z"
+  },
+  "https://hotspotelectronics.co.nz/products/hp-elitebook-855-g8-laptop-ryzen-5-pro-5650u-16gb-ram-256gb-ssd-win-11-pro": {
+    "name": "HP EliteBook 855 G8 Laptop Ryzen 5 Pro 5650U 16GB RAM 256GB SSD  Win 11 Pro",
+    "url": "https://hotspotelectronics.co.nz/products/hp-elitebook-855-g8-laptop-ryzen-5-pro-5650u-16gb-ram-256gb-ssd-win-11-pro",
+    "price": 549.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/8300000000.jpg?v=1761270936",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-10-28T03:12:07Z"
   }
 }
