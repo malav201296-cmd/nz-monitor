@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "name": "Lenovo Laptop 14-inch i5 12th Gen 8GB 512GB @1.30GHz Windows 11 Pro - Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/lenovo-laptop-14-inch-i5-12th-gen-8gb-512gb-1-30ghz-windows-11-pro-black-good-refurbished",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-Laptop-14-inch-i5-12th-Gen-8GB-512GB-CT01451.jpg?v=1793207316",
+    "site": "TechCrazy",
+    "old_price": 999.0,
+    "new_price": 699.0,
+    "saving": 300.0,
+    "saving_pct": 30.0,
+    "date_first_seen": "2026-10-28T17:41:09Z",
+    "detected_at": "2026-10-30T03:41:01Z"
+  },
+  {
+    "name": "Zeroflex PRO-F8.0 - 8.2-inch Way Coax Midrange Speakers 120RMS",
+    "url": "https://www.techcrazy.co.nz/products/zeroflex-pro-f6-5-6-5-inch-coxial-speakers-120rms",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Zeroflex-PRO-F8-0---8-2-inch-Way-Coax-Midrange-Speakers-CA00070-1.jpg?v=1771308424",
+    "site": "TechCrazy",
+    "old_price": 349.0,
+    "new_price": 299.0,
+    "saving": 50.0,
+    "saving_pct": 14.3,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-10-30T03:41:01Z"
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max 256GB 5G - Natural Titanium (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-pro-max-256gb-5g-natural-titanium-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone15ProMax256GB5G-NaturalTitaniumMP01333_316e50a0-f94d-4fbf-955d-757adfe7709a.png?v=1776957172",
+    "site": "TechCrazy",
+    "old_price": 1399.0,
+    "new_price": 1375.0,
+    "saving": 24.0,
+    "saving_pct": 1.7,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-10-30T03:41:01Z"
+  },
+  {
+    "name": "Apple iPhone 16 Pro 256GB 5G - Black Titanium (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-16-pro-256gb-5g-black-titanium-very-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-16-Pro-Max-256GB-MP-00216_84547b0f-fe84-4c36-a2a4-7ea65e037afc.jpg?v=1752767882",
+    "site": "TechCrazy",
+    "old_price": 1699.0,
+    "new_price": 1499.0,
+    "saving": 200.0,
+    "saving_pct": 11.8,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-10-30T03:41:01Z"
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max 256GB 5G - Blue Titanium (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-pro-max-256gb-5g-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone15ProMax256GB5G-BlueTitaniumMP01326_ba335911-a09c-4e65-8082-fc0c14ca85c3.png?v=1776928496",
+    "site": "TechCrazy",
+    "old_price": 1399.0,
+    "new_price": 1375.0,
+    "saving": 24.0,
+    "saving_pct": 1.7,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-10-30T03:41:01Z"
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max 256GB 5G - Natural Titanium (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-pro-max-256gb-as-new-pre-owned-1",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/products/Apple-iPhone-15-Pro-Max-256GB-Natural-Titanium-MP-00034.jpg?v=1704992140",
+    "site": "TechCrazy",
+    "old_price": 1799.0,
+    "new_price": 1499.0,
+    "saving": 300.0,
+    "saving_pct": 16.7,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-10-30T03:41:01Z"
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max 256GB 5G - Black Titanium (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-pro-max-256gb-as-new-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleiPhone15ProMax256GB5G-BlackTitaniumMP00557_d95ab294-9f40-4c57-b7f0-505adf1b2ab2.png?v=1776925593",
+    "site": "TechCrazy",
+    "old_price": 1749.0,
+    "new_price": 1499.0,
+    "saving": 250.0,
+    "saving_pct": 14.3,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-10-30T03:41:01Z"
+  }
+]
