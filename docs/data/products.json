@@ -8760,7 +8760,7 @@
     "date_first_seen": "2026-06-06T05:24:57Z"
   },
   "https://www.techcrazy.co.nz/products/apple-macbook-air-2020-13-3-inch-i3-8gb-256gb-1-1ghz-gold-good-pre-owned": {
-    "name": "Apple Macbook Air (2020) 13.3-inch i3 8GB 256GB @1.1GHz - Gold (Good Pre-Owned)",
+    "name": "Apple Macbook Air (2020) 13.3-inch i3 8GB 256GB @1.1GHz - Gold (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2020-13-3-inch-i3-8gb-256gb-1-1ghz-gold-good-pre-owned",
     "price": 699.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Air-_2020_-13.3-inch--i5-10th-Gen-Gold-CT-00066.jpg?v=1771037063",
@@ -13194,7 +13194,7 @@
   "https://www.techcrazy.co.nz/products/dell-latitude-5420-14-inch-i5-11th-gen-8gb-256gb-2-60ghz-windows-11-pro-laptop-matte-gray-acceptable-pre-owned": {
     "name": "Dell Latitude 5420 14-inch i5 11th Gen 8GB 256GB @2.60GHz Windows 11 Pro Laptop - Matte Gray (Acceptable-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/dell-latitude-5420-14-inch-i5-11th-gen-8gb-256gb-2-60ghz-windows-11-pro-laptop-matte-gray-acceptable-pre-owned",
-    "price": 699.0,
+    "price": 474.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Dell-Latitude-5420-14-inch-i5-11th-Gen-16GB-256GB-CT-02164_8a8fffc0-32d4-469a-9c88-6df28cc85a91.jpg?v=1764349951",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -25752,9 +25752,9 @@
     "date_first_seen": "2026-06-06T05:35:30Z"
   },
   "https://www.techcrazy.co.nz/products/dell-latitude-5420-14-inch-i5-11th-gen-8gb-256gb-2-60ghz-windows-11-pro-touch-screen-laptop-good-pre-owned": {
-    "name": "Dell Latitude 5420 14-inch i5 11th Gen 8GB 256GB @2.60GHz Windows 11 Pro Touch Screen Laptop - Space Grey (Good-Refurbished)",
+    "name": "Dell Latitude 5420 14-inch i5 11th Gen 8GB 256GB Windows 11 Pro - Space Grey (Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/dell-latitude-5420-14-inch-i5-11th-gen-8gb-256gb-2-60ghz-windows-11-pro-touch-screen-laptop-good-pre-owned",
-    "price": 899.0,
+    "price": 499.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Dell-Latitude-5420-14-inch-i5-11th-Gen-8GB-256GB-CT-02117_aed90491-48b0-472c-86f1-f2ed2fe1e60f.jpg?v=1739459052",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -43162,8 +43162,8 @@
   "https://www.techcrazy.co.nz/products/apple-macbook-air-13-3-1-1hgz-i3-8gb-256gb-a2179-year-2020-very-good-condition": {
     "name": "Apple Macbook Air (2020) 13.3-inch i3 8GB 256GB @1.1GHz - Space Gray (Very Good Pre-Owned)",
     "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-13-3-1-1hgz-i3-8gb-256gb-a2179-year-2020-very-good-condition",
-    "price": 749.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/AppleMacbookAir202013.3-inchi38GB256GB_1.1GHZCT02060.jpg?v=1724736032",
+    "price": 799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/macbook_20air_202020_5d62cb45-357a-4cf8-bc5b-3d05c9fc381b.jpg?v=1793550243",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
   },
@@ -62654,5 +62654,53 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Rugged-Case-for-Apple-iPad-Pro-_2024_-11-inch---Peach-CTA00847.jpg?v=1793547338",
     "site": "TechCrazy",
     "date_first_seen": "2026-11-01T21:30:45Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-ipad-air-5-2022-10-9-inch-256gb-wifi-cellular-5g-space-gray-as-new-refurbished": {
+    "name": "Apple iPad Air 5 (2022) 10.9-inch 256GB Wifi + Cellular 5G - Space Gray (As New-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-air-5-2022-10-9-inch-256gb-wifi-cellular-5g-space-gray-as-new-refurbished",
+    "price": 829.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Air-5-_2022_-10.9-inch-64GB-Wifi-_-Cellular-CT-00052_732e4bc2-3335-4030-b2f4-da59a650561d.jpg?v=1793583963",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-02T03:35:13Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-se-2022-3rd-gen-64gb-5g-battery-90-midnight-acceptable-refurbished": {
+    "name": "Apple iPhone SE 2022 (3rd Gen) 64GB 5G Battery 90% - Midnight (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-se-2022-3rd-gen-64gb-5g-battery-90-midnight-acceptable-refurbished",
+    "price": 264.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-SE-2022-_3rd-Gen_-64GB-MP-00418_61afaf0b-6962-4abf-91f1-e5a0649b0647.jpg?v=1793583142",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-02T03:35:13Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-se-2022-3rd-gen-64gb-5g-battery-90-midnight-good-refurbished": {
+    "name": "Apple iPhone SE 2022 (3rd Gen) 64GB 5G Battery 90% - Midnight (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-se-2022-3rd-gen-64gb-5g-battery-90-midnight-good-refurbished",
+    "price": 299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-SE-2022-_3rd-Gen_-64GB-MP-00418_55215f8c-fb59-4a66-8af7-da1e5a63a22e.jpg?v=1793582671",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-02T03:35:13Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-se-2022-3rd-gen-64gb-5g-starlight-good-refurbished": {
+    "name": "Apple iPhone SE 2022 (3rd Gen) 64GB 5G - Starlight (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-se-2022-3rd-gen-64gb-5g-starlight-good-refurbished",
+    "price": 284.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-SE-2022-_3rd-Gen_-MP02487_1c01c296-8ea8-406f-8827-d0f4f4edaf10.jpg?v=1793582416",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-02T03:35:13Z"
+  },
+  "https://www.techcrazy.co.nz/products/privacy-tempered-glass-for-iphone-duo-privacy": {
+    "name": "Privacy Tempered Glass For iPhone Duo - Privacy",
+    "url": "https://www.techcrazy.co.nz/products/privacy-tempered-glass-for-iphone-duo-privacy",
+    "price": 39.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Privacy-Tempered-Glass-For-iPhone-Duo---Privacy-MBA01214.jpg?v=1793573614",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-02T03:35:13Z"
+  },
+  "https://www.techcrazy.co.nz/products/mag-armor-magsafe-clear-case-for-iphone-duo-clear": {
+    "name": "Mag Armor Magsafe Clear Case For iPhone Duo - Clear",
+    "url": "https://www.techcrazy.co.nz/products/mag-armor-magsafe-clear-case-for-iphone-duo-clear",
+    "price": 29.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Mag-Armor-Magsafe-Clear-Case-For-iPhone-Duo---Clear-MBA01212.jpg?v=1793573217",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-02T03:35:13Z"
   }
 }

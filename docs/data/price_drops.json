@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Dell Latitude 5420 14-inch i5 11th Gen 8GB 256GB @2.60GHz Windows 11 Pro Laptop - Matte Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/dell-latitude-5420-14-inch-i5-11th-gen-8gb-256gb-2-60ghz-windows-11-pro-laptop-matte-gray-acceptable-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Dell-Latitude-5420-14-inch-i5-11th-Gen-16GB-256GB-CT-02164_8a8fffc0-32d4-469a-9c88-6df28cc85a91.jpg?v=1764349951",
+    "site": "TechCrazy",
+    "old_price": 699.0,
+    "new_price": 474.0,
+    "saving": 225.0,
+    "saving_pct": 32.2,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-11-02T03:35:13Z"
+  },
+  {
+    "name": "Dell Latitude 5420 14-inch i5 11th Gen 8GB 256GB @2.60GHz Windows 11 Pro Touch Screen Laptop - Space Grey (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/dell-latitude-5420-14-inch-i5-11th-gen-8gb-256gb-2-60ghz-windows-11-pro-touch-screen-laptop-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Dell-Latitude-5420-14-inch-i5-11th-Gen-8GB-256GB-CT-02117_aed90491-48b0-472c-86f1-f2ed2fe1e60f.jpg?v=1739459052",
+    "site": "TechCrazy",
+    "old_price": 899.0,
+    "new_price": 499.0,
+    "saving": 400.0,
+    "saving_pct": 44.5,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-11-02T03:35:13Z"
+  }
+]
