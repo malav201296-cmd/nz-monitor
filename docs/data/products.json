@@ -53058,7 +53058,7 @@
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-plus-5g-128gb-green-excellent": {
     "name": "Samsung Galaxy S22 Plus 5G 128GB Green Excellent",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-plus-5g-128gb-green-excellent",
-    "price": 649.99,
+    "price": 549.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/image_b4d46e70-5669-4958-aafc-eee7a1b33cf9.webp?v=1691112133",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-02T01:55:26Z"
@@ -53162,7 +53162,7 @@
   "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-5g-128gb-green-excellent": {
     "name": "Samsung Galaxy  S22 5G 128GB Green Excellent",
     "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-5g-128gb-green-excellent",
-    "price": 589.99,
+    "price": 479.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/unnamed_1.webp?v=1685144558",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-02T01:55:26Z"
@@ -63174,5 +63174,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-Universal-Lazy-Stand-for-Phone-and-Tablet-_HD10_-MBA00670.jpg?v=1793856158",
     "site": "TechCrazy",
     "date_first_seen": "2026-11-05T13:45:02Z"
+  },
+  "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-plus-5g-128gb-black-good-condition-1": {
+    "name": "Samsung Galaxy S22 Plus 5G 128GB Black Good Condition",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s22-plus-5g-128gb-black-good-condition-1",
+    "price": 529.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLA-image-0_2.webp?v=1707607796",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-11-05T23:03:30Z"
   }
 }
