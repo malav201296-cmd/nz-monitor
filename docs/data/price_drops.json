@@ -1,14 +1,26 @@
 [
   {
-    "name": "Apple iPhone 15 Pro Max 256GB Black Titanium  Good Condition",
-    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-15-pro-max-256gb-black-titanium-good-condition-1",
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/BLA-image-0_2_49f3ea83-0ae7-45c3-9484-c33d2293d7c2.webp?v=1743139441",
+    "name": "Apple iPhone 16 Plus 128GB Pink Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-16-plus-128gb-pink-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/PIN-image-0_aa4c32e7-baf4-4857-8771-c484cd6a2696.jpg?v=1769132931",
     "site": "Hotspot Electronics",
-    "old_price": 1249.99,
-    "new_price": 1199.99,
+    "old_price": 1299.99,
+    "new_price": 1249.99,
     "saving": 50.0,
-    "saving_pct": 4.0,
-    "date_first_seen": "2026-08-29T11:59:49Z",
-    "detected_at": "2026-11-06T22:33:11Z"
+    "saving_pct": 3.8,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-11-07T03:51:05Z"
+  },
+  {
+    "name": "Apple iPhone 16 Plus 128GB  Black  Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-16-plus-128gb-black-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/445292-Product-0-I-638917029982909860.webp?v=1792456422",
+    "site": "Hotspot Electronics",
+    "old_price": 1299.99,
+    "new_price": 1249.99,
+    "saving": 50.0,
+    "saving_pct": 3.8,
+    "date_first_seen": "2026-10-20T02:44:21Z",
+    "detected_at": "2026-11-07T03:51:05Z"
   }
 ]
