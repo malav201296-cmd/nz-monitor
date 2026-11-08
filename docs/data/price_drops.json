@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Zeroflex Team 8.0 8-inch Dual 4Ohm 1000RMS Subwoofer",
+    "url": "https://www.techcrazy.co.nz/products/zeroflex-team-8-0-8-inch-dual-4ohm-1000rms-subwoofer-black-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Zeroflex-Team-8-0-8-inch-Dual-4Ohm-1000RMS-Subwoofer-CA00331.jpg?v=1781591234",
+    "site": "TechCrazy",
+    "old_price": 408.0,
+    "new_price": 399.0,
+    "saving": 9.0,
+    "saving_pct": 2.2,
+    "date_first_seen": "2026-06-16T18:19:43Z",
+    "detected_at": "2026-11-08T21:29:40Z"
+  },
+  {
+    "name": "Zeroflex FLX-210SE Dual 10-inch Ultra Slimline Subwoofer Enclosure 250W RMS Each Subwoofer (For Utes)",
+    "url": "https://www.techcrazy.co.nz/products/zeroflex-flx-210se-dual-10-inch-ultra-slimline-subwoofer-enclosure-250w-rms-each-subwoofer-for-utes",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Zeroflex-FLX-210SE-Dual-10-inch-Ultra-Slimline-Subwoofer-CA01000.jpg?v=1763707083",
+    "site": "TechCrazy",
+    "old_price": 700.0,
+    "new_price": 699.0,
+    "saving": 1.0,
+    "saving_pct": 0.1,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-11-08T21:29:40Z"
+  },
+  {
+    "name": "Zeroflex TKO-8 8-inch 500RMS Subwoofer",
+    "url": "https://www.techcrazy.co.nz/products/zeroflex-tko-8-8-inch-1000rms-subwoofer",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/products/Zeroflex-TKO-8-8-inch-1000RMS-Subwoofer-CA00641.jpg?v=1701997781",
+    "site": "TechCrazy",
+    "old_price": 233.0,
+    "new_price": 229.0,
+    "saving": 4.0,
+    "saving_pct": 1.7,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-11-08T21:29:40Z"
+  }
+]
