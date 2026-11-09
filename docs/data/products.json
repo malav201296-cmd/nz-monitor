@@ -52424,7 +52424,7 @@
     "date_first_seen": "2026-08-02T01:55:26Z"
   },
   "https://hotspotelectronics.co.nz/products/samsung-note-20-256gb-mystic-grey-excellent": {
-    "name": "Samsung Note 20 256GB Mystic Grey Excellent",
+    "name": "Samsung Note 20 5G 256GB Mystic Grey Excellent",
     "url": "https://hotspotelectronics.co.nz/products/samsung-note-20-256gb-mystic-grey-excellent",
     "price": 519.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/samsung-galaxy-note20-5g-smartphone-display-672-256gb-ram-8gb-mystic-grey_e893116a-1174-4525-a27d-217d9d048ba8.jpg?v=1747107015",
@@ -63254,5 +63254,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/GRA-image-0_fa5840ef-e68a-44c8-8692-2c85734587ea.webp?v=1794191474",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-11-09T03:47:51Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-18-pro-max-512gb-5g-burgundy-brand-new": {
+    "name": "Apple iPhone 18 Pro Max 512GB 5G 2 Year Warranty - Burgundy (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-18-pro-max-512gb-5g-burgundy-brand-new",
+    "price": 3149.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-18-Pro-Max-512GB-MP00439.jpg?v=1794235341",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-09T14:45:15Z"
   }
 }
