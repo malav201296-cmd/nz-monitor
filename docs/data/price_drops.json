@@ -1,14 +1,50 @@
 [
   {
-    "name": "Sound Magus C3000.1 Mono High Power Amplifier",
-    "url": "https://hotspotelectronics.co.nz/products/sound-magus-c3000-1-mono-high-power-amplifier",
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/C3000.jpg?v=1786586454",
-    "site": "Hotspot Electronics",
-    "old_price": 689.99,
-    "new_price": 619.99,
-    "saving": 70.0,
-    "saving_pct": 10.1,
-    "date_first_seen": "2026-08-13T07:13:57Z",
-    "detected_at": "2026-11-11T03:52:58Z"
+    "name": "MSI Modern 14 - 14-inch i3 11th Gen 8GB 256GB Windows 11 Laptop - Carbon Grey (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/msi-modern-14-b11mou-14-inch-i3-11th-gen-8gb-256gb-3-00ghz-windows-11-laptop-carbon-grey-acceptable-refurbished",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/MSI-Modern-14---14-inch-i3-11th-Gen-8GB-256GB-CT00150.jpg?v=1793112235",
+    "site": "TechCrazy",
+    "old_price": 699.0,
+    "new_price": 499.0,
+    "saving": 200.0,
+    "saving_pct": 28.6,
+    "date_first_seen": "2026-10-27T17:04:32Z",
+    "detected_at": "2026-11-11T13:15:56Z"
+  },
+  {
+    "name": "HP Elitebook 840 G8 14-inch i5 11th Gen 16GB 256GB @2.40GHz Windows 11 Pro Touch Screen Laptop - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-840-g8-14-inch-i5-11th-gen-16gb-256gb-2-40ghz-windows-11-pro-touch-screen-laptop-silver-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-840-G8-14-inch-i5-11th-Gen-CT-00764_d403fb17-6f77-4130-9d31-42832e753c32.jpg?v=1766535469",
+    "site": "TechCrazy",
+    "old_price": 649.0,
+    "new_price": 599.0,
+    "saving": 50.0,
+    "saving_pct": 7.7,
+    "date_first_seen": "2026-07-31T01:58:13Z",
+    "detected_at": "2026-11-11T13:15:56Z"
+  },
+  {
+    "name": "Tempered Glass For Samsung Galaxy S26 Ultra",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-s26-ultra-tempered-glass-clear",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-S26-Ultra-Tempered-Glass---Clear-MBA02750.jpg?v=1775780723",
+    "site": "TechCrazy",
+    "old_price": 49.0,
+    "new_price": 29.0,
+    "saving": 20.0,
+    "saving_pct": 40.8,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-11-11T13:15:56Z"
+  },
+  {
+    "name": "HP Elitebook 840 G8 14-inch i5 11th Gen 16GB 256GB @2.40GHz Windows 11 Pro Touch Screen Laptop - Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-840-g8-14-inch-i5-11th-gen-16gb-256gb-2-40ghz-windows-11-pro-touch-screen-laptop-silver-very-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-Elitebook-840-G8-14-inch-i5-11th-Gen-CT-00764_2c13b446-393a-4a99-a40f-7c1dc916006b.jpg?v=1766535232",
+    "site": "TechCrazy",
+    "old_price": 699.0,
+    "new_price": 649.0,
+    "saving": 50.0,
+    "saving_pct": 7.2,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-11-11T13:15:56Z"
   }
 ]
