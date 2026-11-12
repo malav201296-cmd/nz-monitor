@@ -1,34 +1,66 @@
 [
   {
-    "name": "Apple iPhone 14 Pro Max 256GB Gold Refurbished",
-    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-14-pro-max-256gb-gold-excellent-1",
-    "price": 799.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/imgpsh_fullsize_anim_14_85ff7c8f-c70f-433c-89ea-c4741a2e5238.jpg?v=1739012594",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-11-12T05:00:10Z"
+    "name": "Apple iPad Pro 11 (2021) (3rd Gen) 128GB Wifi Only - Space Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-pro-11-2021-3rd-gen-128gb-wifi-only-space-gray-acceptable-refurbished",
+    "price": 899.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-11-_2021_-_3rd-Gen_-128GB-CT03076-3_b341f88a-8385-4497-b253-98228ece19d0.jpg?v=1794471333",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-12T14:19:00Z"
   },
   {
-    "name": "Apple 20W USB-C Power Adapter",
-    "url": "https://hotspotelectronics.co.nz/products/apple-20w-usb-c-power-adapter",
-    "price": 54.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/adapter.webp?v=1794456279",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-11-12T05:00:10Z"
+    "name": "Apple Macbook Pro (2017) 15-inch i7 7th Gen 16GB 256GB Touch Bar - Space Grey (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2017-15-inch-i7-7th-gen-16gb-256gb-2-80ghz-touch-bar-good-pre-owned",
+    "price": 699.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-_2017_-15-inch-i7-7th-Gen-CT01234.jpg?v=1794471190",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-12T14:19:00Z"
   },
   {
-    "name": "Samsung Galaxy Z Flip6 12/256GB Blue - Brand New",
-    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-z-flip6-12-256gb-blue-brand-new",
-    "price": 1149.99,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/zflip6.webp?v=1794442920",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-11-12T05:00:10Z"
+    "name": "Lenovo ThinkPad X13 Yoga Gen-2 13.3-inch i5 11th Gen 16GB 256GB Windows 11 Pro Touch Screen Laptop - Black (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/lenovo-thinkpad-x13-yoga-gen-2-13-3-inch-i5-11th-gen-16gb-256gb-windows-11-pro-touch-screen-laptop-black-good-refurbished",
+    "price": 585.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-ThinkPad-X13-Yoga-Gen-2-CT01152_7c8d58a2-f944-45c8-9ab4-8ef89913960a.jpg?v=1794470580",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-12T14:19:00Z"
   },
   {
-    "name": "Sony Ps5 1TB Console - Brand New",
-    "url": "https://hotspotelectronics.co.nz/products/sony-ps5-1tb-console-brand-new",
-    "price": 1099.0,
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/ps53.webp?v=1794458395",
-    "site": "Hotspot Electronics",
-    "date_first_seen": "2026-11-12T05:00:10Z"
+    "name": "Lenovo ThinkPad X13 Yoga Gen-2 13.3-inch i5 11th Gen 16GB 256GB Windows 11 Pro Touch Screeen Laptop - Black (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/lenovo-thinkpad-x13-yoga-gen-2-13-3-inch-i5-11th-gen-16gb-256gb-windows-11-pro-touch-screeen-laptop-black-very-good-refurbished",
+    "price": 599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-ThinkPad-X13-Yoga-Gen-2-CT01152.jpg?v=1794470355",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-12T14:19:00Z"
+  },
+  {
+    "name": "Apple Mac Mini (2023) M2 Pro 10-Core CPU-16-Core GPU 16GB 512GB - Silver (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-mac-mini-2023-m2-pro-10-core-cpu-16-core-gpu-16gb-512gb-silver-good-refurbished",
+    "price": 1449.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Mac-Mini-_2023_-M2-Pro-10-Core-CT01142_7be82d77-d043-48b3-b44b-eaa632691b9a.jpg?v=1794469748",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-12T14:19:00Z"
+  },
+  {
+    "name": "Apple Mac Mini (2023) M2 Pro 10-Core CPU-16-Core GPU 16GB 512GB - Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-mac-mini-2023-m2-pro-10-core-cpu-16-core-gpu-16gb-512gb-silver-very-good-refurbished",
+    "price": 1499.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Mac-Mini-_2023_-M2-Pro-10-Core-CT01142.jpg?v=1794469595",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-12T14:19:00Z"
+  },
+  {
+    "name": "HP Elitebook 830 G8 13.3-inch i5 11th Gen 16GB 512GB Laptop - Silver (Very Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/hp-elitebook-830-g8-13-3-inch-i5-11th-gen-16gb-512gb-laptop-silver-very-good-refurbished",
+    "price": 799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/HP-EliteBook-830-G8-13-3-inch-i5-11th-Gen-CT02092_15fb5ddb-ce3a-41b8-86fc-7e07a6a5b4d7.jpg?v=1794467526",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-12T14:19:00Z"
+  },
+  {
+    "name": "Hoco TWS Bluetooth Earbuds 2-in-1 Design (EQ32) - White (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/hoco-tws-bluetooth-earbuds-2-in-1-design-eq32-white-brand-new",
+    "price": 39.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Hoco-TWS-Bluetooth-Earbuds-2-in-1-Design-_EQ32_-AU00398-2.jpg?v=1794460887",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-12T14:19:00Z"
   }
 ]
