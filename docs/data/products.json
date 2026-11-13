@@ -43106,7 +43106,7 @@
   "https://www.techcrazy.co.nz/products/ipad-pro-10-2-smart-flip-hard-rugged-case": {
     "name": "Smart Flip Hard Rugged Case For Apple iPad Pro 10.2  - Compatible with iPad 7th, 8th, Air 3 (Years 2017, 2019, 2020)",
     "url": "https://www.techcrazy.co.nz/products/ipad-pro-10-2-smart-flip-hard-rugged-case",
-    "price": 79.0,
+    "price": 49.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/iPad-Pro-10.2-Smart-Flip-Hard-Rugged-Case---Compatible-with-iPad-7th-CT-03079-1.jpg?v=1692335859",
     "site": "TechCrazy",
     "date_first_seen": "2026-06-06T05:35:30Z"
@@ -50570,7 +50570,7 @@
   "https://hotspotelectronics.co.nz/products/apple-ipad-11-inch-with-a16-chip-128gb-wifi-silver-brand-newom": {
     "name": "Apple iPad 11-inch with A16 Chip 128GB WiFi - Silver Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-ipad-11-inch-with-a16-chip-128gb-wifi-silver-brand-newom",
-    "price": 649.99,
+    "price": 719.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/452991-Product-0-I-638917033537876222.webp?v=1757307914",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-07-22T01:50:21Z"
@@ -63344,7 +63344,7 @@
     "date_first_seen": "2026-11-12T14:19:00Z"
   },
   "https://www.techcrazy.co.nz/products/lenovo-thinkpad-x13-yoga-gen-2-13-3-inch-i5-11th-gen-16gb-256gb-windows-11-pro-touch-screeen-laptop-black-very-good-refurbished": {
-    "name": "Lenovo ThinkPad X13 Yoga Gen-2 13.3-inch i5 11th Gen 16GB 256GB Windows 11 Pro Touch Screeen Laptop - Black (Very Good-Refurbished)",
+    "name": "Lenovo ThinkPad X13 Yoga Gen-2 13.3-inch i5 11th Gen 16GB 256GB Windows 11 Pro Touch Screen Laptop - Black (Very Good-Refurbished)",
     "url": "https://www.techcrazy.co.nz/products/lenovo-thinkpad-x13-yoga-gen-2-13-3-inch-i5-11th-gen-16gb-256gb-windows-11-pro-touch-screeen-laptop-black-very-good-refurbished",
     "price": 599.0,
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-ThinkPad-X13-Yoga-Gen-2-CT01152.jpg?v=1794470355",
@@ -63438,5 +63438,37 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Oppo-Reno-10-Pro-12GB-256GB-5G-MP00547.jpg?v=1794498850",
     "site": "TechCrazy",
     "date_first_seen": "2026-11-12T22:59:31Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-a27-2026-6gb-128gb-5g-dual-smartphone-blue-brand-new": {
+    "name": "Samsung Galaxy A27 (2026) 6GB 128GB 5G Dual Smartphone - Blue (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a27-2026-6gb-128gb-5g-dual-smartphone-blue-brand-new",
+    "price": 599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A27-_2026_-6GB-128GB-MP00635.jpg?v=1794536142",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-13T04:15:39Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-a27-2026-6gb-128gb-5g-dual-smartphone-light-pink-brand-new": {
+    "name": "Samsung Galaxy A27 (2026) 6GB 128GB 5G Dual Smartphone - Light Pink (Brand New)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a27-2026-6gb-128gb-5g-dual-smartphone-light-pink-brand-new",
+    "price": 599.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A27-_2026_-6GB-128GB-MP00636.jpg?v=1794535695",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-13T04:15:39Z"
+  },
+  "https://www.techcrazy.co.nz/products/apple-iphone-15-128gb-5g-blue-acceptable-refurbished": {
+    "name": "Apple iPhone 15 128GB 5G - Blue (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-iphone-15-128gb-5g-blue-acceptable-refurbished",
+    "price": 899.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPhone-15-128GB-Blue-MP-00052_fe4f9975-246b-468b-b610-47d86c0805ec.jpg?v=1794529464",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-13T04:15:39Z"
+  },
+  "https://www.techcrazy.co.nz/products/360-degree-rotating-ring-stand-case-for-iphone-duo-black": {
+    "name": "360 Degree Rotating Ring Stand Case For iPhone Duo - Black",
+    "url": "https://www.techcrazy.co.nz/products/360-degree-rotating-ring-stand-case-for-iphone-duo-black",
+    "price": 39.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/360-Degree-Rotating-Ring-Stand-Case-For-iPhone-Duo-MBA01213.jpg?v=1794529493",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-13T04:15:39Z"
   }
 }
