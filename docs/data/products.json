@@ -63494,5 +63494,61 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/a.jpg?v=1698287596",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-11-13T23:02:57Z"
+  },
+  "https://hotspotelectronics.co.nz/products/kenwood-kmm-bt408-dual-bluetooth-head-unit": {
+    "name": "Kenwood KMM-BT408 Dual Bluetooth Head Unit",
+    "url": "https://hotspotelectronics.co.nz/products/kenwood-kmm-bt408-dual-bluetooth-head-unit",
+    "price": 169.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/kenwoodkmm-bt408sing_l2jicclv.a4l.jpg?v=1794614806",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-11-14T04:11:55Z"
+  },
+  "https://hotspotelectronics.co.nz/products/jvc-cw-dr124-12-subwoofer-1800w": {
+    "name": "JVC CW-DR124 12\" Subwoofer – 1800W",
+    "url": "https://hotspotelectronics.co.nz/products/jvc-cw-dr124-12-subwoofer-1800w",
+    "price": 119.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/SCA_637474_hi-res.jpg?v=1794616100",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-11-14T04:11:55Z"
+  },
+  "https://hotspotelectronics.co.nz/products/kenwood-kfc-ps1097-performance-series-4-speakers-240w": {
+    "name": "Kenwood KFC-PS1097 Performance Series 4\" Speakers – 240W",
+    "url": "https://hotspotelectronics.co.nz/products/kenwood-kfc-ps1097-performance-series-4-speakers-240w",
+    "price": 99.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/kfc-ps1097_4p1wb3rl.5te.png?v=1794615326",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-11-14T04:11:55Z"
+  },
+  "https://hotspotelectronics.co.nz/products/kenwood-dpx-m3300bt-double-din-bluetooth-head-unit": {
+    "name": "Kenwood DPX-M3300BT Double DIN Bluetooth Head Unit",
+    "url": "https://hotspotelectronics.co.nz/products/kenwood-dpx-m3300bt-double-din-bluetooth-head-unit",
+    "price": 209.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/imageproduct02big_bqajc31n.c2w.png?v=1794615078",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-11-14T04:11:55Z"
+  },
+  "https://hotspotelectronics.co.nz/products/eds-4-gauge-amplifier-kit": {
+    "name": "EDS 4 GAUGE AMPLIFIER KIT",
+    "url": "https://hotspotelectronics.co.nz/products/eds-4-gauge-amplifier-kit",
+    "price": 39.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/d2ak4_3hpskusr.ya1.jpg?v=1794613997",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-11-14T04:11:55Z"
+  },
+  "https://hotspotelectronics.co.nz/products/nakamichi-sp-t13-13mm-100w-tweeters-pair-with-crossover": {
+    "name": "Nakamichi Sp-T13 13Mm 100W Tweeters Pair With Crossover",
+    "url": "https://hotspotelectronics.co.nz/products/nakamichi-sp-t13-13mm-100w-tweeters-pair-with-crossover",
+    "price": 39.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/naka13mmtweet_y1ymftta.txm.png?v=1794613648",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-11-14T04:11:55Z"
+  },
+  "https://hotspotelectronics.co.nz/products/nakamichi-car-nq711b-stereo-headunit-bluetooth-mechless": {
+    "name": "NAKAMICHI CAR NQ711B STEREO HEADUNIT BLUETOOTH MECHLESS",
+    "url": "https://hotspotelectronics.co.nz/products/nakamichi-car-nq711b-stereo-headunit-bluetooth-mechless",
+    "price": 69.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/scanz637465-00hi-res_wzx5eoop.5lv.jpg?v=1794612853",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-11-14T04:11:55Z"
   }
 }
