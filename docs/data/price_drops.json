@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "name": "Apple iPad 6th Gen (2018) 9.7-inch 128GB Wifi - Space Grey (Very Good - Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-6-gen-2018-9-7-inch-128gb-wifi-cellular-3g-4g-very-good-reconditioned-by-techcrazy",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple_20iPad_206_2032gb_20WiFi_20_20Cellular_203G4G_20CT_2000753_026efea6-95cb-4282-88e4-68300d0f0b4d.jpg?v=1727254267",
+    "site": "TechCrazy",
+    "old_price": 399.0,
+    "new_price": 269.0,
+    "saving": 130.0,
+    "saving_pct": 32.6,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-11-17T15:13:52Z"
+  },
+  {
+    "name": "Apple iPad 6th Gen (2018) 9.7-inch 128GB Wifi - Space Grey (Good - Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-6-gen-2018-9-7-inch-128gb-wifi-cellular-3g-4g-good-reconditioned-by-techcrazy",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple_20iPad_206_2032gb_20WiFi_20_20Cellular_203G4G_20CT_2000753_8bd51ccb-cebd-498e-8458-e4c0dcf07d2b.jpg?v=1727254259",
+    "site": "TechCrazy",
+    "old_price": 399.0,
+    "new_price": 239.0,
+    "saving": 160.0,
+    "saving_pct": 40.1,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-11-17T15:13:52Z"
+  },
+  {
+    "name": "Apple iPad 9th Gen (2021) 10.2-inch 256GB Wifi + Cellular 4G - Space Grey (Very Good Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-9th-gen-2021-10-2-inch-256gb-wifi-cellular-4g-very-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-9th-Gen-_2021_-CT-03163_8523034f-851b-45d6-871f-f64d94100876.jpg?v=1727101781",
+    "site": "TechCrazy",
+    "old_price": 699.0,
+    "new_price": 479.0,
+    "saving": 220.0,
+    "saving_pct": 31.5,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-11-17T15:13:52Z"
+  },
+  {
+    "name": "Apple iPad 8th Gen (2020) 10.2-inch 128GB Wifi + Cellular 4G -Space Grey (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-8-2020-10-2-inch-128gb-wifi-cellular-4g-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-8-_2021_-128GB-Wifi-_-Cellular-4G-CT-03195_48d96a7e-68fc-44be-bb05-641879fe7f50.jpg?v=1724628614",
+    "site": "TechCrazy",
+    "old_price": 369.0,
+    "new_price": 329.0,
+    "saving": 40.0,
+    "saving_pct": 10.8,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-11-17T15:13:52Z"
+  },
+  {
+    "name": "Apple iPad 7th Gen (2019) 10.2-inch 128GB Wifi Only - Space Grey (Very Good Pre-Owned)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-7th-gen-128gb-space-gray",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-7th-Gen-32GB-Space-Grey-CT-00675_a931cbc8-e3c7-4113-869b-d4850b51c030.jpg?v=1778545699",
+    "site": "TechCrazy",
+    "old_price": 349.0,
+    "new_price": 299.0,
+    "saving": 50.0,
+    "saving_pct": 14.3,
+    "date_first_seen": "2026-06-06T05:35:30Z",
+    "detected_at": "2026-11-17T15:13:52Z"
+  }
+]
