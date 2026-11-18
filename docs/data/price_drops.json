@@ -1,26 +1,50 @@
 [
   {
-    "name": "Apple iPhone 13 128GB Pink  Excellent",
-    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-pink-excellent",
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-13-128GB-Pink-Excellent.jpg?v=1739003014",
+    "name": "Samsung Galaxy S24 Ultra Titanium Black  256GB Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s24-ultra-titanium-black-256gb-excellent-1",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/3905_1.jpg?v=1758072396",
     "site": "Hotspot Electronics",
-    "old_price": 599.99,
-    "new_price": 579.99,
-    "saving": 20.0,
-    "saving_pct": 3.3,
-    "date_first_seen": "2026-08-03T09:25:09Z",
-    "detected_at": "2026-11-18T00:14:53Z"
+    "old_price": 1149.99,
+    "new_price": 1099.99,
+    "saving": 50.0,
+    "saving_pct": 4.3,
+    "date_first_seen": "2026-08-20T06:29:05Z",
+    "detected_at": "2026-11-18T14:50:45Z"
   },
   {
-    "name": "Apple iPhone 13 128GB Red Excellent",
-    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-red-excellent",
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-13-128GB-Red-Excellent_4b04e2bc-3d69-4a6d-bdb7-813144f0695c.webp?v=1748001237",
+    "name": "Apple MacBook Neo 13-inch with A18 Pro Chip 8GB/256GB  Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-macbook-neo-13-inch-with-a18-pro-chip-8gb-256gb-excellent-1",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/NBKAPP1318025613__1.jpg?v=1788299588",
     "site": "Hotspot Electronics",
-    "old_price": 599.99,
-    "new_price": 579.99,
-    "saving": 20.0,
-    "saving_pct": 3.3,
-    "date_first_seen": "2026-09-07T02:01:39Z",
-    "detected_at": "2026-11-18T00:14:53Z"
+    "old_price": 1189.99,
+    "new_price": 1149.99,
+    "saving": 40.0,
+    "saving_pct": 3.4,
+    "date_first_seen": "2026-09-02T02:06:17Z",
+    "detected_at": "2026-11-18T14:50:45Z"
+  },
+  {
+    "name": "Apple MacBook Neo 13-inch with A18 Pro Chip 8GB/256GB Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-macbook-neo-13-inch-with-a18-pro-chip-8gb-256gb-excellent-2",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/N249671_0.webp?v=1788299040",
+    "site": "Hotspot Electronics",
+    "old_price": 1189.99,
+    "new_price": 1149.99,
+    "saving": 40.0,
+    "saving_pct": 3.4,
+    "date_first_seen": "2026-10-30T11:53:53Z",
+    "detected_at": "2026-11-18T14:50:45Z"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra Titanium Violet  256GB Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-s24-ultra-titanium-violet-256gb-excellent",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/VLT-image-0.webp?v=1744344047",
+    "site": "Hotspot Electronics",
+    "old_price": 1149.99,
+    "new_price": 1099.99,
+    "saving": 50.0,
+    "saving_pct": 4.3,
+    "date_first_seen": "2026-07-06T14:04:33Z",
+    "detected_at": "2026-11-18T14:50:45Z"
   }
 ]
