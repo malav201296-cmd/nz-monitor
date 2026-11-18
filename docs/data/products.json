@@ -55650,7 +55650,7 @@
   "https://hotspotelectronics.co.nz/products/apple-ipad-6-32gb-wi-fi-silver-excellent": {
     "name": "IPad 6 32GB Wi-Fi silver Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-ipad-6-32gb-wi-fi-silver-excellent",
-    "price": 189.99,
+    "price": 199.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/image_3_8491b693-a8a8-4f6a-bb17-17acf30747a1.webp?v=1687481653",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-02T08:07:09Z"
@@ -55698,7 +55698,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-pink-excellent": {
     "name": "Apple iPhone 13 128GB Pink  Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-pink-excellent",
-    "price": 599.99,
+    "price": 579.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-13-128GB-Pink-Excellent.jpg?v=1739003014",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-03T09:25:09Z"
@@ -58874,7 +58874,7 @@
   "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-red-excellent": {
     "name": "Apple iPhone 13 128GB Red Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-128gb-red-excellent",
-    "price": 599.99,
+    "price": 579.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-13-128GB-Red-Excellent_4b04e2bc-3d69-4a6d-bdb7-813144f0695c.webp?v=1748001237",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-09-07T02:01:39Z"
@@ -63894,5 +63894,61 @@
     "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Dell-Latitude-5420-14-inch-i5-11th-Gen-CT00538_e9b24e56-2fd4-4959-bc96-f90cddc6e4fd.jpg?v=1794881218",
     "site": "TechCrazy",
     "date_first_seen": "2026-11-17T15:13:52Z"
+  },
+  "https://www.techcrazy.co.nz/products/lenovo-thinkpad-x13-yoga-gen-2-13-3-inch-i5-11th-gen-16gb-256gb-windows-11-pro-touch-screen-laptop-black-very-good-refurbished-laptop-bag-keyboard-mouse-set-gm17-bundle": {
+    "name": "Lenovo ThinkPad X13 Yoga Gen-2 13.3-inch i5 11th Gen 16GB 256GB Windows 11 Pro Touch Screen Laptop - Black (Very Good-Refurbished) + Laptop Bag + Keyboard + Mouse Set (GM17) (Bundle)",
+    "url": "https://www.techcrazy.co.nz/products/lenovo-thinkpad-x13-yoga-gen-2-13-3-inch-i5-11th-gen-16gb-256gb-windows-11-pro-touch-screen-laptop-black-very-good-refurbished-laptop-bag-keyboard-mouse-set-gm17-bundle",
+    "price": 667.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Lenovo-ThinkPad-X13-Yoga-Gen-2-BDL00080.jpg?v=1794932557",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-18T00:14:53Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a7-2020-10-4-inch-3gb-32gb-wifi-only-silver-brand-new-kids-smart-watch-y107-bundle": {
+    "name": "Samsung Galaxy Tab A7 (2020) 10.4-inch 3GB  32GB WiFi Only - Silver (Brand New) + Kids Smart Watch Y107 (Bundle)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a7-2020-10-4-inch-3gb-32gb-wifi-only-silver-brand-new-kids-smart-watch-y107-bundle",
+    "price": 313.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-A7-_2020_-_-Kids-Smart-Watch-Y107-_Bundle_-BDL00079.jpg?v=1794931176",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-18T00:14:53Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a11-2025-8-7-inch-4gb-64gb-cellular-4g-gray-brand-new-case-tempered-glass-bundle": {
+    "name": "Samsung Galaxy Tab A11 (2025) 8.7-inch 4GB 64GB Cellular 4G - Gray (Brand New) + Case + Tempered Glass (Bundle)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a11-2025-8-7-inch-4gb-64gb-cellular-4g-gray-brand-new-case-tempered-glass-bundle",
+    "price": 397.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-A11_-Case-_-Tempered-Glass-BDL00078.jpg?v=1794930926",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-18T00:14:53Z"
+  },
+  "https://www.techcrazy.co.nz/products/tcl-40-nxtpaper-8gb-256gb-4g-smart-phone-midnight-blue-brand-new-smart-watch-y42-2-straps-bundle": {
+    "name": "TCL 40 Nxtpaper 8GB 256GB 4G Smart Phone - Midnight Blue (Brand New) + Smart Watch (Y42) 2 Straps (Bundle)",
+    "url": "https://www.techcrazy.co.nz/products/tcl-40-nxtpaper-8gb-256gb-4g-smart-phone-midnight-blue-brand-new-smart-watch-y42-2-straps-bundle",
+    "price": 321.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/TCL-40-Nxtpaper-8GB-256GB--_-Smart-Watch-_Y42_-2-Straps-BDL00077.jpg?v=1794930633",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-18T00:14:53Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-a27-2026-6gb-128gb-5g-dual-smartphone-blue-brand-new-smart-watch-y42-ultra-2-straps-bluetooth-headset-w55-plus-bundle": {
+    "name": "Samsung Galaxy A27 (2026) 6GB 128GB 5G Dual Smartphone - Blue (Brand New) + Smart Watch (Y42 Ultra) 2 Straps + Bluetooth Headset (W55 Plus) (Bundle)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-a27-2026-6gb-128gb-5g-dual-smartphone-blue-brand-new-smart-watch-y42-ultra-2-straps-bluetooth-headset-w55-plus-bundle",
+    "price": 730.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-A27-_2026_-_-Smart-Watch-_Y42-Ultra_-2-Straps-_-Bluetooth-Headset-_W55-Plus_-BDL00076.jpg?v=1794930205",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-18T00:14:53Z"
+  },
+  "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a11-4gb-64gb-wifi-only-silver-brand-new-case-tempered-glass-kids-smart-watch-y107-bundle": {
+    "name": "Samsung Galaxy Tab A11 4GB 64GB Wifi Only - Silver (Brand New) + Case + Tempered Glass + Kids Smart Watch Y107 (Bundle)",
+    "url": "https://www.techcrazy.co.nz/products/samsung-galaxy-tab-a11-4gb-64gb-wifi-only-silver-brand-new-case-tempered-glass-kids-smart-watch-y107-bundle",
+    "price": 455.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Samsung-Galaxy-Tab-A11-_-Case-_-Tempered-Glass-_-Kids-Smart-Watch-Y107-BDL00075.jpg?v=1794929395",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-18T00:14:53Z"
+  },
+  "https://www.techcrazy.co.nz/products/acer-chromebook-c734-11-6-inch-intel-celeron-n4500-4gb-32gb-1-10ghz-black-acceptable-refurbished-laptop-bag-wireless-mouse-gm14-bundle": {
+    "name": "Acer Chromebook C734 11.6-inch Intel Celeron N4500 4GB 32GB @1.10GHz - Black (Acceptable-Refurbished) + Laptop Bag + Wireless Mouse GM14 (Bundle)",
+    "url": "https://www.techcrazy.co.nz/products/acer-chromebook-c734-11-6-inch-intel-celeron-n4500-4gb-32gb-1-10ghz-black-acceptable-refurbished-laptop-bag-wireless-mouse-gm14-bundle",
+    "price": 243.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Acer-Chromebook-C734-_-Laptop-Bag-_-Wireless-Mouse-GM14-BDL00074.jpg?v=1794928750",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-18T00:14:53Z"
   }
 }
