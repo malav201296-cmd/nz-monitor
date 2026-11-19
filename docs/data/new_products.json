@@ -1,10 +1,90 @@
 [
   {
-    "name": "Apple iPad Air 3 64GB Wifi Only - Space Gray (Acceptable-Refurbished)",
-    "url": "https://www.techcrazy.co.nz/products/apple-ipad-air-3-64gb-wifi-only-space-gray-acceptable-refurbished",
-    "price": 344.0,
-    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Air-3-64GB-Wifi-Only-CT00563.jpg?v=1795049484",
+    "name": "Apple Macbook Air (2017) 13.3-inch i5 8GB 256GB @1.80GHz - Silver (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2017-13-3-inch-i5-8gb-256gb-1-80ghz-silver-acceptable-refurbished",
+    "price": 549.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-MacBook-Air-13-i5-8GB-256GB-CT-03173_a68a55e9-1e78-4ef6-a6f7-93605dbefa51.jpg?v=1795075359",
     "site": "TechCrazy",
-    "date_first_seen": "2026-11-19T05:10:58Z"
+    "date_first_seen": "2026-11-19T14:56:58Z"
+  },
+  {
+    "name": "Apple Macbook Air (2019) 13.3-inch i5 8GB 128GB @1.60GHz - Space Gray (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2019-13-3-inch-i5-8gb-128gb-1-60ghz-space-gray-good-refurbished",
+    "price": 629.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Air-_2019_-CT-01395_7c857371-cf32-4f32-a476-afecc87895fa.jpg?v=1795074745",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-19T14:56:58Z"
+  },
+  {
+    "name": "Apple Macbook Air (2019) 13.3-inch i5 8GB 128GB @1.60GHz - Space Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-air-2019-13-3-inch-i5-8gb-128gb-1-60ghz-space-gray-acceptable-refurbished",
+    "price": 592.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Air-_2019_-CT-01395.jpg?v=1795074451",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-19T14:56:58Z"
+  },
+  {
+    "name": "Apple iPad Air 5 (2022) 10.9-inch 64GB Wifi Only - Space Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-air-5-2022-10-9-inch-64gb-wifi-only-space-gray-acceptable-refurbished",
+    "price": 568.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Air-5-_2022_-10.9-inch-64GB-Wifi-_-Cellular-CT-00052_909f0718-36d5-4d6b-bd38-5736a20e4f50.jpg?v=1795073530",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-19T14:56:58Z"
+  },
+  {
+    "name": "Apple iPad 8th Gen (2020) 10.2-inch 128GB Wifi + Cellular - Space Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-8th-gen-2020-10-2-inch-128gb-wifi-cellular-space-gray-acceptable-refurbished",
+    "price": 299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-8-_2021_-128GB-Wifi-_-Cellular-4G-CT-03195_dd6f1017-44b9-42c9-946f-14a9b0285f7d.jpg?v=1795072951",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-19T14:56:58Z"
+  },
+  {
+    "name": "Apple iPad Air 3rd Gen (2019) 10.5-inch 64GB Wifi + Cellular - Space Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-air-3rd-gen-2019-10-5-inch-64gb-wifi-cellular-space-gray-acceptable-refurbished",
+    "price": 344.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Air-3-10.5-inch-64GB-Wifi-_-Cellular-CT-00817_7511b4b1-f4be-4a0a-86b1-1547a3101a81.jpg?v=1795072507",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-19T14:56:58Z"
+  },
+  {
+    "name": "Apple iPad Pro Gen 1 (2017) 10.5-inch 64GB WiFi Only - Space Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-pro-gen-1-2017-10-5-inch-64gb-wifi-only-space-gray-acceptable-refurbished",
+    "price": 299.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-1-_2017_-CT-03016_1caa6fe5-1378-44c8-bc75-cddd6fa83ab5.jpg?v=1795066676",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-19T14:56:58Z"
+  },
+  {
+    "name": "Apple iPad Pro 2nd Gen 12.9-inch 64GB Wifi Only - Space Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-pro-2nd-gen-12-9-inch-64gb-wifi-only-space-gray-acceptable-refurbished",
+    "price": 344.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-2nd-Gen-CT03384-0_3e74d0c0-3795-4742-8601-dc10037b56a3.jpg?v=1795066490",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-19T14:56:58Z"
+  },
+  {
+    "name": "Apple iPad Pro 2nd Gen 12.9-inch 512GB Wifi + Cellular - Space Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-pro-2nd-gen-12-9-inch-512gb-wifi-cellular-space-gray-acceptable-refurbished",
+    "price": 399.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-2nd-Gen-CT03384-0_9ecd9454-16d1-4c66-b489-c37738e56fa9.jpg?v=1795066337",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-19T14:56:58Z"
+  },
+  {
+    "name": "Apple iPad Pro (2015) 12.9-inch 32GB Wifi Only - Space Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-pro-2015-12-9-inch-32gb-wifi-only-space-gray-acceptable-refurbished",
+    "price": 199.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-_2015_-12-9-inch-CT03288.jpg?v=1795066140",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-19T14:56:58Z"
+  },
+  {
+    "name": "Apple iPad Pro Gen 1 (2017) 10.5-inch 64GB WiFi + Cellular - Space Gray (Acceptable-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-ipad-pro-gen-1-2017-10-5-inch-64gb-wifi-cellular-space-gray-acceptable-refurbished",
+    "price": 322.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-iPad-Pro-1-_2017_-CT-03016_47c42efb-482b-4081-a4b0-512cafab9c22.jpg?v=1795065394",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-19T14:56:58Z"
   }
 ]
