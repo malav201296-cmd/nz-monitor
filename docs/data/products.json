@@ -54304,9 +54304,9 @@
     "date_first_seen": "2026-08-02T01:55:26Z"
   },
   "https://hotspotelectronics.co.nz/products/apple-iphone-12-pro-128gb-graphite-excellent": {
-    "name": "Apple iPhone 12 Pro 128GB Graphite  Excellent (BATTERY 100%)",
+    "name": "Apple iPhone 12 Pro 128GB Graphite  Excellent",
     "url": "https://hotspotelectronics.co.nz/products/apple-iphone-12-pro-128gb-graphite-excellent",
-    "price": 699.99,
+    "price": 589.99,
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple-iPhone-12-Pro-128GB-Graphite-Excellent-_BATTERY-100.webp?v=1736963238",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-08-02T01:55:26Z"
@@ -64182,5 +64182,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/image_5_98a0b58b-770e-4a50-8972-40503c32d752.webp?v=1688890227",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-11-20T14:38:44Z"
+  },
+  "https://hotspotelectronics.co.nz/products/acer-chromebook-n18q5-4gb-ram-32gb-emmc-ssd-excellent": {
+    "name": "Acer Chromebook N18Q5 4GB RAM  32GB eMMC SSD Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/acer-chromebook-n18q5-4gb-ram-32gb-emmc-ssd-excellent",
+    "price": 149.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/PhotoRoom-20230315_175431_1_png.jpg?v=1783056905",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-11-20T23:30:03Z"
   }
 }
