@@ -2434,7 +2434,7 @@
   "https://hotspotelectronics.co.nz/products/screen-repair": {
     "name": "Repair",
     "url": "https://hotspotelectronics.co.nz/products/screen-repair",
-    "price": 400.0,
+    "price": 240.0,
     "image": "",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-06-06T05:24:57Z"
@@ -64190,5 +64190,21 @@
     "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/PhotoRoom-20230315_175431_1_png.jpg?v=1783056905",
     "site": "Hotspot Electronics",
     "date_first_seen": "2026-11-20T23:30:03Z"
+  },
+  "https://hotspotelectronics.co.nz/products/ps5-digital-edition-console-825gb-brand-new": {
+    "name": "PS5 Digital Edition Console 825GB Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/ps5-digital-edition-console-825gb-brand-new",
+    "price": 1149.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/shopping_5_2a1bc410-578e-4502-8b5a-895ca903177c.webp?v=1795230696",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-11-21T04:54:04Z"
+  },
+  "https://www.techcrazy.co.nz/products/zeroflex-pro-w6-5-6-5-inch-midrange-speakers-200rms-each-4-speakers-black-brand-new-custom-box-bundle": {
+    "name": "Zeroflex PRO-W6.5 - 6.5-inch Midrange Speakers 200RMS Each (4 Speakers) - Black (Brand New) + Custom Box (Bundle)",
+    "url": "https://www.techcrazy.co.nz/products/zeroflex-pro-w6-5-6-5-inch-midrange-speakers-200rms-each-4-speakers-black-brand-new-custom-box-bundle",
+    "price": 799.0,
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Zeroflex-PRO-W6-5---6-5-inch-Midrange-Speakers-CA00745-2.jpg?v=1795226863",
+    "site": "TechCrazy",
+    "date_first_seen": "2026-11-21T04:54:04Z"
   }
 }
