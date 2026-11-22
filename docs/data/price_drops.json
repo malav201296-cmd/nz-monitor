@@ -1,14 +1,26 @@
 [
   {
-    "name": "PS5 Digital Edition Console 825GB Brand New",
-    "url": "https://hotspotelectronics.co.nz/products/ps5-digital-edition-console-825gb-brand-new",
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/shopping_5_2a1bc410-578e-4502-8b5a-895ca903177c.webp?v=1795230696",
+    "name": "Samsung Galaxy A17 128GB Black Dual Sim (Brand New)",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-a17-128gb-black-dual-sim-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/N245467_09.webp?v=1764034662",
     "site": "Hotspot Electronics",
-    "old_price": 1250.0,
-    "new_price": 1199.99,
-    "saving": 50.01,
-    "saving_pct": 4.0,
-    "date_first_seen": "2026-11-21T04:54:04Z",
-    "detected_at": "2026-11-22T13:48:49Z"
+    "old_price": 279.99,
+    "new_price": 249.99,
+    "saving": 30.0,
+    "saving_pct": 10.7,
+    "date_first_seen": "2026-08-02T01:55:26Z",
+    "detected_at": "2026-11-22T22:59:37Z"
+  },
+  {
+    "name": "Samsung Galaxy A17 128GB Blue Dual Sim (Brand New)",
+    "url": "https://hotspotelectronics.co.nz/products/samsung-galaxy-a17-128gb-blue-dual-sim-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/N246698_01.webp?v=1764034865",
+    "site": "Hotspot Electronics",
+    "old_price": 279.99,
+    "new_price": 249.99,
+    "saving": 30.0,
+    "saving_pct": 10.7,
+    "date_first_seen": "2026-08-02T01:55:26Z",
+    "detected_at": "2026-11-22T22:59:37Z"
   }
 ]
