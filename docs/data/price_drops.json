@@ -1,14 +1,26 @@
 [
   {
-    "name": "JBL Partybox Club 120 Portable Wireless Party Speaker (Brand New)",
-    "url": "https://hotspotelectronics.co.nz/products/jbl-partybox-club-120-portable-wireless-party-speaker-brand-new",
-    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/SPKJBL6324664__3.jpg?v=1791322479",
+    "name": "PS5 Digital Edition Console 825GB Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/ps5-digital-edition-console-825gb-brand-new",
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/shopping_5_2a1bc410-578e-4502-8b5a-895ca903177c.webp?v=1795230696",
     "site": "Hotspot Electronics",
-    "old_price": 439.99,
-    "new_price": 429.99,
-    "saving": 10.0,
-    "saving_pct": 2.3,
-    "date_first_seen": "2026-10-06T22:02:54Z",
-    "detected_at": "2026-11-24T03:38:43Z"
+    "old_price": 1299.99,
+    "new_price": 1199.99,
+    "saving": 100.0,
+    "saving_pct": 7.7,
+    "date_first_seen": "2026-11-21T04:54:04Z",
+    "detected_at": "2026-11-24T16:44:19Z"
+  },
+  {
+    "name": "Apple Macbook Pro (2021) 14-inch M1 Pro Chip CPU-10 Core / GPU-16 Core 16GB 1TB - Space Grey (Good-Refurbished)",
+    "url": "https://www.techcrazy.co.nz/products/apple-macbook-pro-2021-14-inch-m1-pro-chip-cpu-10-core-gpu-16-core-16gb-1tb-space-grey-good-pre-owned",
+    "image": "https://cdn.shopify.com/s/files/1/0738/7879/8627/files/Apple-Macbook-Pro-_2021_-M1-Pro-Chip-14-inch-CT-02079_332dc092-2b7b-491a-903b-ff110bf19ce7.jpg?v=1774585146",
+    "site": "TechCrazy",
+    "old_price": 1999.0,
+    "new_price": 1799.0,
+    "saving": 200.0,
+    "saving_pct": 10.0,
+    "date_first_seen": "2026-06-06T05:24:57Z",
+    "detected_at": "2026-11-24T16:44:19Z"
   }
 ]
