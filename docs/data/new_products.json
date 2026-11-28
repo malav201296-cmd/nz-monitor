@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "name": "Apple iPhone 13 Pro 128GB Sierra Blue Excellent",
+    "url": "https://hotspotelectronics.co.nz/products/apple-iphone-13-pro-128gb-sierra-blue-excellent-1",
+    "price": 749.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/Apple_iPhone_13_Pro_Max_256GB_Sierra_Blue_Excellent_2d5a7cea-4bd3-4465-a26d-c759b42a0ed2.webp?v=1739016443",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-11-28T00:52:35Z"
+  },
+  {
+    "name": "Apple AirPods 5th Generation Brand New",
+    "url": "https://hotspotelectronics.co.nz/products/apple-airpods-5th-generation-brand-new",
+    "price": 249.99,
+    "image": "https://cdn.shopify.com/s/files/1/0622/9711/2822/files/HSTAPP6331745__2.jpg?v=1736470459",
+    "site": "Hotspot Electronics",
+    "date_first_seen": "2026-11-28T00:52:35Z"
+  }
+]
